@@ -55,3 +55,35 @@ horrible - very unpleasant or bad
 frightened - feeling fear or worry
 
 general - involving or relating to most or all people, things, or places, especially when these are considered as a unit
+
+provide - to give someone something that they need
+
+firm - not soft but not completely hard
+
+through - from one end or side of something to the other
+
+effort - physical or mental activity needed to achieve something
+
+contain - to have something inside or include something as a part
+
+occasion - a particular time, especially when something happens or has happened
+
+continuously - without a pause or interruption
+
+interruption - an occasion when someone or something stops something from happening for a short period
+
+roast - to cook food in an oven or over a fire
+
+although - despite the fact that, but
+
+besides - in addition to, also
+
+awkward - difficult to use, do, or deal with
+
+fairly - more than average, but less than very
+
+prefer not to - We use the phrase prefer not to when discussing things we do not like doing, but we still do sometimes.
+1. I prefer not to work on Saturday.
+2. She prefers not to work outside.
+
+as long as - if
