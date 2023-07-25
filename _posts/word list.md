@@ -87,3 +87,13 @@ prefer not to - We use the phrase prefer not to when discussing things we do not
 2. She prefers not to work outside.
 
 as long as - if
+
+find (something) out - to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time
+
+apart from that - apart from that just means other than that
+
+regret - a feeling of sadness about something sad or wrong or about a mistake that you have made, and a wish that it could have been different and better
+
+harm - physical or other injury or damage
+
+get on it - When you say you will get on it, that means you will take care of something soon
