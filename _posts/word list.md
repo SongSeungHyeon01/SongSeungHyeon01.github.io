@@ -82,6 +82,10 @@ awkward - difficult to use, do, or deal with
 
 fairly - more than average, but less than very
 
+mainly - usually or to a large degree
+
+degree - (an) amount or level of something
+
 prefer not to - We use the phrase prefer not to when discussing things we do not like doing, but we still do sometimes.
 1. I prefer not to work on Saturday.
 2. She prefers not to work outside.
@@ -93,6 +97,37 @@ find (something) out - to get information about something because you want to kn
 apart from that - apart from that just means other than that
 
 regret - a feeling of sadness about something sad or wrong or about a mistake that you have made, and a wish that it could have been different and better
+
+harm - physical or other injury or damage
+
+get on it - When you say you will get on it, that means you will take care of something soon
+
+directions - instructions that you give to someone about how to find a particular place
+
+instructions - information about how to do, make, or use something
+
+that works - the phrase 'that works' means there should no problem doing something
+
+a couple - A couple just means two items
+1. I bought a couple shirts
+2.I ate a couple pieces of pizza.
+
+whatever you want - whatever you want means, anything you like, or as you like
+
+anything you like - anything you like means whatever you want or as you like
+
+check it out - When you check something out, you take notice of it, or look at it with interest
+
+trekking - the activity of walking long distances on foot for pleasure
+
+moved on - move on means to travel or go to another place
+1. It is late. We better move on.
+2. After France, we moved on to Spain.
+
+quite an experience - We often say "quite an experience" to mean a very memorable time
+1. The party was quite an experience.
+2. My time in Europe was quite an experience.
+
 
 harm - physical or other injury or damage
 
