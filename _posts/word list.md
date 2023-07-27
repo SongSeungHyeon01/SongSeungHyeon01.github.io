@@ -128,7 +128,56 @@ quite an experience - We often say "quite an experience" to mean a very memorabl
 1. The party was quite an experience.
 2. My time in Europe was quite an experience.
 
+lively - full of energy and enthusiasm; interesting and exciting
 
-harm - physical or other injury or damage
+enthusiasm  - a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it
 
-get on it - When you say you will get on it, that means you will take care of something soon
+eager - having or showing desire or interest
+
+remind - to make someone think of something they have forgotten or might have forgotten
+
+scenery - the general appearance of the natural environment, especially when it is beautiful
+
+admire - to find someone or something attractive and pleasant to look at
+
+represent - to speak, act, or be present officially for another person or people
+
+in order to - as a means to; with the purpose of
+1. She worked summers in order to save money for college
+
+wheat - a plant whose yellowish-brown grain is used for making flour, or the grain itself:
+
+managed to something - When you manage to do something that means you are able to do it, even though you were not sure you could.
+
+even though, although - despite the fact that:
+
+proof - a fact or piece of information that shows that something exists or is true
+
+prevent - to stop something from happening or someone from doing something:
+
+cuisine - a style of cooking:
+
+attached - feeling close to emotionally, or loving:
+
+bunch - a number of things of the same type fastened together or in a close group:
+
+fasten - to (cause something to) become firmly fixed together, or in position, or closed: 
+
+firmly - in a way that will not become loose:
+
+embarrassed - feeling ashamed or shy:
+
+relative - being judged or measured in comparison with something else:
+
+relatively - in comparison with other similar things or with what you expect:
+
+comparison - the act of comparing two or more people or things:
+
+expect - to think or believe something will happen, or someone will arrive:
+
+invent - to design and/or create something that has never been made before:
+
+outsider - a person who is not involved with a particular group of people or organization or who does not live in a particular place:
+
+settled - If you feel settled in a job, school, etc., you have become familiar with it and are comfortable and happy there:
+
