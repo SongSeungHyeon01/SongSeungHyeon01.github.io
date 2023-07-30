@@ -22,7 +22,7 @@ gorgeous - very beautiful or pleasant
 
 pleasant - enjoyable, attractive, friendly, or easy to like
 
-attractive - very pleasing in appearance or sound / causing interest or pleasure
+attractive - (adjective) very pleasing in appearance or sound / causing interest or pleasure
 
 pleasing - giving a feeling of satisfaction or enjoyment
 
@@ -60,7 +60,7 @@ provide - to give someone something that they need
 
 firm - not soft but not completely hard
 
-through - from one end or side of something to the other
+through - from one end or side of something to the other; by; using:
 
 effort - physical or mental activity needed to achieve something
 
@@ -180,4 +180,44 @@ invent - to design and/or create something that has never been made before:
 outsider - a person who is not involved with a particular group of people or organization or who does not live in a particular place:
 
 settled - If you feel settled in a job, school, etc., you have become familiar with it and are comfortable and happy there:
+
+being - a person or thing that exists:
+
+* Do they make you do a lot of paperwork?
+
+* Do they let you teach anything you want?
+
+fellow - a member of some groups that you must have special training to join:
+
+caption - a short piece of text under a picture in a book or article that describes the picture or explains what the people in it are doing or saying:
+
+establish - to start a company or organization that will continue for a long time:
+
+formal - public or official:
+
+polite - behaving in a way that is socially correct and shows understanding of and care for other people's feelings:
+
+request - the act of politely or officially asking for something:
+
+residency - (noun) the fact of living in a place:
+
+harsh - (adjective) unpleasant, unkind, cruel, or more severe than is necessary:
+
+intend - (verb) to have as a plan or purpose:
+
+acquainted - (adjective) knowing or being familiar with a person:
+
+individually - (adverb) separately:
+
+separately - (adverb) not together:
+
+acclimate - (verb) to change to suit different conditions of life, weather, etc., or to make someone or something do this:
+
+institution - (noun) a large and important organization, such as a university or bank:
+
+* 40 hours a week.
+
+independent - (adjective) not influenced or controlled in any way by other people, events, or things:
+
+farther - (adverb) to a greater distance;
 
