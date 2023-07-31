@@ -1,10 +1,4 @@
-stunning - extremely beautiful or attractive
-
-permanently - always and for ever
-
-leisurely - used to describe an action that is done in a relaxed way, without hurrying
-
-incredible - impossible, or very difficult, to believe
+to believe
 
 obviously - in a way that is easy to understand or see
 
@@ -52,7 +46,7 @@ spectacular - very exciting to look at
 
 horrible - very unpleasant or bad
 
-frightened - feeling fear or worry
+frightened - (adjective) feeling fear or worry
 
 general - involving or relating to most or all people, things, or places, especially when these are considered as a unit
 
@@ -221,3 +215,34 @@ independent - (adjective) not influenced or controlled in any way by other peopl
 
 farther - (adverb) to a greater distance;
 
+used to - (modal verb) done or experienced in the past, but no longer done or experienced:
+
+done - (adjective) If something is done, or you are done with it, it is finished, or you have finished doing, using it, etc.:
+
+deal with someone - (phrasal verb) to talk to someone or meet someone, especially as part of your job:
+
+especially - (adverb) very much; more than usual or more than other people or things:
+1. She's not especially interested in sport.
+2. I love Australian wines, especially the white wines.
+
+highway - (noun) a public road, especially an important road that joins cities or towns together:
+
+satisfactory - (adjective) good or good enough for a particular need or purpose:
+
+no-no - (noun) something that is thought to be unsuitable or unacceptable:
+
+against - (preposition) disagreeing with a plan or activity:
+
+oppose - (verb) to disagree with something or someone, often by speaking or fighting against it, him, or her:
+
+compete - (verb) to try to be more successful than someone or something else:
+
+opposite - (adjective) completely different:
+
+regulated - (adjective) controlled by rules or laws:
+
+whatever - (pronoun, determiner) anything or everything:
+
+commercial - related to making money by buying and selling things:
+
+ingredient - (noun) one of the parts in a mixture:
