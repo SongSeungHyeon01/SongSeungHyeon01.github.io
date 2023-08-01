@@ -1,4 +1,10 @@
-to believe
+stunning - extremely beautiful or attractive
+
+permanently - always and for ever
+
+leisurely - used to describe an action that is done in a relaxed way, without hurrying
+
+incredible - impossible, or very difficult, to believe
 
 obviously - in a way that is easy to understand or see
 
@@ -233,6 +239,8 @@ no-no - (noun) something that is thought to be unsuitable or unacceptable:
 
 against - (preposition) disagreeing with a plan or activity:
 
+comment - (noun) something that you say or write that expresses your opinion:
+
 oppose - (verb) to disagree with something or someone, often by speaking or fighting against it, him, or her:
 
 compete - (verb) to try to be more successful than someone or something else:
@@ -243,6 +251,30 @@ regulated - (adjective) controlled by rules or laws:
 
 whatever - (pronoun, determiner) anything or everything:
 
-commercial - related to making money by buying and selling things:
+commercial - (adjective) related to making money by buying and selling things:
 
 ingredient - (noun) one of the parts in a mixture:
+
+dreaded - (adjective) causing fear or worry:
+
+worst - (noun) the most unpleasant or difficult thing, person, or situation:
+worst - (adjective) the most badly:
+
+embarrassing - (adjective) making you feel embarrassed:
+
+embarrassed - (adjective) feeling ashamed or shy:
+
+mind - (verb) (used in questions and negatives) to be annoyed or worried by something:
+
+peel - (verb) to remove the skin of fruit and vegetables:
+
+sour - (adjective) having a sharp, sometimes unpleasant, taste or smell, like a lemon, and not sweet:
+
+toxic - (adjective) poisonous: 
+
+clarify - (verb) to make something clear or easier to understand by giving more details or a simpler explanation:
+1. Could you clarify the first point please? I don't understand it completely.
+
+explanation - (noun) the details or reasons that someone gives to make something clear or easy to understand:
+1, Could you give me a quick explanation of how it works?
+2. What was her explanation for why she was late?
