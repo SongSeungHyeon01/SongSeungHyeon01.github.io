@@ -278,3 +278,58 @@ clarify - (verb) to make something clear or easier to understand by giving more 
 explanation - (noun) the details or reasons that someone gives to make something clear or easy to understand:
 1, Could you give me a quick explanation of how it works?
 2. What was her explanation for why she was late?
+
+disappointed - (adjective) unhappy because someone or something was not as good as you hoped or expected, or because something did not happen:
+
+Look forward to - Look forward to something means to be pleased or excited that it is going to happen. The ‘to’ in look forward to is a preposition, so we must follow it by a noun phrase or a verb in the -ing form:
+
+escape - (verb) to get free from something, or to avoid something:
+
+literature - (noun) all the information written about a subject:
+1. The medical literature is full of examples of accidental discoveries that led to important advances in science.
+
+unless - (conjunction) used to say what will or will not happen if something else does not happen or is not true; except if:
+
+figure something/someone out - (phrasal verb) to finally understand something or someone, or find the solution to a problem after a lot of thought:
+1. I can't figure out why he did it.
+2. I find him really odd - I can't figure him out at all.
+3. Can you figure out the answer to question 5?
+
+nearly - (adverb) almost, or not completely:
+
+I've kind of got a crush on her - A crush is a very strong temporary feeling of liking someone. We often use this phrase to talk about someone we know, but not very well.
+
+temporary - (adjective) not lasting or needed for very long:
+
+lasting - (adjective) continuing to exist for a long time or for ever:
+
+personally - (adverb) used when you give your opinion: 
+1. Personally (speaking), I think the show is going to be a great success.
+
+appearance - (noun) an occasion when someone appears in public:
+
+occasion - (noun) a particular time, especially when something happens or has happened:
+
+anyway - (adverb) whatever else is happening, without considering other things:
+
+considering - (preposition, conjunction, adverb) used to mention a particular condition or fact about something, usually a disadvantage:
+1. Considering the weather, we got here pretty quickly.
+2. I was impressed that she found the way here, considering she'd only been here once before.
+
+direct - (adjective) going in a straight line towards somewhere or someone without stopping or changing direction:
+
+directly - (adverb) immediately:
+
+immediately - (adverb) now or without waiting or thinking:
+
+offensive - Something that is offensive causes negative feelings.
+1. His sexist comments were offensive to the women in the office.
+2. The short, skimpy cheerleader uniforms were offensive to some of the girls on the team.
+
+It's not like a date-date. - Here, not like a 'date-date' means not like a serious date.
+1. She sometimes translates documents for extra money. It's not like a job-job.
+2. I'm going to the Chagall exhibit with Mei. It's not like a date-date, we both just love art.
+
+Assuming - When we assume someone will say yes, we think about the situation that follows.
+1. Assuming your parents will say yes, we'll leave for the party about 8:00.
+2. I will ask my dad for some money. Assuming he will say yes, I'm gonna' buy a new iPad.
