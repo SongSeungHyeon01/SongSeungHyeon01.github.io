@@ -132,7 +132,7 @@ lively - full of energy and enthusiasm; interesting and exciting
 
 enthusiasm  - a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it
 
-eager - having or showing desire or interest
+eager - (adjective) wanting very much to do or have something, especially something interesting or enjoyable:
 
 remind - to make someone think of something they have forgotten or might have forgotten
 
@@ -333,3 +333,61 @@ It's not like a date-date. - Here, not like a 'date-date' means not like a serio
 Assuming - When we assume someone will say yes, we think about the situation that follows.
 1. Assuming your parents will say yes, we'll leave for the party about 8:00.
 2. I will ask my dad for some money. Assuming he will say yes, I'm gonna' buy a new iPad.
+
+compare - (verb) to examine or look for the difference between two or more things:
+
+comparison - (noun) the act of comparing two or more people or things:
+1. They made a comparison of different countries' eating habits.
+2. By/In comparison with the French, the British eat far less fish.
+
+wanting - (adjective) not having something; lacking:
+1. I think she's perhaps a little wanting in charm.
+
+be lacking - (adjective) If something that you need is lacking, you do not have enough of it:
+1. Enthusiasm has been sadly lacking these past months at work.
+
+willing - (adjective) not opposed to doing something; ready or eager to do something: 
+1. If you’re willing to fly on Thursday you can get a cheaper ticket.
+
+narrow-minded - (adjective) not willing to accept ideas or ways of behaving that are different from your own:
+1. narrow-minded opinions/views
+2. a narrow-minded person
+
+totally - (adverb) completely or extremely:
+This book is totally different from her last one.
+
+extremely - (adverb) very: 
+They played extremely well.
+She's extremely beautiful.
+
+approximately - (adverb) close to a particular number or time although not exactly that number or time:
+The job will take approximately three weeks, and cost approximately £1,000.
+
+policy - (noun) a set of ideas or a plan for action followed by a business, a government, a political party, or a group of people:
+The White House said there will be no change in policy.
+
+invent - (verb) to design and/or create something that has never been made before:
+
+it’s funny you mention - We use the phrase ‘it’s funny that you mentioned [something]’ when somebody talks about a topic that we have been thinking about too.
+It’s funny that you mentioned Michelle. I was just thinking about her.
+It’s funny that he mentioned the loan. I thought he'd forgotton.
+
+it’s not working out - When something isn’t working out it means that we are not happy with it. The phrase can refer to people or situations.
+We’ve had many complaints about our new receptionist. I really don’t think he’s working out.
+My best friend’s new job pays well but she’s always too tired to study. I really don’t think it’s working out.
+
+rip the band-aid - ‘Rip the band aid’ is an idiom that means to take care of a problem with a painful but quick solution.
+It’s better to rip the band aid and tell him you lost his MP3 player.
+I think you should just rip the band-aid and tell her you’re going abroad.
+
+uncalled for - Something that is uncalled for’ isn’t necessary. It’s most often negative.
+Your friend’s bad behavior at the party was uncalled for.
+I shouldn’t have laughed at his new haircut. That was uncalled for.
+
+honesty would be the best policy - The phrase ‘honesty is the best policy’ means the best way to take care of a situation is to tell the truth.
+If you don’t love him, I think honesty would be the best policy. Just tell him.
+People tell little lies everyday so maybe honesty is not always the best policy.
+
+we’re not meant to be - When future plans or a current situation doesn’t happen the way we want, we say it is ‘not meant to be’.
+He practiced his whole life for the Olympics, but it just wasn’t meant to be.
+After a very difficult year in Medical school, Sonia realized that her becoming a doctor simply wasn’t meant to be.
