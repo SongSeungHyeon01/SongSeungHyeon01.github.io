@@ -501,3 +501,33 @@ The operation will be performed next week.
 
 auxiliary - (adjective) giving help or support, especially to a more important person or thing:
 auxiliary staff/nurses
+
+involve - (verb) If an activity, situation, etc. involves something, that thing is a part of the activity, etc.:
+Research involving the use of biological warfare agents will be used for defensive purposes.
+[ + -ing verb ] The operation involves putting a small tube into your heart.
+
+find (something) out - (verb) to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time:
+How did you find out about the party?
+The holiday was a complete surprise - I only found out about it the day before we left.
+
+not at all - (idiom) used to say "no" or "not" strongly:
+"I hope it wasn't too much hassle for you." "No, not at all."
+I'm not at all happy about it.
+
+it seems like - means that someone or something appears to be a certain way
+
+motivated - (adjective) very enthusiastic or determined because you really want to do something:
+Our staff members are hard-working and highly motivated.
+a very motivated student
+
+concept - (noun) a principle or idea:
+The concept of free speech is unknown to them.
+It is very difficult to define the concept of beauty.
+
+high impact sports - 'High impact sports' involve a lot of running and jumping.
+For health reasons, older adults should avoid high impact sports.
+High impact sports can be more dangerous but, they're fun to play!
+
+for the rest of the day - 'The rest of the day' is the time remaining in our day after we complete an activity.
+I ate something bad for lunch. I think I'll take the rest of the day off.
+I've finished all my classes so for the rest of the day I'm going to surf the net.
