@@ -531,3 +531,26 @@ High impact sports can be more dangerous but, they're fun to play!
 for the rest of the day - 'The rest of the day' is the time remaining in our day after we complete an activity.
 I ate something bad for lunch. I think I'll take the rest of the day off.
 I've finished all my classes so for the rest of the day I'm going to surf the net.
+
+grade (LEVEL) - (noun) a level of quality, size, importance, etc.:
+He's suffering from some kind of low-grade (= slight) infection, which he can't seem to get rid of.
+There's some really high-grade (= high quality) musicianship on this recording.
+
+grade - (verb) to separate people or things into different levels of quality, size, importance, etc.:
+The fruit is washed and then graded by size.
+The books are graded according to the difficulty of the language.
+
+submit (GIVE) - (verb) to give or offer something for a decision to be made by others:
+You must submit your application before 1 January.
+The developers submitted building plans to the council for approval.
+
+obligation - (noun) the fact that you are obliged to do something:
+[ + to infinitive ] If you have not signed a contract, you are under no obligation to (= it is not necessary to) pay them any money.
+You have a legal obligation to (= the law says you must) ensure your child receives an education.
+
+obligation - (noun) something that you must do:
+I don't have time to do his work for him - I have too many obligations as it is.
+
+longevity - (noun) living for a long time:
+To what do you attribute your longevity?
+
