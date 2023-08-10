@@ -554,3 +554,84 @@ I don't have time to do his work for him - I have too many obligations as it is.
 longevity - (noun) living for a long time:
 To what do you attribute your longevity?
 
+keep (something) up - to continue without stopping or changing, or to continue something without allowing it to stop or change:
+Keep up the good work!
+
+constitution (HEALTH) - (noun) the general state of someone's health:
+He has a very strong constitution.
+
+climate (WEATHER) - (noun) the general weather conditions usually found in a particular place:
+a hot/dry/harsh climate
+The Mediterranean climate is good for growing citrus fruits and grapes.
+
+splash (LIQUID) - (verb) If a liquid splashes or if you splash a liquid, it falls on or hits something or someone:
+Water was splashing from a hole in the roof.
+Unfortunately some paint splashed onto the rug.
+
+liquid (SUBSTANCE) - (noun) a substance, such as water, that is not solid or a gas and that can be poured easily:
+Mercury is a liquid at room temperature.
+
+solid (HARD) - (adjective) hard or firm, keeping a clear shape:
+solid ground
+a solid object
+
+pour (LIQUID) - (verb)  to make a substance flow from a container, especially into another container, by raising just one side of the container that the substance is in:
+I spilled the juice while I was pouring it.
+Pour the honey into the bowl and mix it thoroughly with the other ingredients.
+
+shallow (NOT DEEP) - (adjective) having only a short distance from the top to the bottom:
+The stream was fairly shallow so we were able to walk across it.
+She told her children to stay in the shallow end (of the swimming pool).
+
+expectancy - (noun) the feeling that something exciting or pleasant is going to happen:
+There was a general air of expectancy in the crowd.
+
+comparison (EXAMINING DIFFERENCES) - (noun) the act of comparing two or more people or things:
+They made a comparison of different countries' eating habits.
+By/In comparison with the French, the British eat far less fish.
+
+reasonably (JUDGMENT) - (adverb) in a way that shows good judgment:
+He kept talking slowly and reasonably.
+I was reasonably certain she would be home (= it seemed likely).
+
+judgment (DECIDE) - (noun) the ability to form valuable opinions and make good decisions:
+to show good/sound/poor judgment
+I don't think you have the right to pass judgment (on others) (= to say whether you think other people are good or bad).
+
+antioxidant - (noun) a chemical substance that prevents or slows down the damage that oxygen does to organisms or to food:
+Vitamin C's antioxidant activity may help boost immune function and may make some people feel better.
+She takes the vitamins, minerals, antioxidants, and folic acid in women's multivitamins.
+
+span (TIME) - (noun) the period of time that something exists or happens:
+He has a short attention/concentration span.
+an average lifespan of 70 years
+
+period (TIME) - (noun) a length of time:
+Her work means that she spends long periods away from home.
+Unemployment in the first half of the year was 2.5 percent lower than in the same period the year before.
+
+region - (noun) a particular area or part of the world, or any of the large official areas into which a country is divided:
+one of China's autonomous regions
+the Nordic/Asia-Pacific region
+
+due to - (phrase) because of:
+A lot of her unhappiness is due to boredom.
+The bus was delayed due to heavy snow.
+
+discouraged - (adjective) having lost your confidence or enthusiasm for something:
+I think he felt discouraged because of all the criticism he'd received.
+
+confidence (CERTAINTY) - (noun) the quality of being certain of your abilities or of having trust in people, plans, or the future:
+[ + to infinitive ] He has the confidence to walk into a room of strangers and immediately start a conversation.
+She's completely lacking in confidence.
+
+tend to someone/something - (phrasal verb) to deal with the problems or needs of a person or thing:
+Nurses tended to the injured.
+
+physiologically - (adverb) in a way that relates to how the bodies of living things work:
+Type 2 diabetes and heart disease are physiologically linked.
+Physiologically, children are not just small adults.
+
+in the same boat - To be 'in the same boat' means we have the same problem or situation as others. The phrase is usually negative. 
+Min Ho didn't get the classes he wanted. We both registered late so we are in the same boat.
+Though many nations disagree about climate change, the fact is, we're all in the same boat.
