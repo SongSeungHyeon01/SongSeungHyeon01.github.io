@@ -635,3 +635,63 @@ Physiologically, children are not just small adults.
 in the same boat - To be 'in the same boat' means we have the same problem or situation as others. The phrase is usually negative. 
 Min Ho didn't get the classes he wanted. We both registered late so we are in the same boat.
 Though many nations disagree about climate change, the fact is, we're all in the same boat.
+
+guilt (FEELING) - (noun) a feeling of worry or unhappiness that you have because you have done something wrong, such as causing harm to another person:
+He suffered such feelings of guilt over leaving his children.
+She remembered with a pang of guilt that she hadn't called her mother.
+
+harm - (noun) physical or other injury or damage:
+Both deny conspiring to cause actual bodily harm.
+A mistake like that will do his credibility a lot of harm.
+
+statement - (noun) something that someone says or writes officially, or an action done to express an opinion:
+The government is expected to issue a statement about the investigation to the press.
+He produced a signed statement from the prisoner.
+
+doubt - (noun) a feeling of not knowing what to believe or what to do, or the condition of being uncertain:
+[ C ] If you have any doubt about her ability, don’t hire her.
+[ + that clause ] There’s no doubt that the show will be successful.
+
+(verb) - to be uncertain about something or someone, or to have difficulty believing something:
+[ T ] He may come back tomorrow with the money, but I doubt it.
+
+without (a) doubt - used to emphasize your opinion:
+She is without (a) doubt the best student I have ever taught.
+
+anxious - (adjective) worried and nervous:
+My mother always gets a bit anxious if we don't arrive when we say we will.
+I saw my sister's anxious face at the window.
+
+nervous (WORRIED) - (adjective) worried and anxious:
+Do you feel/get nervous during exams?
+I was too nervous to speak.
+
+accomplish - (verb) to finish something successfully or to achieve something:
+The students accomplished the task in less than ten minutes.
+She accomplished such a lot during her visit.
+
+affirmative - (adjective) relating to a statement that shows agreement or says "yes":
+an affirmative answer/response
+
+surprisingly - (adverb) unexpectedly or in a way that is unusual:
+The restaurant turned out to be surprisingly cheap.
+Not surprisingly, the jury found them guilty.
+
+informative - (adjective) providing a lot of useful information:
+This is an interesting and highly informative book.
+
+confront - (verb) to face, meet, or deal with a difficult situation or person:
+As she left the court, she was confronted by angry crowds who tried to block her way.
+It's an issue we'll have to confront at some point, no matter how unpleasant it is.
+
+blow (SEND OUT AIR) - (verb) to move and make currents of air, or to be moved or make something move on a current of air:
+The wind was blowing harder every minute.
+The letter blew away and I had to run after it.
+
+release (MAKE FREE) - (verb) to give freedom or free movement to someone or something:
+He was released from prison after serving two years of a five-year sentence.
+She was arrested for shoplifting but was released on bail (= after paying a sum of money to the court).
+
+dwelling - (noun) a house or place to live in:
+There is an estimated shortfall of some five million dwellings across the country.
+
