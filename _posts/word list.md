@@ -695,3 +695,111 @@ She was arrested for shoplifting but was released on bail (= after paying a sum 
 dwelling - (noun) a house or place to live in:
 There is an estimated shortfall of some five million dwellings across the country.
 
+elect - (verb) to decide on or choose, especially to choose a person for a particular job, by voting:
+The President is elected for a four-year term of office.
+[ + as + noun ] We elected him as our representative.
+
+voting - (noun) the activity of choosing someone or something in an election:
+Voting went ahead despite threats from rebel groups.
+Pollsters asked people their voting intentions.
+
+election - (noun) a time when people vote in order to choose someone for a political or official job:
+The government is expected to call an election (= allow the country to vote) very soon.
+Local government elections will take place in May.
+
+fulfill (MAKE HAPPEN) - (verb) to do something that is expected, hoped for, or promised, or to cause it to happen:
+A school fails if it does not fulfill the needs/requirements of its students.
+At the age of 45, she finally fulfilled her ambition to run a marathon.
+
+happen - (verb) (of a situation or an event) to have existence or come into existence:
+No one knows exactly what happened but several people have been hurt.
+Anything could happen in the next half hour.
+
+existence - (noun) the fact of something or someone existing:
+Many people question the existence of God.
+Modern cosmology believes the universe to have come into existence about 15 billion years ago.
+
+existing- (adjective) used to refer to something that exists now:
+The existing laws covering libel in this country are thought by many to be inadequate.
+Under the existing conditions many children are going hungry.
+
+ambition - (noun) a strong wish to achieve something:
+[ + to infinitive ] His ambition is ultimately to run his own business.
+He has already achieved his main ambition in life - to become wealthy.
+
+marathon (RACE) - (noun) a running race of slightly over 26 miles (42.195 kilometres):
+the London/New York marathon
+She did/ran her first marathon in just under three hours.
+
+democracy - (noun) a situation, system, or organization in which everyone has equal rights and opportunities, and can help make decisions:
+corporate democracy
+shareholder democracy
+
+belief - (noun) the feeling of being certain that something exists or is true:
+His belief in God gave him hope during difficult times.
+Recent scandals have shaken many people's belief in (= caused people to have doubts about) politicians.
+
+dear - (adjective) used at the beginning of a letter to greet the person you are writing to:
+Dear Kerry/Mum and Dad/Ms Smith/Sir
+
+fellow - (adjective) used to refer to someone who has the same job or interests as you, or is in the same situation as you:
+She introduced me to some of her fellow students.
+Our fellow travellers were mostly Spanish-speaking tourists.
+
+representative - (noun) someone who speaks or does something officially for another person or group of people:
+The firm has representatives in every major city.
+
+outrageous - (adjective) shocking and morally unacceptable:
+The judge criticized the "outrageous greed" of some of the bankers.
+[ + that ] It is outrageous that these buildings remain empty while thousands of people have no homes.
+
+condition (STATE) - (noun) the particular state that something or someone is in:
+Mum's still got our pram - it's very old, but it's in perfect condition.
+They left the flat in a terrible condition - there was mess everywhere.
+
+promote (ENCOURAGE) - (verb) to encourage people to like, buy, use, do, or support something:
+Advertising companies are always having to think up new ways to promote products.
+The Institute is intended to promote an understanding of the politics and culture of the Arab world.
+
+encourage - (verb) to make someone more likely to do something, or to make something more likely to happen:
+[ T + to infinitive ] We were encouraged to learn foreign languages at school.
+The council is encouraging the development of the property for both employment and recreation.
+
+obesity - (noun) the fact of being extremely fat, in a way that is dangerous for health:
+The National Institute of Health is discussing ways of tackling the problem of childhood obesity.
+A diet that is high in fat and sugar can lead to obesity.
+
+vow - (verb) to make a determined decision or promise to do something:
+[ + (that) ] The guerrillas vowed (that) they would overthrow the government.
+[ + to infinitive ] After the awful meals we had last Christmas, I vowed to do more of the cooking myself.
+
+available - (adjective) able to be obtained, used, or reached:
+Her new book is available in bookstores all across America.
+
+obtain (GET) - (verb) to get something, especially by asking for it, buying it, working for it, or producing it from something else:
+to obtain permission
+First editions of these books are now almost impossible to obtain.
+
+reasonable (judgment) - (adjective) based on or using good judgment and therefore fair and practical:
+If you tell him what happened, I'm sure he'll understand - he's a reasonable man.
+He went free because the jury decided there was a reasonable doubt about his guilt.
+
+practical (EXPERIENCE) - (adjective) relating to experience, real situations, or actions rather than ideas or imagination:
+Qualifications are important but practical experience is always a plus.
+The service offers young people practical advice on finding a job.
+
+rather (SMALL AMOUNT) - (adverb) quite; to a slight degree:
+It's rather cold today, isn't it?
+That's rather a difficult book - here's an easier one for you.
+
+slight (SMALL AMOUNT) - (adjective) small in amount or degree:
+a slight improvement
+a slight incline
+
+heated (TEMPERATURE) - (adjective) made hot or warm:
+a heated towel rail
+a heated swimming pool
+
+institution (ORGANIZATION) - (noun) a large and important organization, such as a university or bank:
+a medical/educational/financial institution
+Harvard University is an internationally respected institution.
