@@ -778,7 +778,7 @@ Her new book is available in bookstores all across America.
 
 obtain (GET) - (verb) to get something, especially by asking for it, buying it, working for it, or producing it from something else:
 to obtain permission
-First editions of these books are now almost impossible to obtain.
+First editions of these books are now almost impossible to obtain.as
 
 reasonable (judgment) - (adjective) based on or using good judgment and therefore fair and practical:
 If you tell him what happened, I'm sure he'll understand - he's a reasonable man.
@@ -803,3 +803,69 @@ a heated swimming pool
 institution (ORGANIZATION) - (noun) a large and important organization, such as a university or bank:
 a medical/educational/financial institution
 Harvard University is an internationally respected institution.
+
+such as - for example:
+
+outdoor - (adjective) existing, happening, or done outside, rather than inside a building:
+an outdoor swimming pool/festival
+outdoor clothes
+
+personally - (adverb) used when you give your opinion:
+Personally (speaking), I think the show is going to be a great success.
+
+scenic - (adjective) having or allowing you to see beautiful natural features:
+an area of outstanding scenic beauty
+a scenic drive/railway
+
+allow (GIVE PERMISSION) - (verb) to give permission for someone to do something, or to not prevent something from happening:
+[ + to infinitive ] Do you think Dad will allow you to go to Jamie's party?
+You're not allowed to talk during the exam.
+
+prevent - (verb) to stop something from happening or someone from doing something:
+Label your suitcases to prevent confusion.
+[ + -ing verb ] His disability prevents him (from) driving.
+
+feature (QUALITY) - (noun) a typical quality or an important part of something:
+The town's main features are its beautiful mosque and ancient marketplace.
+Our latest model of phone has several new features.
+
+typical - (adjective) showing all the characteristics that you would usually expect from a particular group of things:
+I must look like the typical tourist with my shorts and my camera.
+This kind of hot and spicy food is very typical of the food in the south of the country.
+
+quality (STANDARD) - (noun) how good or bad something is:
+a shop advertising top quality electrical goods
+The food was of such poor/low quality.
+
+comparison (EXAMINING DIFFERENCES) - (noun) the act of comparing two or more people or things:
+They made a comparison of different countries' eating habits.
+By/In comparison with the French, the British eat far less fish.
+
+glacier - (noun) a large mass of ice that moves slowly
+
+mass - (adjective) having an effect on or involving a large number of people or forming a large amount:
+weapons of mass destruction
+a mass murderer
+
+an aerial view - Bird’s eye view; We use the word ‘aerial’ to talk about things in the sky. An ‘aerial view’ is a view from a balloon, airplane or in this case a helicopter, high above the land.
+Helicopter tours offer a unique aerial view of the Hawaiian Islands.
+An aerial view of the Swiss Alps is truly unforgettable.
+
+as well - (idiom) also; too:
+They advertised the new movie on television, and in newspapers as well.
+
+firsthand - (adjective) gained by doing something yourself or from someone who was involved in something:
+Most of us have firsthand experience of teaching.
+Obtaining firsthand accounts from the survivors was tricky.
+
+tricky (DIFFICULT) - (adjective) If a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill:
+It's tricky to learn to ride a skateboard, but you never forget how.
+I'm in a tricky situation - whatever I do I'll offend someone.
+
+a must do - we can think of ‘must do’ as meaning a place you must see or ‘must visit’.
+The Palace of Versailles is a must do if you’re in France.
+The Statue of Liberty is on my must do list when I visit New York.
+
+work your way down - When we travel, we usually have a list of places we wish to visit. ‘Work your way down’ means to start at the top of the list and work your way down from the 2nd, 3rd, 4th, and so on to the last.
+We’ll start our vacation in France, next Spain, then work our way down to Italy.
+Wow! There are so many expensive shops to see. Let’s start at Ginza 1 and work our way down.
