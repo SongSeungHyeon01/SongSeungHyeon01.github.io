@@ -155,7 +155,8 @@ proof - a fact or piece of information that shows that something exists or is tr
 
 prevent - to stop something from happening or someone from doing something:
 
-cuisine - a style of cooking:
+cuisine - (noun) a style of cooking:
+French cuisine
 
 attached - feeling close to emotionally, or loving:
 
@@ -869,3 +870,31 @@ The Statue of Liberty is on my must do list when I visit New York.
 work your way down - When we travel, we usually have a list of places we wish to visit. ‘Work your way down’ means to start at the top of the list and work your way down from the 2nd, 3rd, 4th, and so on to the last.
 We’ll start our vacation in France, next Spain, then work our way down to Italy.
 Wow! There are so many expensive shops to see. Let’s start at Ginza 1 and work our way down.
+
+apparently - (adverb) used to say you have read or been told something although you are not certain it is true:
+Apparently it's going to rain today.
+Apparently he's had enough of England and is going back to Australia.
+
+ranch - (noun) a very large farm on which animals are kept, especially in North and South America:
+a cattle ranch
+a sheep ranch
+
+addicted - (adjective) unable to stop taking drugs, or doing something as a habit:
+By the age of 14 he was addicted to heroin.
+I'm addicted to (= I very often eat) chocolate.
+
+I wouldn’t say that - We use the phrase ‘I wouldn’t say that’ when something is not 100% true.
+I wouldn’t say I’m fluent in English as such, but most native speakers understand me.
+I love History and I studied it in college, but am I an expert? I wouldn’t say that.
+
+sense the danger - When we sense something we have a feeling about it, but we don’t know exactly why.
+Jogging through the park at night, I didn’t sense the danger people often speak of.
+Judging by her silence, he sensed his teacher was annoyed.
+
+suburban life - The suburbs are an area just outside the city. There are a lot of houses and small apartments, but not many tall buildings. Life there is very different from city life.
+For me, suburban life is boring and far from places I like to hang out at.
+Suburban life is great for families. It’s quieter and safer than the city.
+
+drag (PULL) - (verb) to move something by pulling it along a surface, usually the ground:
+Pick the chair up instead of dragging it behind you!
+She dragged the canoe down to the water.
