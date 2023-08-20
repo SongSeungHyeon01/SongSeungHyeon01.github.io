@@ -1,6 +1,8 @@
 stunning - extremely beautiful or attractive
 
-permanently - always and for ever
+permanently - (adverb) always and for ever
+Smoking is likely to damage your health permanently.
+Michael and his family have settled permanently in the States.
 
 leisurely - used to describe an action that is done in a relaxed way, without hurrying
 
@@ -23,6 +25,8 @@ gorgeous - very beautiful or pleasant
 pleasant - enjoyable, attractive, friendly, or easy to like
 
 attractive - (adjective) very pleasing in appearance or sound / causing interest or pleasure
+a very attractive young woman
+I find him very attractive (= he attracts me sexually).
 
 pleasing - giving a feeling of satisfaction or enjoyment
 
@@ -180,7 +184,9 @@ invent - to design and/or create something that has never been made before:
 
 outsider - a person who is not involved with a particular group of people or organization or who does not live in a particular place:
 
-settled - If you feel settled in a job, school, etc., you have become familiar with it and are comfortable and happy there:
+settled (COMFORTABLE) - (adjective) If you feel settled in a job, school, etc., you have become familiar with it and are comfortable and happy there:
+Now that the children are settled at school, we don't really want to move again.
+Although I worked there for over a year, I never really felt settled.
 
 being - a person or thing that exists:
 
@@ -314,6 +320,8 @@ personally - (adverb) used when you give your opinion:
 appearance - (noun) an occasion when someone appears in public:
 
 occasion - (noun) a particular time, especially when something happens or has happened:
+We met on several occasions to discuss the issue.
+I've heard him be rude to her on a number of occasions.
 
 anyway - (adverb) whatever else is happening, without considering other things:
 
@@ -898,3 +906,26 @@ Suburban life is great for families. It’s quieter and safer than the city.
 drag (PULL) - (verb) to move something by pulling it along a surface, usually the ground:
 Pick the chair up instead of dragging it behind you!
 She dragged the canoe down to the water.
+
+childhood - (noun) the time when someone is a child:
+She had an unhappy childhood.
+Childhood is not always a happy time.
+
+shack - (noun) a very simple and small building made from pieces of wood, metal, or other materials
+
+drag (PULL) - (verb) to move something by pulling it along a surface, usually the ground:
+Pick the chair up instead of dragging it behind you!
+She dragged the canoe down to the water.
+
+along (FROM ONE END TO ANOTHER) - (preposition) from one part of a road, river, etc. to another:
+a romantic walk along the beach/river
+
+worship (RELIGION) - (verb) to have or show a strong feeling of respect and admiration for God or a god:
+On the island the people worshipped different gods.
+
+bribe - (verb) to try to make someone do something for you by giving them money, presents, or something else that they want :
+He bribed immigration officials and entered the country illegally.
+[ + to infinitive ] They bribed the waiter to find them a better table.
+
+cagoule - (noun) a light jacket with a hood (= head cover) that protects you against wind and rain:
+Bad weather is likely, so please wear walking boots and a cagoule. 
