@@ -929,3 +929,69 @@ He bribed immigration officials and entered the country illegally.
 
 cagoule - (noun) a light jacket with a hood (= head cover) that protects you against wind and rain:
 Bad weather is likely, so please wear walking boots and a cagoule. 
+
+go off (STOP WORKING) - (verb) If a light or a machine goes off, it stops working:
+The lights went off in several villages because of the storm.
+
+explode (BREAK APART) - (verb) to break up into pieces violently, or to cause something to do this:
+A bomb exploded at one of the capital's busiest railway stations this morning.
+He was driving so fast that his car tyre exploded.
+
+violently - (adverb) in a forceful way that causes people to be hurt:
+He claimed to have been violently assaulted while in detention.
+
+assault - (noun) a violent attack:
+He was charged with sexual assault.
+UK The number of indecent assaults has increased alarmingly over the past year.
+
+crouch - (verb) to bend your knees and lower yourself so that you are close to the ground and leaning forward slightly:
+She saw him coming and crouched (down) behind a bush.
+
+leaning - (noun) a particular set of beliefs, opinions, etc. that someone prefers:
+I don't know what his political leanings are.
+
+tiny - (adjective) extremely small:
+a tiny flower
+a tiny helping of food
+
+squeal - (verb) to make a long, very high sound or cry:
+We could hear the piglets squealing as we entered the farmyard.
+The brakes squealed as the van rounded the corner.
+
+screamingly - (adverb) extremely:
+a screamingly funny story.
+The answer was suddenly screamingly obvious to me.
+
+scream (MAKE NOISE) - (verb)  to cry or say something loudly and usually on a high note, especially because of strong emotions such as fear, excitement, or anger:
+A spider landed on her pillow and she screamed.
+Through the smoke, the rescuers could hear people screaming for help.
+
+innocent (NOT GUILTY) - (adjective) (of a person) not guilty of a particular crime:
+He firmly believes that she is innocent of the crime.
+
+firmly (NOT LOOSELY) - (adverb) in a way that will not become loose:
+Make sure the rope is firmly attached before attempting to climb down.
+
+mischief - (noun) behaviour, especially a child's, that is slightly bad but is not intended to cause serious harm or damage:
+She's a lively little girl, full of mischief.
+He needs a hobby to keep him busy and stop him from getting into mischief.
+
+slightly (SMALL IN AMOUNT) - (adverb) a little:
+She's slightly taller than her sister.
+I'm slightly upset she forgot my birthday.
+
+intend - (verb) to have as a plan or purpose:
+We intend to go to Australia next year.
+Somehow I offended him, which wasn't what I'd intended.
+
+as most people know - We use the phrase ‘as most people know’ when we give information that we expect people to know already. Sometimes, however, the listener may not know, so to be safe, we tell them.
+As most people know, Canada is very cold in the winter so you should pack warm clothes.
+As you know, eating lots of fruit and vegetables is good for your health.
+
+get away with - When we do something wrong or make a mistake and there is no penalty, we say ‘we got away with it’.
+The police caught us walking on a private beach. Since we were foreigners, we got away with it.
+We cheated on the test, but everybody had the same answers so we didn’t get away with it.
+
+get told off - To ‘get told off’ means to be scolded by someone in authority for doing something negative. 
+He accidently broke his mom’s favorite vase but didn’t get told off, cause she thought the cat did it.
+I got told off by my friend for gossiping about her.
