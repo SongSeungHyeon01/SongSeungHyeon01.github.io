@@ -995,3 +995,66 @@ We cheated on the test, but everybody had the same answers so we didn’t get aw
 get told off - To ‘get told off’ means to be scolded by someone in authority for doing something negative. 
 He accidently broke his mom’s favorite vase but didn’t get told off, cause she thought the cat did it.
 I got told off by my friend for gossiping about her.
+
+initially - (adverb) at the beginning:
+Initially, most people approved of the new plan.
+The damage was far more serious than initially believed.
+
+progressively - (adverb) gradually:
+My eyesight has got progressively worse over the years.
+
+worse - (adjective) bad: more unpleasant, difficult, or severe than before or than something else that is also bad:
+The conditions they're living in are worse than we thought.
+If the rain gets any worse we'll have to go back.
+
+gradually - (adverb) slowly over a period of time or a distance:
+Gradually, she realized that he wasn't telling her the truth.
+The bank slopes gradually down to the river.
+
+physical (BODY) - (adjective) relating to the body:
+physical exercise/fitness/strength/disabilities
+I'm not a very physical sort of person (= I don't enjoy physical activities).
+
+significant (IMPORTANT) - (adjective) important or noticeable:
+There has been a significant increase in the number of women students in recent years.
+The talks between the USA and the USSR were very significant for the relationship between the two countries.
+
+concentrate (GIVE ATTENTION) - (verb) to direct your attention or your efforts towards a particular activity, subject, or problem:
+Come on, concentrate! We don't have all day to do this.
+I can't concentrate on my work with all that noise.
+
+reciprocate - (verb) to share the same feelings as someone else, or to behave in the same way as someone else:
+Sadly, my feelings for him were not reciprocated.
+We invited them to dinner and a week later they reciprocated.
+
+yawn - (verb) to open the mouth wide and take a lot of air into the lungs and slowly send it out, usually when tired or bored:
+I can't stop yawning - I must be tired.
+
+literally - (adverb) using the real or original meaning of a word or phrase:
+They were responsible for literally millions of deaths.
+We live literally just round the corner from her.
+
+excuse - (verb) to forgive someone or something:
+Please excuse me for arriving late - the bus was delayed.
+Nothing can excuse that sort of behaviour.
+
+reach (ARRIVE) - (verb) to arrive at a place, especially after spending a long time or a lot of effort travelling:
+We won't reach Miami until five or six o'clock.
+They finally reached the coast after five weeks sailing.
+
+reach (LEVEL) - (verb) to get to a particular level, especially a high one:
+The temperature is expected to reach 30°C today.
+He's just reached the grand old age of 95.
+
+rarely - (adverb) not often:
+We rarely see each other now.
+I rarely have time to read a newspaper.
+
+constantly - (adverb) all the time or often:
+She has the TV on constantly.
+He's constantly changing his mind.
+
+distracted - (adjective) nervous or confused because you are worried about something:
+Tania seems very distracted at the moment - I think she's worried about her brother.
+
+went out ( go out ) - Here, the phrase 'went out' means dating, not moving to a particular place. When two people are 'going out' that means they are a couple and dating each other.
