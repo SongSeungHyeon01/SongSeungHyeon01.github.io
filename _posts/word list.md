@@ -1058,3 +1058,101 @@ distracted - (adjective) nervous or confused because you are worried about somet
 Tania seems very distracted at the moment - I think she's worried about her brother.
 
 went out ( go out ) - Here, the phrase 'went out' means dating, not moving to a particular place. When two people are 'going out' that means they are a couple and dating each other.
+
+agreement (SAME OPINION) - (noun) the situation in which people have the same opinion, or in which they approve of or accept something:
+The whole family was in agreement with her about/on what they should do.
+If the three parties cannot reach agreement now, there will be a civil war.
+
+arrangement (PLAN) - (noun) a plan for how something will happen:
+make arrangements They'd made all the arrangements for the party.
+[ + to infinitive ] Arrangements were made to move the prisoners to another jail.
+
+purely - (adverb) only; just:
+Meeting Gail in the airport was purely coincidental.
+
+contact (COMMUNICATION) - (noun) communication with someone, especially by speaking or writing to them regularly:
+"Have you been in contact with Andrew recently?" "Only by phone."
+I'm still in contact with her - we write a couple of times a year.
+
+regularly (OFTEN) - (adverb) often:
+She regularly appears on TV talk shows.
+Accidents regularly occur on this street.
+
+repeated - (adjective) happening again and again:
+repeated attempts/mistakes/warnings
+
+occur (HAPPEN) - (verb) (especially of accidents and other unexpected events) to happen:
+An accident involving over ten vehicles has occurred in the east-bound lane.
+If any of these symptoms occur while you are taking the medication, consult your doctor immediately.
+
+lane (ROAD) - (noun) a narrow road in the countryside or in a town:
+He drives so fast along those narrow country lanes.
+I live at the end of Church Lane.
+
+narrow (SMALL WIDTH) - (adjective) having a small distance from one side to the other, especially in comparison with the length:
+a narrow bridge/passage/gap
+a narrow face
+
+pacific - (adjective) peaceful or helping to cause peace
+
+cause (REASON) - (noun) the reason why something, especially something bad, happens:
+The police are still trying to establish the cause of the fire.
+She had died of natural causes.
+
+bow - (verb) to bend your head or body forward, especially as a way of showing someone respect or expressing thanks to people who have watched you perform:
+They bowed to the Queen.
+He bowed down (= very low) before (= in front of) the king and begged for mercy.
+
+steadily - (adverb) in a gradual, regular way over a period of time:
+Prices have risen steadily. 
+
+gradually - (adverb) slowly over a period of time or a distance:
+Gradually, she realized that he wasn't telling her the truth.
+The bank slopes gradually down to the river.
+
+civil (ORDINARY) - (adjective) not military or religious, or relating to the ordinary people of a country:
+Helicopters are mainly used for military rather than civil use.
+After ten years of military dictatorship, the country now has a civil government.
+
+dictatorship - (noun) a country ruled by a dictator:
+a military dictatorship
+
+ordinary - (adjective) not different or special or unexpected in any way; usual:
+an ordinary neighbourhood
+Readers of the magazine said they wanted more stories about ordinary people and fewer stories about the rich and famous.
+
+side embrace - To embrace is to hug or for two people to hold each other. A side embrace would be when two people have mainly only one arm around each other. A full-embrace, would be more like a hug.
+The two lovers embraced for a long time.
+The two men embraced awkwardly.
+
+greet - (verb) to welcome someone with particular words or a particular action, or to react to something in the stated way:
+He greeted me at the door.
+The teacher greeted each child with a friendly "Hello!"
+
+cheek (FACE) - (noun) the soft part of your face that is below your eye and between your mouth and ear:
+The tears ran down her cheeks.
+rosy cheeks
+
+laid-back - (adjective) relaxed in manner and character; not usually worried about other people's behaviour or things that need to be done:
+I've never seen her worried or anxious in any way - she's so laid-back.
+
+anxious (WORRIED) - (adjective) worried and nervous:
+My mother always gets a bit anxious if we don't arrive when we say we will.
+I saw my sister's anxious face at the window.
+
+background (EXPERIENCE) - (noun) the things that have made you into the person you are, esp. family, experience, and education:
+The school has students from many different backgrounds.
+
+interact - (verb) to communicate with or react to:
+Dominique's teacher says that she interacts well with the other children.
+It's interesting at parties to see how people interact socially.
+
+react - (verb) to act in a particular way as a direct result of something else:
+She slapped him and called him names, but he didn't react.
+The judge reacted angrily to the suggestion that it hadn't been a fair trial.
+
+formal setting - A formal setting is a place that has a formal atmosphere or feeling. When something is formal, it is official or highly regarded. For example, most business offices have a formal setting. The opposite of a formal setting would be a casual setting or a laid-back setting.
+In a formal setting, you should not speak slang.
+It is a formal event, so please wear a suit.
+
+fist bump - A fist bump is like a hand shake. It is a physical contact with the hands used when greeting people. It is a very casual way of greeting friends. You would never use a fist bump in a formal setting.
