@@ -1156,3 +1156,20 @@ In a formal setting, you should not speak slang.
 It is a formal event, so please wear a suit.
 
 fist bump - A fist bump is like a hand shake. It is a physical contact with the hands used when greeting people. It is a very casual way of greeting friends. You would never use a fist bump in a formal setting.
+
+mythical - (adjective) A myth is a story that is often used to explain something. Usually, a myth is fictional, or untrue. Mythical is an adjective to describe something that comes from a fictional story.
+I’d like to see that mythical girlfriend he’s always talking about.
+A unicorn is a mythical animal.
+
+skyscraper - (noun) a very tall modern building, usually in a city
+
+settler - (noun) a person who arrives, especially from another country, in a new place in order to live there and use the land
+
+bravery - (noun) brave behaviour or actions:
+They were awarded medals for their bravery.
+acts of exceptional bravery
+
+brave - (adjective) showing no fear of dangerous or difficult things:
+a brave soldier
+It was a brave decision to quit her job and start her own business.
+
