@@ -1173,3 +1173,40 @@ brave - (adjective) showing no fear of dangerous or difficult things:
 a brave soldier
 It was a brave decision to quit her job and start her own business.
 
+fall (HAVE AN ACCIDENT) - (verb) to suddenly go down onto the ground or towards the ground without intending to or by accident:
+The path's very steep, so be careful you don't fall.
+He fell badly and broke his leg.
+
+attach (CONNECT) - (verb) to fasten, join, or connect something:
+I attached a photo to my application form.
+Use this cable to attach the printer to the computer.
+
+total - (noun) the amount you get when several smaller amounts are added together:
+At that time of day, cars with only one occupant accounted for almost 80 percent of the total.
+A total of 21 horses were entered in the race.
+
+counselor - (noun) someone who is trained to listen to people and give them advice about their problems:
+The college now has a counselor to help students with both personal and work problems.
+a marriage counselor
+
+go off - To go off somewhere means to leave for another location.  Notice the following:
+
+I go off to school in the fall.
+He went off to Germany on business.
+
+spit - When we spit, that means we shoot a quick burst of saliva out of our mouth.
+Spitting is not polite in my culture.
+In Singapore, it's illegal to spit in public.
+
+strike an image - An image is a picture of something in our mind. 
+The mention of Brazil struck an image of beaches and samba dancers in my mind.
+The accident struck a horrible image I will never forget.
+
+back to normal - When a unusual or unexpected situation returns to normal, we say it is back to normal.
+The city was back to normal following the earthquake.
+It will take decades for the area to return to normal.
+
+the next thing you know - We use the phrase 'the next thing you know' to describe something that happens unexpectedly.
+Someone threw a rock and the next thing you know, everyone was fighting.
+The game was really boring and the next thing you know, they scored two goals in two minutes!
+
