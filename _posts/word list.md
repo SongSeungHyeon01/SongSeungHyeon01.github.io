@@ -1210,3 +1210,43 @@ the next thing you know - We use the phrase 'the next thing you know' to describ
 Someone threw a rock and the next thing you know, everyone was fighting.
 The game was really boring and the next thing you know, they scored two goals in two minutes!
 
+recall (REMEMBER) - (verb) to bring the memory of a past event into your mind, and often to give a description of what you remember:
+The old man recalled the city as it had been before the war.
+"As I recall," he said with some irritation, "you still owe me €150."
+
+figure something/someone out - (verb) to finally understand something or someone, or find the solution to a problem after a lot of thought:
+I can't figure out why he did it.
+I find him really odd - I can't figure him out at all.
+
+odd (STRANGE) - (adjective) strange or unexpected:
+Her father was an odd man.
+What an odd thing to say.
+
+carve - verb to make something by cutting into especially wood or stone, or to cut into the surface of stone, wood, etc.:
+This totem pole is carved from/out of a single tree trunk.
+He carved her name on a tree.
+
+rectangular - (adjective) shaped like a rectangle
+The room is roughly rectangular.
+a rectangular area of grass
+
+roughly (NOT EXACTLY) - (adverb) approximately:
+There has been an increase of roughly 2.25 million.
+Roughly speaking, it's 2.25 million.
+
+rectangle - (noun) a flat shape with four 90° angles and four sides, with opposite sides of equal length
+The area of a rectangle is its height times its width.
+The rectangle is 5 cm long and 1.9 cm wide.
+
+regulation - (noun) an official rule or the act of controlling something:
+safety/health/traffic/fire/security regulations
+The correct procedure is laid down in the rules and regulations.
+
+navigate - o navigate means to find our way when we are traveling. 
+I'll drive, you navigate.
+We had to navigate a difficult course through the mountains.
+
+perform (DO) - (verb) to do an action or piece of work:
+Computers can perform a variety of tasks.
+The operation will be performed next week.
+
