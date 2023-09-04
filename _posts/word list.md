@@ -1,18 +1,44 @@
-stunning - extremely beautiful or attractive
+stunning (BEAUTIFUL) - (adjective) extremely beautiful or attractive
+a stunning dress
+a stunning view over the bay of Saint Tropez
 
 permanently - (adverb) always and for ever
 Smoking is likely to damage your health permanently.
 Michael and his family have settled permanently in the States.
 
-leisurely - used to describe an action that is done in a relaxed way, without hurrying
+leisurely - (adjective) used to describe an action that is done in a relaxed way, without hurrying
+We enjoyed a leisurely picnic lunch on the lawn.
 
-incredible - impossible, or very difficult, to believe
+lawn - (noun) an area of grass, especially near to a house or in a park, that is cut regularly to keep it short:
+Will you mow the lawn this weekend?
 
-obviously - in a way that is easy to understand or see
+mow - (verb) to cut plants, such as grass or wheat, that have long, thin stems and grow close together:
+You can't mow the grass/lawn if it's wet.
+I love the smell of new-mown hay.
 
-sort - a group of things that are of the same type or that share similar qualities
+incredible (DIFFICULT TO BELIEVE) - (adjective) impossible, or very difficult, to believe:
+an incredible story
+The latest missiles can be fired with incredible accuracy.
 
-spare - If something is spare, it is available to use because it is extra
+obviously - (adverb) in a way that is easy to understand or see
+He was in tears and obviously very upset.
+Obviously the school cannot function without teachers.
+
+tear (PULL APART) - (verb) to pull or be pulled apart, or to pull pieces off:
+You have to be very careful with books this old because the paper tears very easily.
+I tore my skirt on the chair as I stood up.
+
+apart (SEPARATED) - (adverb) separated by a distance or by time:
+Stand with your feet wide apart.
+How far apart should the speakers be?
+
+sort (TYPE) - (noun) a group of things that are of the same type or that share similar qualities:
+We both like the same sort of music.
+I'm going to have a salad of some sort.
+
+spare (EXTRA) - (adjective) If something is spare, it is available to use because it is extra
+a spare key/tire
+spare sheets and blankets
 
 lively - full of energy and enthusiasm; interesting and exciting 
 
