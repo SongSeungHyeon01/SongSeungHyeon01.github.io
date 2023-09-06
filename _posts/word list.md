@@ -64,7 +64,8 @@ as regards - about; relating to:
 
 best of both worlds - he best of both words, to show you can benefit from two things at once
 
-unfortunately - used to say that something is sad, disappointing, or has a bad effect
+unfortunately - (adverb) used to say that something is sad, disappointing, or has a bad effect
+Unfortunately, I didn't have my credit card with me, or else I would have bought it.
 
 frustrated - feeling annoyed or less confident because you cannot achieve what you want
 
@@ -1276,3 +1277,21 @@ perform (DO) - (verb) to do an action or piece of work:
 Computers can perform a variety of tasks.
 The operation will be performed next week.
 
+then - (adverb, adjective) (at) that time (in the past or in the future):
+I was working in the city then.
+I wanted to live in the city, but my then husband (= the man who was my husband at that time) preferred the country.
+
+theme (MAIN SUBJECT) - (noun) the main subject of a talk, book, film, etc.:
+The theme of loss runs through most of his novels.
+
+actual - (adjective) existing in fact:
+We had estimated about 300 visitors, but the actual number was much higher.
+The exams are in July, but the actual results (= the results themselves) don't appear until September.
+
+estimated - (adjective) roughly calculated or approximate:
+The bridge was begun five years ago and the estimated cost has already doubled.
+The collection has fetched three times its estimated value at auction.
+
+calculated - (adjective) planned or arranged in order to produce a particular effect:
+It was a cruel, calculated crime with absolutely no justification.
+[ + to infinitive ] It's a policy that was hardly calculated to (= will not) win votes.
