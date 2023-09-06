@@ -1268,7 +1268,7 @@ regulation - (noun) an official rule or the act of controlling something:
 safety/health/traffic/fire/security regulations
 The correct procedure is laid down in the rules and regulations.
 
-navigate - o navigate means to find our way when we are traveling. 
+navigate - navigate means to find our way when we are traveling. 
 I'll drive, you navigate.
 We had to navigate a difficult course through the mountains.
 
