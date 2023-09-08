@@ -1295,3 +1295,60 @@ The collection has fetched three times its estimated value at auction.
 calculated - (adjective) planned or arranged in order to produce a particular effect:
 It was a cruel, calculated crime with absolutely no justification.
 [ + to infinitive ] It's a policy that was hardly calculated to (= will not) win votes.
+
+pompous - (adjective) too serious and full of importance:
+He's a pompous old prig who's totally incapable of taking a joke.
+He can sometimes sound a little pompous when he talks about acting.
+
+prig - (noun) a person who obeys the rules of correct behaviour and considers himself or herself to be morally better than other people
+
+obey - (verb) to do what you are told or expected to do according to someone in authority or a rule or law:
+The toddler refused to obey.
+Residents are expected to obey the house rules.
+
+authority (POWER) - (noun) the moral or legal right or ability to control:
+The United Nations has used/exerted/exercised its authority to restore peace in the area.
+We need to get the support of someone in authority (= an important or high-ranking person).
+
+morally - (adverb) based on principles that you or people in general consider to be right, honest, or acceptable:
+Morally, you're right, but in practice I don't think it would work.
+For a teacher to hit a child is not just morally wrong but also illegal.
+
+refuse - (verb) to say that you will not do or accept something:
+He asked me to give him another loan, but I refused.
+He's in trouble but he's refused all (my offers of) help.
+
+representation (ACTING FOR) - (noun) a person or organization that speaks, acts, or is present officially for someone else:
+Can he afford legal representation?
+
+afford - (verb) to have enough money or time to buy, keep, or do something:
+I don’t know how he can afford a new car.
+Can you afford to take any time off work?
+
+egotism - (noun) thinking only about yourself and considering yourself better and more important than other people:
+Finding herself world-famous by the time she was 18 only encouraged the actress's egotism.
+
+encouraged - (adjective) having more confidence or hope about something:
+She felt encouraged by their promise of support.
+
+shelter - (noun) (a building designed to give) protection from bad weather, danger, or attack:
+an air-raid shelter
+They opened a shelter to provide temporary housing for the city's homeless.
+The trees gave/provided some shelter from the rain.
+
+abandoned - (adjective) left in a particular place or condition, usually forever:
+An abandoned baby was found in a box on the hospital steps.
+The world is full of abandoned mines.
+
+vision (MENTAL IMAGE) - (noun) an idea or mental image of something:
+We see in his novels his sinister, almost apocalyptic, vision of the future.
+Johnny was late home and, as usual, I had visions of him lying dead in some alley.
+
+common theme - Here, a common theme means things that are somehow connected.
+The stories have a common theme.
+Yeah, I can see a common theme.
+
+make a difference - The idea of making a difference means to help others reach their goals in life. 
+We all have a teacher who's made a difference in our life.
+Making a positive difference in someone's life is good feeling.
+
