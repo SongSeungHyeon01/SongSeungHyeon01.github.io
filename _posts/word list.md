@@ -327,6 +327,8 @@ literature - (noun) all the information written about a subject:
 1. The medical literature is full of examples of accidental discoveries that led to important advances in science.
 
 unless - (conjunction) used to say what will or will not happen if something else does not happen or is not true; except if:
+She won’t go unless you go (= If you do not go, she will not go either, but if you go, she will go).
+You can’t get a job unless you’ve got the experience (= You can only get a job if you have experience).
 
 figure something/someone out - (phrasal verb) to finally understand something or someone, or find the solution to a problem after a lot of thought:
 1. I can't figure out why he did it.
@@ -1352,3 +1354,61 @@ make a difference - The idea of making a difference means to help others reach t
 We all have a teacher who's made a difference in our life.
 Making a positive difference in someone's life is good feeling.
 
+neat (GOOD) - (adjective) good:
+That video game is really neat!
+
+neat (CLEVER) - (adjective) clever and simple:
+It would be a neat solution to the problem.
+
+clever - (adjective) having or showing the ability to learn and understand things quickly and easily:
+Judy has never been very clever, but she tries hard.
+UK Fiona is very clever at physics.
+
+tidy (ORDERED) - (adjective) having everything ordered and arranged in the right place, or liking to keep things like this:
+The house was clean and tidy.
+My flatmate isn't very tidy.
+
+tidy - (noun) a small container for a few objects, that makes it easier for you to keep your desk, car, etc. tidy
+
+object (THING) - (noun) a thing that you can see or touch but that is not usually a living animal, plant, or person:
+a solid/material/physical object
+a collection of precious objects
+
+on the move - When we are on the move, that means we do not stay in one place for a long time.
+As an outside salesperson, I'm always on the move.
+He's getting tired of always being on the move.
+
+stuck to it - To stick to something means to do it for a long time, even if it becomes difficult and our progress is slow.
+I studied piano as a kid, but never stuck to it.
+He never sticks to anything long enough to improve.
+
+versatile - (adjective) Someone who is versatile can do many things.
+He's a versatile musician.
+I'm not very versatile.
+
+eclectic - (adjective) An eclectic musician plays and mixes many different styles of music. 
+He has an eclectic playing style.
+It's a bit of an eclectic CD.
+
+nylon - (noun) an artificial substance used especially to make clothes, ropes, and brushes:
+These covers are 100 percent nylon.
+a nylon shirt/bag
+
+artificial - (adjective) made by people, often as a copy of something natural:
+clothes made of artificial fibres
+an artificial heart
+
+natural (NOT ARTIFICIAL) - (adjective) as found in nature and not involving anything made or done by people:
+a natural substance
+People say that breast-feeding is better than bottle-feeding because it's more natural.
+
+instrument (MUSIC) - (noun) an object, such as a piano, guitar, or drum, that is played to produce musical sounds:
+Which instrument do you play?
+
+chamber music - Chamber music is a type of classical music to be played by a small group of musicians.
+Mom loves chamber music.
+Chamber music make me think of old European royalty.
+
+lecturer - (noun) someone who teaches at a college or university:
+a senior lecturer
+a lecturer in psychology
