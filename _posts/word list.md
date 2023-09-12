@@ -660,7 +660,7 @@ discouraged - (adjective) having lost your confidence or enthusiasm for somethin
 I think he felt discouraged because of all the criticism he'd received.
 
 confidence (CERTAINTY) - (noun) the quality of being certain of your abilities or of having trust in people, plans, or the future:
-[ + to infinitive ] He has the confidence to walk into a room of strangers and immediately start a conversation.
+He has the confidence to walk into a room of strangers and immediately start a conversation.
 She's completely lacking in confidence.
 
 tend to someone/something - (phrasal verb) to deal with the problems or needs of a person or thing:
@@ -1362,7 +1362,7 @@ It would be a neat solution to the problem.
 
 clever - (adjective) having or showing the ability to learn and understand things quickly and easily:
 Judy has never been very clever, but she tries hard.
-UK Fiona is very clever at physics.
+Fiona is very clever at physics.
 
 tidy (ORDERED) - (adjective) having everything ordered and arranged in the right place, or liking to keep things like this:
 The house was clean and tidy.
@@ -1412,3 +1412,87 @@ Chamber music make me think of old European royalty.
 lecturer - (noun) someone who teaches at a college or university:
 a senior lecturer
 a lecturer in psychology
+
+basically - (adverb) used when referring to the main or most important characteristic or feature of something:
+Basically, (= the most important thing is that) they want a lot more information about the project before they'll put any money into it.
+"So what's the difference between these two TVs?" "Well, they're basically the same, but the more expensive one has 3D."
+
+realize (BECOME AWARE) - (verb) to understand a situation, sometimes suddenly:
+They didn't realize the danger they were in.
+"Do you realize (that) this is the third time you've forgotten?" she said angrily.
+
+daunting - Something that is daunting seems very difficult.
+It was a daunting task.
+The amount of homework he assigned was daunting.
+
+daunting - (adjective) making you feel slightly frightened or worried about your ability to achieve something:
+The country was faced with the daunting prospect of overcoming four decades of division.
+
+slightly (SMALL IN AMOUNT) - (adverb) a little:
+She's slightly taller than her sister.
+I'm slightly upset she forgot my birthday.
+
+frightened - (adjective) feeling fear or worry:
+She gets frightened when he shouts at her.
+The police officer found a frightened child in the hut.
+
+massive - (adjective) very large in size, amount, or number:
+They have a massive house.
+She died after taking a massive overdose of drugs.
+
+stick (PUT) - (verb) to put something somewhere, especially in a not very careful way:
+"Where shall I put these books?" "Oh, just stick them on the table for now."
+She stuck her fingers in her ears so that she couldn't hear the noise.
+
+react - (verb) to act in a particular way as a direct result of something else:
+She slapped him and called him names, but he didn't react.
+The judge reacted angrily to the suggestion that it hadn't been a fair trial.
+
+prompt (QUICK) - (adjective) done quickly and without delay, or (of a person) acting quickly or arriving at an arranged time:
+The agency sent back a prompt reply to my inquiries.
+
+celebrity - (noun) someone who is famous, especially in the entertainment business
+
+status (OFFICIAL POSITION) - (noun) an accepted or official position, especially in a social group:
+The association works to promote the status of retired people as useful members of the community.
+There has been an increase in applications for refugee status.
+
+envision - (verb) to imagine or expect something to happen, appear, etc. in a particular way:
+We envision a park with trails and a boating lake.
+No one had ever envisioned attempting such a total transformation.
+
+promote (ENCOURAGE) - (verb) to encourage people to like, buy, use, do, or support something:
+Advertising companies are always having to think up new ways to promote products.
+The Institute is intended to promote an understanding of the politics and culture of the Arab world.
+
+encourage - (verb) to make someone more likely to do something, or to make something more likely to happen:
+We were encouraged to learn foreign languages at school.
+The council is encouraging the development of the property for both employment and recreation.
+
+likely - (adjective) If something is likely, it will probably happen or is expected:
+Do remind me because I'm likely to forget.
+What's the likely outcome of this whole business?
+
+express (SHOW) - (verb) to show a feeling, opinion, or fact:
+Her eyes expressed deep sadness.
+I would like to express my thanks for your kindness.
+
+(be) up to - Something that is up to us, is our decision.
+How much time I spend is up to me.
+The decision is not up to me.
+
+decision - (noun) something you choose; a choice:
+The board will make its decision shortly.
+Their decision not to attend the party puzzled everyone.
+
+come up with - When we come up with something, that means we think of a new idea.
+We had to quickly come up with a new plan.
+Have you come up with anything yet?
+
+on the spot - To think of something on the spot means to think quickly or instantly.  
+He had to answer difficult questions on the spot.
+The TV reporters put him on the spot.
+
+instantly - (adverb) immediately:
+Both drivers were killed instantly.
+
