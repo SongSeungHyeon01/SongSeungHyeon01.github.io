@@ -1496,3 +1496,50 @@ The TV reporters put him on the spot.
 instantly - (adverb) immediately:
 Both drivers were killed instantly.
 
+headhunt - (verb) to persuade someone to leave their job by offering that person another job with more pay and a higher position:
+She was headhunted by a rival firm.
+
+persuade - (verb) to make someone do or believe something by giving them a good reason to do it or by talking to that person and making them believe it:
+If she doesn't want to go, nothing you can say will persuade her.
+It's no use trying to persuade him (that) you're innocent.
+
+qualification (SKILL) - (noun) knowledge, skill, or some other characteristic that gives a person the ability or the right to do or have something:
+I assume my qualifications for the job will be considered along with theirs.
+
+freelance - (adjective, adverb) working independently usually for various organizations rather than as an employee of a particular one:
+a freelance musician/photographer/writer
+
+various - (adjective) many different:
+We had various problems on our journey, including a flat tyre.
+The author gave various reasons for having written the book.
+
+range (SET) - (noun) a set of similar things:
+I offered her a range of options.
+There is a wide/whole range of opinions on this issue.
+
+audience (GROUP OF PEOPLE) - (noun) the group of people together in one place to watch or listen to a play, film, someone speaking, etc.:
+She lectures to audiences all over the world.
+The secret to public speaking is to get the audience on your side.
+
+political - (adjective) relating to politics:
+political leaders
+There are two major political parties in the US - the Democratic Party and the Republican Party.
+
+politics - (noun) the activities of the government, members of law-making organizations, or people who try to influence the way a country is governed:
+Joe is very active in left-wing politics.
+
+influence - (noun) the power to have an effect on people or things, or a person or thing that is able to do this:
+Helen's a bad/good influence on him.
+He has a huge amount of influence over the city council.
+
+blended - (adjective) A blended drink contains two or more different types of the same product:
+blended whisky
+
+slip (SLIDE) - (verb) to slide suddenly and without intending to:
+He slipped on an icy sidewalk and broke his hip.
+The blanket began to slip off my shoulders.
+
+slip (MOVE EASILY) - (verb) to move easily and quietly so you are not noticed, or to move something easily into position:
+[ I always + adv/prep ] He was able to slip out of the room without disturbing anyone.
+[ T always + adv/prep ] Ben slipped the credit card into the machine.
+
