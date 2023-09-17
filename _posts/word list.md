@@ -1513,6 +1513,10 @@ various - (adjective) many different:
 We had various problems on our journey, including a flat tyre.
 The author gave various reasons for having written the book.
 
+independently - (adverb) without being influenced or controlled in any way by other people, events, or things:
+The two scientists both made the same discovery independently, at roughly the same time.
+Each part of the organization operates independently of the others.
+
 range (SET) - (noun) a set of similar things:
 I offered her a range of options.
 There is a wide/whole range of opinions on this issue.
@@ -1543,3 +1547,22 @@ slip (MOVE EASILY) - (verb) to move easily and quietly so you are not noticed, o
 [ I always + adv/prep ] He was able to slip out of the room without disturbing anyone.
 [ T always + adv/prep ] Ben slipped the credit card into the machine.
 
+catering - (noun) any job making or serving food :
+I've always wanted to work in catering.
+Who is going to do the catering for the wedding?
+
+criteria - Criteria is what we use to form an opinion or make a decision about something.
+The criteria was based on gossip.
+By what criteria did you make that decision?
+
+roll off the tongue - When something rolls off our tongue, that means we say it without much thought or effort.  
+The words just rolled off his tongue.
+After two years in the UK, the English just rolled off her tongue.
+
+switched back and forth - To switch back and forth means to quickly and repeatedly change from one thing to another.  
+They switched back and forth from French to English.
+The lead switched back and forth several times during the match.
+
+a slip of tongue - When we say something we should not have, it's called a slip of the tongue, A small mistake made when speaking:
+A slip of the tongue almost cost him his job.
+Sorry, it was a slip of the tongue.
