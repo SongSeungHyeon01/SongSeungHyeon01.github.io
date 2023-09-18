@@ -225,7 +225,9 @@ fellow - a member of some groups that you must have special training to join:
 
 caption - a short piece of text under a picture in a book or article that describes the picture or explains what the people in it are doing or saying:
 
-establish - to start a company or organization that will continue for a long time:
+establish (START) - (verb) to start a company or organization that will continue for a long time:
+The brewery was established in 1822.
+These methods of working were established in the last century.
 
 formal - public or official:
 
@@ -1566,3 +1568,47 @@ The lead switched back and forth several times during the match.
 a slip of tongue - When we say something we should not have, it's called a slip of the tongue, A small mistake made when speaking:
 A slip of the tongue almost cost him his job.
 Sorry, it was a slip of the tongue.
+
+conscious (AWAKE) - (adjective) awake, thinking, and knowing what is happening around you:
+He's still conscious but he's very badly injured.
+She's out of the operating theatre, but she's not fully conscious yet.
+
+industry (PRODUCTION) - (noun) the companies and activities involved in the process of producing goods for sale, especially in a factory or special area:
+trade and industry
+industry and commerce
+
+commerce - (noun) the activities involved in buying and selling things:
+the world of commerce and industry
+
+neutral (NO OPINION) - (adjective) not saying or doing anything that would encourage or help any of the groups involved in an argument or war:
+If there's an argument between my daughter and her mother, it's important that I remain neutral.
+The peace conference would have to be held in a neutral country.
+
+encourage - (verb) to make someone more likely to do something, or to make something more likely to happen:
+We were encouraged to learn foreign languages at school.
+The council is encouraging the development of the property for both employment and recreation.
+
+argument (DISAGREEMENT) - (noun) a disagreement, or the process of disagreeing:
+The children had an argument about/over what game to play.
+He got into an argument with Jeff in the pub last night.
+
+disagreement - (noun) an argument or a situation in which people do not have the same opinion:
+We had a disagreement about/over the fee for the work.
+Literary critics were in total disagreement (about the value of the book).
+
+controversial - (adjective) causing disagreement or discussion:
+a controversial issue/decision/speech/figure
+The book was very controversial.
+
+flip over - When we flip something over, that means we change the meaning.
+The lawyer flipped over everything I said.
+He could quickly flip anything over.
+
+ratio - (noun) a comparison of two numbers calculated by dividing
+
+make sure (that) - to look and/or take action to be certain that something happens, is true, etc.:
+Make sure you lock the door when you go out.
+Add the eggs, making sure you keep as much air in the mixture as possible.
+
+make sense - (idiom) to be clear and easy to understand:
+This last paragraph doesn’t make any sense.
