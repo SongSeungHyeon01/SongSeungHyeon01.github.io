@@ -1612,3 +1612,48 @@ Add the eggs, making sure you keep as much air in the mixture as possible.
 
 make sense - (idiom) to be clear and easy to understand:
 This last paragraph doesn’t make any sense.
+
+coincidence (SAME TIME) - (noun) an occasion when two or more similar things happen at the same time, especially in a way that is unlikely and surprising:
+You chose exactly the same wallpaper as us - what a coincidence!
+Is it just a coincidence that the wife of the man who ran the competition won first
+
+coincidence (CHANCE) - (noun) chance or luck:
+Just by coincidence, I met my old schoolmate again 50 years later.
+It was pure/sheer coincidence that I remembered his phone number.
+
+fitness (HEALTH) - (noun) the condition of being physically strong and healthy:
+I'm trying to improve my fitness by cycling to work.
+
+condition (AGREED LIMIT) - (noun) an arrangement that must exist before something else can happen:
+One of the conditions in the contract is that we don't build on the land.
+We're not in a position to make/set any conditions - we'll have to accept what they offer us.
+
+latest - (adjective) newest or most recent or modern:
+Have you seen her latest movie?
+the latest fashions
+
+new (RECENTLY CREATED) - (adjective) recently created or having started to exist recently:
+a new car
+She's very creative and always coming up with new ideas.
+
+tricky (DIFFICULT) - (adjective) If a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill:
+It's tricky to learn to ride a skateboard, but you never forget how.
+I'm in a tricky situation - whatever I do I'll offend someone.
+
+kind of - (idiom) used when you are trying to explain or describe something, but you cannot be exact:
+It was kind of strange to see him again.
+
+offend (UPSET) - (verb) to make someone upset or angry:
+I think she was offended that she hadn't been invited to the party.
+He looked offended when you called him middle-aged.
+
+treadmill (REPEATED WORK) - (noun) any type of repeated work that is boring and makes you feel tired and seems to have no positive effect and no end:
+There were days when having kids seemed like an endless treadmill of feeding, washing, and nappy-changing.
+
+whole - (adjective) complete or not divided:
+I spent the whole day cleaning.
+There's still a whole month till my birthday.
+
+guidance - (noun) help and advice about how to do something or about how to deal with problems connected with your work, education, or personal relationships:
+I've always looked to my father for guidance in these matters.
+careers guidance
