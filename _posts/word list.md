@@ -1657,3 +1657,13 @@ There's still a whole month till my birthday.
 guidance - (noun) help and advice about how to do something or about how to deal with problems connected with your work, education, or personal relationships:
 I've always looked to my father for guidance in these matters.
 careers guidance
+
+duty (RESPONSIBILITY) - (noun) something that you have to do because it is part of your job, or something that you feel is the right thing to do:
+The duty of the agency is to act in the best interests of the child.
+I felt it was my duty to tell them the truth.
+
+literally - (adverb) used for emphasizing how large or great an amount is:
+There were literally hundreds of pages to read in the contract.
+
+at least - (idiom) used to emphasize that something is good in a bad situation:
+The car was damaged, but at least he wasn’t hurt.
