@@ -81,9 +81,13 @@ stay away from - When you stay away from something, you do not get near it
 
 spectacular - very exciting to look at
 
-horrible - very unpleasant or bad
+horrible - (adjective) very unpleasant or bad
+He's got a horrible cold.
+What's that horrible smell?
 
 frightened - (adjective) feeling fear or worry
+get frightened She gets frightened when he shouts at her.
+The police officer found a frightened child in the hut.
 
 general - involving or relating to most or all people, things, or places, especially when these are considered as a unit
 
@@ -161,7 +165,9 @@ quite an experience - We often say "quite an experience" to mean a very memorabl
 
 lively - full of energy and enthusiasm; interesting and exciting
 
-enthusiasm  - a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it
+enthusiasm - (noun) a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it
+One of the good things about teaching young children is their enthusiasm.
+enthusiasm for After the accident he lost his enthusiasm for the sport.
 
 eager - (adjective) wanting very much to do or have something, especially something interesting or enjoyable:
 
@@ -289,7 +295,9 @@ opposite - (adjective) completely different:
 
 regulated - (adjective) controlled by rules or laws:
 
-whatever - (pronoun, determiner) anything or everything:
+whatever (NOT IMPORTANT WHAT)- (pronoun, determiner) anything or everything: it is not important what is; it makes no difference what (is):
+We'll go whatever the weather.
+Whatever happens, you know that I'll stand by you.
 
 commercial - (adjective) related to making money by buying and selling things:
 
@@ -1636,6 +1644,10 @@ new (RECENTLY CREATED) - (adjective) recently created or having started to exist
 a new car
 She's very creative and always coming up with new ideas.
 
+yet (UNTIL NOW) - (adverb) still; until the present time:
+I haven't spoken to her yet.
+He hasn't finished yet.
+
 tricky (DIFFICULT) - (adjective) If a piece of work or problem is tricky, it is difficult to deal with and needs careful attention or skill:
 It's tricky to learn to ride a skateboard, but you never forget how.
 I'm in a tricky situation - whatever I do I'll offend someone.
@@ -1667,3 +1679,91 @@ There were literally hundreds of pages to read in the contract.
 
 at least - (idiom) used to emphasize that something is good in a bad situation:
 The car was damaged, but at least he wasn’t hurt.
+
+certified - (adjective) having a document that proves that you have successfully finished a course of training:
+a certified teacher/nurse
+
+prove (SHOW) - (verb) to show a particular result after a period of time:
+The operation proved a complete success.
+The dispute over the song rights proved impossible to resolve.
+
+inconvenient - (adjective) causing problems or difficulties:
+an inconvenient time/place
+It will be very inconvenient for me to have no car.
+
+nowadays -(adverb) at the present time, in comparison to the past:
+Who remembers those movies nowadays?
+Nowadays, I bake my own bread rather than buy it.
+
+desire (WANT) - (verb) to want something, especially strongly:
+I desire only to be left in peace.
+The hotel had everything you could possibly desire.
+
+divorce (PEOPLE) - (noun) an official or legal process to end a marriage:
+The last I heard they were getting a divorce.
+Divorce is on the increase.
+
+dork - (noun) a person who is physically or socially awkward or not fashionable:
+He's such a dork, but he's a lovely guy.
+I look like a dork when I try to run.
+
+fashionable - (adjective) popular at a particular time:
+a fashionable nightclub/restaurant
+fashionable ideas/clothes
+
+freak (STRANGE) - (noun) a thing, person, animal, or event that is extremely unusual or unlikely, and not like any other of its type:
+I was born with black hair all over my back, like some sort of freak.
+freak of nature The pearl is so big that it has been described as a freak of
+
+freak - (verb) to become or cause someone to become extremely emotional:
+My parents freaked when I told them I was pregnant.
+
+emotional - (adjective) relating to the emotions:
+a child's emotional development
+My doctor said the problem was more emotional than physical.
+
+perfectionist - (noun) a person who wants everything to be perfect and demands the highest standards possible:
+She's such a perfectionist that she notices even the tiniest mistakes.
+
+diverse - (adjective) including many different types of people or things:
+Students from countries as diverse as Colombia and Lithuania use Cambridge textbooks.
+New York is a very culturally/ethnically diverse city.
+
+reserve - (verb) to keep something for a particular purpose or time:
+He reserved the right to veto any future plans.
+
+geezer - (noun) an old man
+
+actual - (adjective) existing in fact:
+We had estimated about 300 visitors, but the actual number was much higher.
+The exams are in July, but the actual results (= the results themselves) don't appear until September.
+
+trial (LEGAL PROCESS) - (noun) the hearing of statements and showing of objects, etc. in a law court to judge if a person is guilty of a crime or to decide a case or a legal matter:
+trial proceedings
+Trial by jury is a fundamental right.
+
+reasonable - (adjective) based on or using good judgment and therefore fair and practical:
+If you tell him what happened, I'm sure he'll understand - he's a reasonable man.
+He went free because the jury decided there was a reasonable doubt about his guilt.
+
+hang out - (phrasal verb, verb) to spend a lot of time in a place or with someone:
+hang out at You still hang out at the pool hall?
+hang out with I've been hanging out backstage with the band.
+
+more than - We use this phrase to show something as more features than most people think it does:
+Hanoi is more than just a tourist town. It is a business center as well.
+My dog is more than just a pet. He is a security guard and friend as well.
+
+complicate - (verb) to make something more difficult to deal with, do, or understand:
+It will only complicate the situation if we invite his old girlfriend as well.
+The rescue operation has been complicated by bad weather.
+
+get certified - When you get certified to do something, you get official permission to do so.
+He just got certified to drive a cab in the city.
+You must be certifiied to teach at a high school.
+
+down - Here, the word 'down' has no meaning, but is often added in spoken English with movement verbs. The following sentences have the same meaning:
+I can take you down there.
+I can take you there.
+I am going down to the store. Wanna come?
+I am going to the store. Wanna come?
