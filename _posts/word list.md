@@ -239,7 +239,9 @@ formal - public or official:
 
 polite - behaving in a way that is socially correct and shows understanding of and care for other people's feelings:
 
-request - the act of politely or officially asking for something:
+request - (noun) the act of politely or officially asking for something:
+They received hundreds of requests for more information.
+The boss refused our request to leave work early.
 
 residency - (noun) the fact of living in a place:
 
@@ -1767,3 +1769,78 @@ I can take you down there.
 I can take you there.
 I am going down to the store. Wanna come?
 I am going to the store. Wanna come?
+
+appeal (REQUEST) - (noun) a request to the public for money, information, or help:
+They're launching (= starting) an appeal to raise money for famine victims.
+The police have issued an appeal to the public to stay away from the area over the weekend.
+
+launch (EVENT) - (noun) an event to celebrate or introduce something new:
+How much champagne will we need for the launch?
+Illness prevented her from attending the launch party for her latest novel.
+
+raise (INCREASE) - (verb) to cause something to increase or become bigger, better, higher, etc.:
+The government plan to raise taxes.
+I had to raise my voice (= speak more loudly) to make myself heard over the noise.
+
+famine - (noun) an extreme lack of food in a region, causing suffering and death:
+Widespread famine was reported in the region.
+
+victim - (noun) a person who has suffered the effects of violence or illness or bad luck:
+an accident victim
+She’s just a victim of circumstances beyond her control.
+
+illness - (noun) a disease of the body or mind:
+He died at home after a long illness.
+
+suffer (FEEL PAIN) - (verb) to experience physical or mental pain:
+I think he suffered a lot when his wife left him.
+She suffers in the winter when it's cold and her joints get stiff.
+
+appeal to me - Something that 'appeals to you' is something you find interesting or enjoy. 
+That movie doesn't appeal to me at all.
+Does Italian food appeal to you tonight?
+
+suspended over - A hotel that is 'suspended over' water is hanging from something over the water or built in a way that it is out over the water.
+There is a huge chandelier suspended over the dining room table.
+I want the speakers suspended over those tables over there.
+
+dining room - (noun) a room in which meals are eaten
+
+situated - Where something is 'situated' is where it is located.
+Many of the farms in rural areas are situated on the side of mountains.
+My desk is situated in the back left corner of the classroom.
+
+rural - (adjective) in, of, or like the countryside:
+The area is still very rural and undeveloped.
+
+wade - 'Wading' means walking in shallow water. Usually the water isn't deeper than your knees.
+We will have to wade across the river, because there is not bridge.
+You can wade along the shore, but don't go too deep into the water.
+
+wade - (verb) to walk through water or other liquid with some effort, because it is deep enough to come quite high up your legs, or thick :
+The river was full but we managed to wade across.
+We waded a shallow river.
+
+local color - Here, the 'local color' refers to how the people really live and what they normally do every day.
+Eating at markets, instead of restaurants, really helps you see the local color.
+Traveling to another country during a holiday really gives you a chance to see the local color there.
+
+virtually (ALMOST) - (adverb) almost:
+Their twins are virtually identical.
+That wine stain on my shirt has virtually disappeared.
+
+virtually (BY COMPUTER) - (adverb) using computer technology over the internet, and not involving people physically going somewhere:
+Nowadays all these things can be experienced virtually.
+I've learned a lot, and met (virtually and in the real world) a lot of great people.
+
+ideal - (adjective) perfect, or the best possible:
+the ideal employer
+ideal person for She's the ideal person (= exactly the right type of person) for the job.
+
+idealistic - (adjective) believing that very good things can be achieved, often when this does not seem likely to other people:
+When I was young and idealistic I believed it was possible to change the world.
+She supports a number of idealistic causes.
+
+accurately - (adverb) in a way that is correct, exact, and without any mistakes:
+The plans should be drawn as accurately as possible.
+For the experiment to be valid, it is essential to record the data accurately.
