@@ -91,7 +91,9 @@ The police officer found a frightened child in the hut.
 
 general - involving or relating to most or all people, things, or places, especially when these are considered as a unit
 
-provide - to give someone something that they need
+provide (SUPPLY) - (verb) to give someone something that they need
+This booklet provides useful information about local services.
+All meals are provided at no additional cost.
 
 firm - not soft but not completely hard
 
@@ -1796,6 +1798,10 @@ suffer (FEEL PAIN) - (verb) to experience physical or mental pain:
 I think he suffered a lot when his wife left him.
 She suffers in the winter when it's cold and her joints get stiff.
 
+stiff (FIRM) - (adjective) firm or hard:
+stiff cardboard
+a stiff collar
+
 appeal to me - Something that 'appeals to you' is something you find interesting or enjoy. 
 That movie doesn't appeal to me at all.
 Does Italian food appeal to you tonight?
@@ -1844,3 +1850,26 @@ She supports a number of idealistic causes.
 accurately - (adverb) in a way that is correct, exact, and without any mistakes:
 The plans should be drawn as accurately as possible.
 For the experiment to be valid, it is essential to record the data accurately.
+
+opportunity - (noun) an occasion or situation that makes it possible to do something that you want to do or have to do, or the possibility of doing something:
+Everyone will have an opportunity to comment.
+I was never given the opportunity of going to college.
+
+adventure - (noun) an unusual, exciting, and possibly dangerous activity, such as a trip or experience, or the excitement produced by such an activity:
+go on an adventure They went on an adventure hunting for treasure in the western hills.
+have an adventure She had some exciting adventures in Egypt.
+
+unbelievable (SURPRISING) - (adjective) extremely surprising:
+She eats an unbelievable amount of food.
+You've had such bad luck it's unbelievable.
+
+buffet - (noun) a meal where people serve themselves different types of food:
+Are you having a sit-down meal or a buffet at the wedding?
+
+aspect (FEATURE) - (noun) one part of a situation, problem, subject, etc.:
+Which aspects of the job do you most enjoy?
+His illness affects almost every aspect of his life.
+
+virtually any - 'Virtually any' is like 'almost any.' The hotel would have almost any type of food:
+They serve virtually any kind of pizza you could imagine.
+Teaching is something you can do virtually anywhere.
