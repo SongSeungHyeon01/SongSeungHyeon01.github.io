@@ -127,8 +127,6 @@ prefer not to - We use the phrase prefer not to when discussing things we do not
 1. I prefer not to work on Saturday.
 2. She prefers not to work outside.
 
-as long as - if
-
 find (something) out - to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time
 
 apart from that - apart from that just means other than that
@@ -1764,7 +1762,7 @@ The rescue operation has been complicated by bad weather.
 
 get certified - When you get certified to do something, you get official permission to do so.
 He just got certified to drive a cab in the city.
-You must be certifiied to teach at a high school.
+You must be certified to teach at a high school.
 
 down - Here, the word 'down' has no meaning, but is often added in spoken English with movement verbs. The following sentences have the same meaning:
 I can take you down there.
@@ -1873,3 +1871,52 @@ His illness affects almost every aspect of his life.
 virtually any - 'Virtually any' is like 'almost any.' The hotel would have almost any type of food:
 They serve virtually any kind of pizza you could imagine.
 Teaching is something you can do virtually anywhere.
+
+surround - (verb) to be everywhere around something:
+Snow-capped mountains surround the city.
+Gwen sat at her desk, surrounded by books and papers.
+
+as long as - (idiom) if:
+You can have a dog as long as you promise to take care of it.
+
+preferably - (adverb) if possible:
+Water the plants twice a week, preferably in the morning.
+
+preferably - So long as the hotel is surrounded by nature, preferably on the water.
+What is 'preferable' to you is what you would like the best:
+We are looking for someone with at least two years of experience, preferably more.
+You have to be there by three o'clock, preferably earlier.
+
+if (IN THAT SITUATION) - (conjunction) used to say that a particular thing can or will happen only after something else happens or becomes true:
+I'll pay you double if you get the work finished by Friday.
+if not We'll have the party in the garden if the weather's good. If not (= if the weather is not good), it'll have to be inside.
+
+I'm set - You can say 'I'm set' when you are completely content and have everything that you need. This is an informal phrase:
+Okay. I'm set. I have everything I need.
+I just need about five more minutes to get ready, and then I'm set.
+
+facility (BUILDING) - (noun) a place, especially including buildings, where a particular activity happens:
+a nuclear research facility
+a military facility
+
+whether - (conjunction) (used especially in reporting questions and expressing doubts) if, or not:
+I wasn't sure whether you'd like it.
+She asked me whether I was interested in working for her.
+
+infinity - (noun) time or space that has no end:
+the infinity of the universe
+the concept of infinity
+
+personal butler - (noun) A 'butler' is a male servant who is usually in charge of food and drinks. A 'personal butler' would be one that only works for you, not other people staying in the hotel:
+We do offer the option of a personal butler. Is that something you would be interested in?
+A lot of the expensive hotels in Las Vegas include personal butler services with their most expensive rooms.
+
+servant - (noun) a person who is employed in another person's house, doing jobs such as cooking and cleaning, especially in the past
+
+amenity - (noun) An 'amenity' is any feature of something like a house or hotel that makes it more comfortable, convenient or desirable.
+What kind of amenities are you looking for in a new house?
+I think the balcony is a fantastic amenity in this apartment.
+
+not up for - If you are 'not up for' something, you are not interested in doing it:
+His stomach hurts a little, so I don't think he'd be up for spicy food tonight.
+I'm really not up for going out tonight, but I would love to watch a movie at home.
