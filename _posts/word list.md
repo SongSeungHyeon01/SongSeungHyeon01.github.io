@@ -1,3 +1,10 @@
+ex) Would you rather go to the beach or go skiing 
+ex) Although some people prefer waking up early, I prefer waking up late
+ex) Even though some people love going to the beaches, I prefer skiing
+ex) Despite the advantages of living in the country, I prefer living in the city.
+ex) some people like playing the computer games; neverthless, I like reading books.
+ex) some people like movies; however, I don't I prefer books
+
 stunning (BEAUTIFUL) - (adjective) extremely beautiful or attractive
 a stunning dress
 a stunning view over the bay of Saint Tropez
@@ -50,9 +57,17 @@ gorgeous - very beautiful or pleasant
 
 pleasant - enjoyable, attractive, friendly, or easy to like
 
-attractive - (adjective) very pleasing in appearance or sound / causing interest or pleasure
+attractive - (adjective) very pleasing in appearance or sound:
 a very attractive young woman
 I find him very attractive (= he attracts me sexually).
+
+attractive - (adjective) causing interest or pleasure:
+Spending twelve hours on a plane isn't a very attractive (= pleasant) prospect.
+an attractive offer (= an offer with benefits for me)
+
+attract - (verb) (of people, things, places, etc.) to pull or draw someone or something towards them, by the qualities they have, especially good ones:
+These flowers are brightly coloured in order to attract butterflies.
+The circus is attracting huge crowds/audiences.
 
 pleasing - giving a feeling of satisfaction or enjoyment
 
@@ -73,7 +88,12 @@ attitude - a feeling or opinion about something or someone, or a way of behaving
 
 decent - socially acceptable or good
 
-acceptable - satisfactory and able to be agreed to or approved of
+acceptable - (adjective) satisfactory and able to be agreed to or approved of:
+Clearly we need to come to an arrangement that is acceptable to both parties.
+So what is an acceptable level of radiation?
+
+acceptable - (adjective) just good enough, but not very good:
+Her performance was acceptable, but not stunning.
 
 in person - If you do something or go somewhere in person, you do it or go there yourself
 
@@ -99,15 +119,23 @@ firm - not soft but not completely hard
 
 through - from one end or side of something to the other; by; using:
 
-effort - physical or mental activity needed to achieve something
+effort - (noun) physical or mental activity needed to achieve something:
+If we could all make an effort to keep this office tidier it would help.
+make the effort You can't expect to have any friends if you don't make the effort with people.
 
 contain - to have something inside or include something as a part
 
-occasion - a particular time, especially when something happens or has happened
+occasion - (noun) a particular time, especially when something happens or has happened:
+We met on several occasions to discuss the issue.
+I've heard him be rude to her on a number of occasions.
 
-continuously - without a pause or interruption
+continuously - (adverb) without a pause or interruption:
+You can't work continuously for six hours without a break!
+He played continuously for minutes on end without appearing to take a breath.
 
-interruption - an occasion when someone or something stops something from happening for a short period
+interruption - (noun) an occasion when someone or something stops something from happening for a short period:
+a brief interruption
+I worked all morning without interruption.
 
 roast - to cook food in an oven or over a fire
 
@@ -117,7 +145,9 @@ besides - in addition to, also
 
 awkward - difficult to use, do, or deal with
 
-fairly - more than average, but less than very
+fairly (QUITE) - (adverb) more than average, but less than very:
+She's fairly tall.
+I'm fairly sure that this is the right address.
 
 mainly - usually or to a large degree
 
@@ -170,6 +200,8 @@ One of the good things about teaching young children is their enthusiasm.
 enthusiasm for After the accident he lost his enthusiasm for the sport.
 
 eager - (adjective) wanting very much to do or have something, especially something interesting or enjoyable:
+the children's eager faces
+[ + to infinitive ] She sounded very eager to meet you.
 
 remind - to make someone think of something they have forgotten or might have forgotten
 
@@ -222,10 +254,8 @@ Now that the children are settled at school, we don't really want to move again.
 Although I worked there for over a year, I never really felt settled.
 
 being - a person or thing that exists:
-
-* Do they make you do a lot of paperwork?
-
-* Do they let you teach anything you want?
+Do they make you do a lot of paperwork?
+Do they let you teach anything you want?
 
 fellow - a member of some groups that you must have special training to join:
 
@@ -235,7 +265,9 @@ establish (START) - (verb) to start a company or organization that will continue
 The brewery was established in 1822.
 These methods of working were established in the last century.
 
-formal - public or official:
+formal (OFFICIAL) - (adjective)  public or official:
+formal procedures
+a formal announcement
 
 polite - behaving in a way that is socially correct and shows understanding of and care for other people's feelings:
 
@@ -285,11 +317,7 @@ satisfactory - (adjective) good or good enough for a particular need or purpose:
 
 no-no - (noun) something that is thought to be unsuitable or unacceptable:
 
-against - (preposition) disagreeing with a plan or activity:
-
 comment - (noun) something that you say or write that expresses your opinion:
-
-oppose - (verb) to disagree with something or someone, often by speaking or fighting against it, him, or her:
 
 compete - (verb) to try to be more successful than someone or something else:
 
@@ -702,7 +730,7 @@ doubt - (noun) a feeling of not knowing what to believe or what to do, or the co
 [ C ] If you have any doubt about her ability, don’t hire her.
 [ + that clause ] There’s no doubt that the show will be successful.
 
-(verb) - to be uncertain about something or someone, or to have difficulty believing something:
+doubt - (verb) to be uncertain about something or someone, or to have difficulty believing something:
 [ T ] He may come back tomorrow with the money, but I doubt it.
 
 without (a) doubt - used to emphasize your opinion:
@@ -1231,7 +1259,6 @@ The college now has a counselor to help students with both personal and work pro
 a marriage counselor
 
 go off - To go off somewhere means to leave for another location.  Notice the following:
-
 I go off to school in the fall.
 He went off to Germany on business.
 
@@ -1445,8 +1472,12 @@ She's slightly taller than her sister.
 I'm slightly upset she forgot my birthday.
 
 frightened - (adjective) feeling fear or worry:
-She gets frightened when he shouts at her.
+get frightened / She gets frightened when he shouts at her.
 The police officer found a frightened child in the hut.
+frightened of / Are you frightened of spiders?
+frightened that / I was frightened that you would fall.
+I was frightened our friendship would be over if I told her about Marsha.
+frightened to / Don't be frightened to complain if the service is bad.
 
 massive - (adjective) very large in size, amount, or number:
 They have a massive house.
@@ -1493,7 +1524,7 @@ I would like to express my thanks for your kindness.
 How much time I spend is up to me.
 The decision is not up to me.
 
-decision - (noun) something you choose; a choice:
+decision (CHOICE) - (noun) something you choose; a choice:
 The board will make its decision shortly.
 Their decision not to attend the party puzzled everyone.
 
@@ -1545,8 +1576,18 @@ politics - (noun) the activities of the government, members of law-making organi
 Joe is very active in left-wing politics.
 
 influence - (noun) the power to have an effect on people or things, or a person or thing that is able to do this:
-Helen's a bad/good influence on him.
-He has a huge amount of influence over the city council.
+bad/good influence on / Helen's a bad/good influence on him.
+have influence over / He has a huge amount of influence over the city council.
+exert influence / Christopher hoped to exert his influence to make them change their minds.
+under the influence of / At the time she was under the influence of her father.
+
+influence -(verb) to affect or change how someone or something develops, behaves, or thinks:
+She's very good at making friends and influencing people.
+[ + obj + to infinitive ] What influenced you to choose a career in nursing?
+
+affect (INFLUENCE) - (verb) to have an influence on someone or something, or to cause a change in someone or something:
+Both buildings were badly affected by the fire.
+The divorce affected every aspect of her life.
 
 blended - (adjective) A blended drink contains two or more different types of the same product:
 blended whisky
@@ -1675,6 +1716,10 @@ careers guidance
 duty (RESPONSIBILITY) - (noun) something that you have to do because it is part of your job, or something that you feel is the right thing to do:
 The duty of the agency is to act in the best interests of the child.
 I felt it was my duty to tell them the truth.
+
+responsibility - (DUTY) something that it is your job or duty to deal with:
+[ + to infinitive ] It's her responsibility to ensure the project finishes on time.
+She takes her responsibilities as a nurse very seriously.
 
 literally - (adverb) used for emphasizing how large or great an amount is:
 There were literally hundreds of pages to read in the contract.
@@ -1920,3 +1965,306 @@ I think the balcony is a fantastic amenity in this apartment.
 not up for - If you are 'not up for' something, you are not interested in doing it:
 His stomach hurts a little, so I don't think he'd be up for spicy food tonight.
 I'm really not up for going out tonight, but I would love to watch a movie at home.
+
+last - (verb) to continue to exist:
+The meeting lasted two hours.
+The drought lasted for several months.
+
+sightseeing - (noun) the activity of visiting interesting places, especially by people on holiday:
+We did some sightseeing in Paris.
+There was no time to go sightseeing in Seattle.
+
+struggle (EFFORT) - (verb) to experience difficulty and make a very great effort in order to do something:
+The dog had been struggling to get free of the wire noose.
+I've been struggling to understand this article all afternoon.
+
+struggle (informal) - to be in danger of failing or being defeated:
+After the first half, United were really struggling.
+
+informal - (adjective) not formal or official:
+The two groups agreed to hold an informal meeting.
+Alliances among small businesses are often informal arrangements, such as two companies teaming up for a marketing event.
+
+great (BIG) - (adjective) large in amount, size, or degree:
+an enormous great hole
+The issue is of great importance to voters.
+
+enormous - (adjective) extremely large:
+an enormous car/house
+He earns an enormous salary.
+
+amount - (noun) a collection or mass, especially of something that cannot be counted:
+Small amounts of land were used for keeping animals.
+He paid regular amounts of money to a charity.
+
+mass - (adjective) having an effect on or involving a large number of people or forming a large amount:
+weapons of mass destruction
+a mass murderer
+
+earn - (verb) to receive money as payment for work that you do:
+I earn $80,000 a year.
+How much do you earn, if you don't mind me asking?
+
+difficulty - (noun) the fact of not being easy to do or understand:
+We finished the job, but only with great difficulty.
+The difficulty of the task excited them.
+
+expect (THINK) - (verb) to think or believe something will happen, or someone will arrive:
+We are expecting a lot of applicants for the job.
+I expect (that) you'll find it somewhere in your bedroom.
+
+explain - (verb) to make something clear or easy to understand by describing or giving information about it:
+If there's anything you don't understand, I'll be happy to explain.
+explain something to someone The teacher explained the rules to the children.
+
+procedure (WAY TO DO) - (noun) a set of actions that is the official or accepted way of doing something:
+The company has new procedures for dealing with complaints.
+You must follow correct procedure at all times.
+
+individual (SINGLE) - (noun) a single person or thing, especially when compared to the group or set to which they belong:
+Every individual has rights which must never be taken away.
+Like many creative individuals, she can be very bad-tempered.
+
+organize (ARRANGE) - (verb) to make arrangements for something to happen:
+They organized a meeting between the teachers and students.
+[ + to infinitive ] UK She had organized a car to meet me at the airport.
+
+toxic (POISONOUS) - (adjective) poisonous:
+toxic waste/chemicals/effluent
+
+prefer (CHOOSE) - (verb) to like, choose, or want one thing rather than another:
+Do you prefer hot or cold weather?
+I prefer red wine to white.
+
+mascot - (noun) a person, animal, or object that is believed to bring good luck, or one that represents an organization:
+a team mascot
+The Olympic Games always have an official mascot.
+
+without - (preposition, adverb) not having or doing something, or lacking something:
+I left without my umbrella.
+You look nice without make-up. 
+
+lack - (verb) to not have or not have enough of something that is needed or wanted:
+He just lacks a little confidence.
+What we lack in this house is space to store things.
+
+as - (adverb) used in comparisons to refer to the degree of something:
+She'll soon be as tall as her mother.
+I can't run as fast as you.
+
+crowd - (noun) a large group of people who have come together:
+A crowd of about 15,000 attended the concert.
+
+violent (CAUSING HURT) - (adjective) using force to hurt or attack:
+He yells a lot but I don't think he's ever been physically violent towards her.
+
+penalty (PUNISHMENT) - (noun) a punishment, or the usual punishment, for doing something that is against a law:
+The law carries a penalty of up to three years in prison.
+They asked for the maximum penalty for hoax calls to be increased to one year.
+
+punish (CRIME) - (verb) to cause someone who has done something wrong or committed a crime to suffer, by hurting them, forcing them to pay money, sending them to prison, etc.:
+Those responsible for these crimes must be brought to court and punished.
+He punished the class by giving them extra work.
+
+towards (MOVEMENT) - (preposition) in the direction of, or closer to someone or something:
+She stood up and walked towards him.
+He leaned towards his wife and whispered, "Can we go home soon?"
+
+whisper (SPEAK) - (verb) to speak very quietly, using the breath but not the voice, so that only the person close to you can hear you:
+She leaned over and whispered something in his ear.
+What are you two girls whispering about?
+
+attend (BE PRESENT) - (verb) to go to an event, place, etc.:
+Over two hundred people attended the funeral.
+The meeting is on the fifth and we're hoping everyone will attend.
+
+addict - (noun) a person who cannot stop doing or using something, especially something harmful:
+a drug/heroin addict
+a gambling addict
+
+harm - (noun) physical or other injury or damage:
+Both deny conspiring to cause actual bodily harm.
+do something harm A mistake like that will do his credibility a lot of harm.
+
+applicant - (noun) a person who formally requests something, especially a job, or to study at a college or university:
+How many applicants did you have for the job?
+
+credibility - (noun) the fact that someone can be believed or trusted:
+His arrest for lewd behaviour seriously damaged his credibility as a religious leader.
+He complained that we had tried to undermine his credibility within the company.
+
+accuse - (verb) to say that someone has done something morally wrong, illegal, or unkind:
+"It wasn't my fault." "Don't worry, I'm not accusing you."
+accuse someone of something He's been accused of robbery/murder.
+
+finance - (noun) (the management of) a supply of money:
+corporate/personal/public finance
+the minister of finance/the finance minister
+
+suitable - (adjective) acceptable or right for someone or something:
+The film is not suitable for children.
+A conference was planned, but finding a suitable venue proved difficult.
+
+defeat - (verb) to win against someone in a fight, war, or competition:
+Napoleon was defeated by the Duke of Wellington at the battle of Waterloo.
+They defeated the Italian team and reached the final.
+
+defeat - (noun) success in competition with an opponent, causing the opponent to lose so that you can win:
+[ U ] In the American Civil War, the North’s defeat of the South involved tremendous loss of life on both sides.
+
+against (OPPOSING) - (preposition) disagreeing with a plan or activity:
+She spoke against the decision to close the college.
+50 people voted against the new proposal.
+
+vote - (verb) to express your choice or opinion, especially by officially writing a mark on a paper or by raising your hand or speaking in a meeting:
+vote in She was too young to vote in the election.
+vote on The committee voted on the proposal, and accepted it unanimously.
+vote for/against Did you vote for or against the motion?
+
+disagree - (verb) to not have the same opinion, idea, etc.:
+I'm afraid I have to disagree with you (on that issue).
+[ + that ] Few people would disagree that something should be done to reduce crime in the area.
+
+oppose - (verb) to disagree with something, often by speaking or fighting against it:
+The governor adamantly/vehemently opposes raising taxes.
+
+continuously - (adverb) without a pause or interruption:
+You can't work continuously for six hours without a break!
+He played continuously for minutes on end without appearing to take a breath.
+
+pause - (noun) a short period in which something such as a sound or an activity is stopped before starting again:
+There will be a brief pause in the proceedings while the piano is moved into place.
+After a long, awkward pause, someone finally asked a question.
+
+accurately - (adverb) in a way that is correct, exact, and without any mistakes:
+The plans should be drawn as accurately as possible.
+For the experiment to be valid, it is essential to record the data accurately.
+
+accurate - (adjective) correct, exact, and without any mistakes:
+an accurate machine
+an accurate description
+
+tidy (ORDERED) - (adjective) having everything ordered and arranged in the right place, or liking to keep things like this:
+The house was clean and tidy.
+My flatmate isn't very tidy.
+
+tidy - (noun) a small container for a few objects, that makes it easier for you to keep your desk, car, etc. tidy
+
+tidy - (verb) to make a place or a collection of things tidy:
+Tidy (up) these papers before you leave, please.
+I'm tired of asking you to tidy your room (up).
+
+moan (SOUND) - (verb) to make a long, low sound of pain, suffering, or another strong emotion:
+He moaned with pain before losing consciousness.
+"Let me die," he moaned.
+
+bait (FISH/ANIMAL) - (noun) a small amount of food on a hook (= curved piece of wire) or in a special device used to attract and catch a fish or animal:
+They were digging up worms to use for bait.
+We put down some poisoned bait to kill the rats.
+
+bait (FISH/ANIMAL) - (verb) to put food on a hook (= curved piece of wire) or in a special device to attract and catch a fish or animal:
+Do you have any stale cheese that I can bait the mousetrap with?
+
+yell - (verb) to shout something or make a loud noise, usually when you are angry, in pain, or excited:
+Our neighbours were yelling (obscenities) at each other this morning.
+The child yelled out in pain.
+
+yell - (noun) a loud shout, usually when you are angry, in pain, or excited:
+Suddenly there was a loud yell from the bathroom.
+I heard a yell and a heavy crunch as he fell to the floor.
+
+being - (noun) a person or thing that exists:
+A nuclear war would kill millions of living beings.
+Strange beings from outer space are still a popular subject for sci-fi movies.
+
+despite - (preposition) without taking any notice of or being influenced by; not prevented by:
+I still enjoyed the week despite the weather.
+Despite repeated assurances that the product is safe, many people have stopped buying it.
+
+effect (RESULT) - (noun) the result of a particular influence:
+effect on/upon The radiation leak has had a disastrous effect on/upon the environment.
+I tried taking tablets for the headache but they didn't have any effect.
+
+assertive - (adjective) Someone who is assertive behaves confidently and is not frightened to say what they want or believe:
+If you really want the promotion, you'll have to be more assertive.
+
+promotion (ENCOURAGE) - (noun) activities to advertise something:
+a sales promotion
+There was a promotion in the supermarket and they were giving away free glasses of wine.
+
+advertise - (verb) to make something known generally or in public, especially in order to sell it:
+We advertised our car in the local newspaper.
+He advertises his services on the company notice board.
+
+flex (BEND) - (verb) to bend an arm, leg, etc. or tighten a muscle:
+First, straighten your legs, then flex your feet.
+He tried to impress me by flexing his huge muscles.
+
+flex (BEHAVE PROUDLY) - (verb) to show that you are very proud or happy about something you have done or something you own, usually in a way that annoys people:
+"I beat you!" "Hey, no flexing."
+No need to flex about all the cash you've got.
+
+eligibility - (noun) the fact of having the necessary qualities or satisfying the necessary conditions:
+I'll have to check her eligibility to take part.
+The eligibility rules prevent under-18s being in the team.
+
+perhaps - (adverb) used to show that something is possible or that you are not certain about something:
+He hasn't written to me recently - perhaps he's lost my address.
+Perhaps the most important question has not been asked.
+
+formula (METHOD/RULE) - (noun) a standard or accepted way of doing or making something :
+formula of / We have changed the formula of the washing powder.
+formula for / There's no magic formula for success.
+
+advantage - a condition giving a greater chance of success:
+advantage of doing sth / The advantage of booking tickets in advance is that you get better seats.
+advantages of sth / Despite the twin advantages of wealth and beauty, she did not have a happy life.
+
+autonomous - (adjective) independent and having the power to make decisions for yourself:
+The company's divisions, which have been largely autonomous up to now, will be centralized under the newly appointed CEO.
+The country now has 17 autonomous regions, each with a distinct culture.
+
+accepted - (adjective) generally agreed to be satisfactory or right:
+"Speed bump" now seems to be the generally accepted term for those ridges in the road that slow traffic down.
+
+satisfactory - (adjective) good or good enough for a particular need or purpose:
+The teachers seem to think his work is satisfactory.
+We hope very much to find a satisfactory solution to the problem.
+
+seem - (verb) to give the effect of being; to be judged to be:
+He's 16, but he often seems (to be) younger.
+The children seemed (as if/as though/like they were) tired.
+
+take a breath - (phrase) to breathe air into your lungs (as a single action):
+take a deep breath / The doctor told me to take a deep breath (= breathe in a lot of air).
+I took a breath, smiled, and slowly tried once more to explain.
+
+advantage - (noun) a condition giving a greater chance of success:
+advantage of doing sth / The advantage of booking tickets in advance is that you get better seats.
+advantages of sth / Despite the twin advantages of wealth and beauty, she did not have a happy life.
+[ + to infinitive ] It would be to your advantage (= it would improve the situation for you) to agree to his demands.
+give sb an advantage / Her background as a financial officer gives her an advantage in dealing with public budgets.
+give sb an advantage over sb / His height and reach give him a big advantage over (= make him better than) other boxers.
+have the advantage of sb / He has the advantage of being able to walk to work because he lives so close by.
+have the advantage of sb / UK formal "Do you know how old I am?" "I'm afraid you have the advantage of me there (= you know the answer but I do not)."
+For a goalkeeper, it's a great advantage to have big hands.
+
+obtain (GET) - (verb) to get something, especially by asking for it, buying it, working for it, or producing it from something else:
+to obtain permission
+First editions of these books are now almost impossible to obtain.
+
+generally - (adverb) considering the whole of someone or something, and not just a particular part of him, her, or it:
+Your health is generally good, but you do have a few minor problems.
+He wants more money to be given to the arts generally.
+
+generally - (adverb) usually, or in most situations:
+The baby generally wakes up three times during the night.
+generally speaking Well, generally speaking (= in most situations), it's quicker on public transport.
+
+generally - (adverb) by most people, or to most people:
+It was generally believed at the time that both men were guilty.
+The proposal has received a generally favourable reaction.
+
+alert - (adjective) quick to see, understand, and act in a particular situation:
+I'm not feeling very alert today - not enough sleep last night!
+A couple of alert readers posted comments on the website pointing out the mistake.
