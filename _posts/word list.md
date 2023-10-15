@@ -111,7 +111,7 @@ The police officer found a frightened child in the hut.
 
 general - involving or relating to most or all people, things, or places, especially when these are considered as a unit
 
-provide (SUPPLY) - (verb) to give someone something that they need
+provide (SUPPLY) - (verb) to give someone something that they need:
 This booklet provides useful information about local services.
 All meals are provided at no additional cost.
 
@@ -371,9 +371,13 @@ She won’t go unless you go (= If you do not go, she will not go either, but if
 You can’t get a job unless you’ve got the experience (= You can only get a job if you have experience).
 
 figure something/someone out - (phrasal verb) to finally understand something or someone, or find the solution to a problem after a lot of thought:
-1. I can't figure out why he did it.
-2. I find him really odd - I can't figure him out at all.
-3. Can you figure out the answer to question 5?
+[ + question word ] I can't figure out why he did it.
+I find him really odd - I can't figure him out at all.
+Can you figure out the answer to question 5?
+
+figure out someone/something - (phrasal verb) to understand someone or something, or to find the answer to something by thinking:
+I’ve never been able to figure her out.
+Can you figure out how to open this?
 
 nearly - (adverb) almost, or not completely:
 
@@ -733,6 +737,15 @@ doubt - (noun) a feeling of not knowing what to believe or what to do, or the co
 doubt - (verb) to be uncertain about something or someone, or to have difficulty believing something:
 [ T ] He may come back tomorrow with the money, but I doubt it.
 
+no doubt - used to emphasize that what you are saying is true or likely to happen:
+We will, no doubt, discuss these issues again at the next meeting.
+
+cast doubt on something - to make something seem uncertain:
+Witnesses have cast doubt on the accused's innocence.
+
+in doubt - If the future or success of someone or something is in doubt, it is unlikely to continue or to be successful:
+The future of the stadium is in doubt because of a lack of money.
+
 without (a) doubt - used to emphasize your opinion:
 She is without (a) doubt the best student I have ever taught.
 
@@ -1036,7 +1049,7 @@ A spider landed on her pillow and she screamed.
 Through the smoke, the rescuers could hear people screaming for help.
 
 innocent (NOT GUILTY) - (adjective) (of a person) not guilty of a particular crime:
-He firmly believes that she is innocent of the crime.
+innocent of / He firmly believes that she is innocent of the crime.
 
 firmly (NOT LOOSELY) - (adverb) in a way that will not become loose:
 Make sure the rope is firmly attached before attempting to climb down.
@@ -1233,6 +1246,9 @@ A unicorn is a mythical animal.
 skyscraper - (noun) a very tall modern building, usually in a city
 
 settler - (noun) a person who arrives, especially from another country, in a new place in order to live there and use the land
+
+settler - (noun) a person who goes to live in a new place where few people have lived before:
+The first settlers of this area were Germans.
 
 bravery - (noun) brave behaviour or actions:
 They were awarded medals for their bravery.
@@ -2224,6 +2240,18 @@ autonomous - (adjective) independent and having the power to make decisions for 
 The company's divisions, which have been largely autonomous up to now, will be centralized under the newly appointed CEO.
 The country now has 17 autonomous regions, each with a distinct culture.
 
+accept (TAKE) - (verb) to agree to take something:
+Do you accept credit cards?
+She was in Mumbai to accept an award for her latest novel.
+
+accept (APPROVE) - (verb) to consider something or someone as satisfactory:
+The manuscript was accepted for publication last week.
+She was accepted as a full member of the society.
+
+accept (BELIEVE) - (verb)to believe that something is true:
+The police refused to accept her version of the story.
+He still hasn't accepted the situation (= realized that he cannot change it).
+
 accepted - (adjective) generally agreed to be satisfactory or right:
 "Speed bump" now seems to be the generally accepted term for those ridges in the road that slow traffic down.
 
@@ -2268,3 +2296,204 @@ The proposal has received a generally favourable reaction.
 alert - (adjective) quick to see, understand, and act in a particular situation:
 I'm not feeling very alert today - not enough sleep last night!
 A couple of alert readers posted comments on the website pointing out the mistake.
+
+performance (ACTIVITY) - (noun) how well a person, machine, etc. does a piece of work or an activity:
+He was an experienced player who was always seeking to improve his performance.
+High-performance cars (= those that are fast, powerful, and easy to control) are the most expensive.
+
+performance (ENTERTAINMENT) - (noun) the action of entertaining other people by dancing, singing, acting, or playing music:
+a performance of Arthur Miller's play "The Crucible"
+She gave a superb performance as Lady Macbeth.
+
+proletariat - (noun) the class of people who do unskilled jobs in industry and own little or no property:
+The power of the proletariat had become too formidable.
+Industrialism had created a proletariat in Russia.
+
+proletariat - (noun) the people in a society who do not control production and must work in order to live, or the lowest social and economic group in a society
+
+formidable - (adjective) causing you to have fear or respect for something or someone because that thing or person is large, powerful, or difficult:
+a formidable obstacle/task
+a formidable adversary/enemy/opponent
+
+formidable - (adjective) strong and powerful, and therefore difficult to deal with if opposed to you:
+
+production (MAKING) - (noun) the process of making or growing goods to be sold:
+Coke is used in the production of steel.
+We watched a video showing the various stages in the production of glass.
+
+industry (PRODUCTION) - (noun) the companies and activities involved in the process of producing goods for sale, especially in a factory or special area:
+trade and industry
+industry and commerce
+
+commerce - (noun) the activities involved in buying and selling things:
+the world of commerce and industry
+
+property (THINGS OWNED) - (noun) an object or objects that belong to someone:
+The club does not accept responsibility for loss of or damage to club members' personal property.
+Both books have "Government property" stamped inside them.
+
+property (THINGS OWNED) - (noun) a building or area of land, or both together:
+He owns a number of properties on the south coast.
+The notice said "Private property - keep off!"
+
+measure (SIZE) - (verb) to discover the exact size or amount of something:
+"Will the table fit in here?" "I don't know - let's measure it."
+This machine measures your heart rate.
+
+measure (JUDGE) - (verb) to judge the quality, effect, importance, or value of something:
+There is no way of measuring the damage done to morale.
+
+detector - (noun) a device used to find particular substances or things, or measure their level:
+a metal/smoke detector
+
+prepaid - (adjective) if a product or service is prepaid, it has already been paid for:
+Each advertisement runs six times and is $350 prepaid.
+Use a prepaid phone card if you're someone who rarely makes long-distance calls.
+
+provide (SUPPLY) - (verb) to give someone something that they need:
+This booklet provides useful information about local services.
+All meals are provided at no additional cost.
+
+supply - (verb) to provide something that is wanted or needed, often in large quantities and over a long period of time:
+Electrical power is supplied by underground cables.
+supply something to someone Three people have been arrested for supplying arms to the terrorists.
+
+grant - (noun) an amount of money given especially by the government to a person or organization for a special purpose:
+a student/research grant
+a local authority/government grant
+
+grant (GIVE) - (verb) to give or allow someone something, usually in an official way:
+[ + two objects ] They granted her an entry visa.
+He was granted asylum.
+
+grant (ACCEPT) - (verb) to accept that something is true, often before expressing an opposite opinion:
+grant that / I grant that it must have been upsetting but even so I think she overreacted.
+I grant / you I grant you (= it is true that), it's a difficult situation but I feel sure he could have handled it more sensitively.
+
+overreact - (verb) to react in an extreme, especially an angry or frightened, way:
+Try not to overreact to criticism.
+
+criticism - (noun) the act of saying that something or someone is bad:
+The designs for the new mosque have attracted widespread criticism.
+I have a few criticisms to make about your speech.
+
+seek (SEARCH) - (verb) to try to find or get something, especially something that is not a physical object:
+"Are you actively seeking jobs?" she asked.
+Hundreds of dissidents are seeking refuge/asylum in the US embassy.
+
+seek (TRY) - (verb) to try or attempt:
+They sought to reassure the public.
+
+attempt - (verb) to try to do something, especially something difficult:
+[ + to infinitive ] He attempted to escape through a window.
+He attempted a joke, but no one laughed.
+
+attempt (ACT OF TRYING) - (noun) the act of trying to do something, especially something difficult:
+[ + to infinitive ] She made a few half-hearted attempts to join in their conversation.
+He made no attempt to be sociable.
+
+rather (SMALL AMOUNT) - (adverb) quite; to a slight degree:
+It's rather cold today, isn't it?
+That's rather a difficult book - here's an easier one for you.
+
+rather (MORE EXACTLY) - (adverb) more accurately; more exactly:
+She'll fly to California on Thursday, or rather, she will if she has to.
+He's my sister's friend really, rather than mine.
+
+rather - (adverb) used to express an opposite opinion: 
+The ending of the war is not a cause for celebration, but rather for regret that it ever happened.
+No, I'm not tired. Rather the opposite in fact.
+
+* rather than - instead of; used especially when you prefer one thing to another:
+I think I'd like to stay at home this evening rather than go out.
+
+* would rather - used to show that you prefer to have or do one thing more than another:
+I'd rather have a beer.
+
+adapt - (verb) to change, or to change something, to suit different conditions or uses:
+adapt something for something / Davies is busy adapting Brinkworth's latest novel for television.
+The play had been adapted for (= changed to make it suitable for) children.
+adapt from / The recipe here is a pork roast adapted from Caroline O'Neill's book "Louisiana Kitchen".
+
+adapt - (verb) - to change your ideas or behaviour to make them suitable for a new situation:
+adapt to / The good thing about children is that they adapt very easily to new environments.
+It took me a while to adapt to the new job.
+
+create (MAKE) - (verb) to make something new, or invent something:
+Charles Schulz created the characters "Snoopy" and "Charlie Brown".
+The Bible says that God created the world.
+
+invent (NEW DESIGN) - (verb) to design and/or create something that has never been made before:
+The first safety razor was invented by company founder King C. Gillette in 1903.
+
+invent (NOT TRUE) - (verb) to create a reason, excuse, story, etc. that is not true, usually to deceive someone:
+But I didn't invent the story - everything I told you is true.
+
+retire (STOP WORKING) - (verb) to leave your job or stop working because of old age or ill health:
+Since retiring from the company, she has done voluntary work for a charity.
+He is due to retire as chief executive next year.
+
+retire (LEAVE A PLACE) - (verb) to leave a room or group of people and go somewhere quiet or private:
+After dinner our host said, "Shall we retire to the drawing room?"
+
+likely - (adjective) If something is likely, it will probably happen or is expected:
+Do remind me because I'm likely to forget.
+What's the likely outcome of this whole business?
+
+likely - (adverb) probably:
+She will likely need surgery.
+
+as likely as not - probably:
+As likely as not, she'll end up in court over this problem.
+
+most/very likely - very probably:
+Most likely he'll turn up late.
+
+probably - (adverb) used to mean that something is very likely:
+I'll probably be home by midnight.
+I'm probably going - it depends on the weather.
+
+retard - (verb) to make something slower:
+A rise in interest rates would severely retard economic growth.
+
+retard - (noun) a word for a person with a learning disability (= a condition that can have an effect on someone's ability to learn easily), which was used by doctors in the past but is now extremely offensive
+
+innocent (NOT GUILTY) - (adjective) (of a person) not guilty of a particular crime:
+innocent of / He firmly believes that she is innocent of the crime.
+
+innocent (NO EXPERIENCE) - (adjective) having no knowledge of the unpleasant and evil things in life:
+She has such an innocent face that I find it hard to believe anything bad of her.
+
+innocent (NOT INVOLVED) - (adjective) An innocent person is someone who is not involved with any military group or war:
+innocent bystander Several innocent bystanders were injured in the explosion.
+
+innocent (NOT INTENDED TO HARM) - (adjective) (of a thing) not intended to harm anyone:
+It was an innocent remark, I didn't mean to hurt his feelings.
+
+guilt (FEELING) - (noun) a feeling of worry or unhappiness that you have because you have done something wrong, such as causing harm to another person:
+He suffered such feelings of guilt over leaving his children.
+a pang of guilt She remembered with a pang of guilt that she hadn't called her
+
+guilt (RESPONSIBILITY) - (noun) the fact of having done something wrong or committed a crime:
+admit your guilt Both suspects admitted their guilt to the police.
+establish guilt The prosecution's task in a case is to establish a person's guilt beyond any reasonable doubt.
+
+harm - (noun) physical or other injury or damage:
+Both deny conspiring to cause actual bodily harm.
+do something harm A mistake like that will do his credibility a lot of harm.
+
+harm - (verb) to hurt someone or damage something:
+Thankfully no one was harmed in the accident.
+The government's reputation has already been harmed by a series of scandals.
+
+offence (CRIME) - (noun) an illegal act; a crime:
+a serious/minor offence
+a criminal/drink-driving offence
+
+offence (UPSET FEELINGS) - (noun) upset and hurt or annoyed feelings, often because someone has been rude or shown no respect:
+I really didn't mean (to cause/give) any offence (= did not intend to upset anyone) - I was just stating my opinion.
+Do you think he took offence (= was upset) at what I said about his hair?
+
+strategy - (noun) a detailed plan for achieving success in situations such as war, politics, business, industry, or sport, or the skill of planning for such situations:
+The president held an emergency meeting to discuss military strategy with the Pentagon yesterday.
+Their marketing strategy for the product involves obtaining as much free publicity as possible.
