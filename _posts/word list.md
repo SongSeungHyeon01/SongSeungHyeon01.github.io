@@ -2,18 +2,18 @@ ex) Would you rather go to the beach or go skiing
 ex) Although some people prefer waking up early, I prefer waking up late
 ex) Even though some people love going to the beaches, I prefer skiing
 ex) Despite the advantages of living in the country, I prefer living in the city.
-ex) some people like playing the computer games; neverthless, I like reading books.
+ex) some people like playing the computer games; nevertheless, I like reading books.
 ex) some people like movies; however, I don't I prefer books
 
-stunning (BEAUTIFUL) - (adjective) extremely beautiful or attractive
+stunning (BEAUTIFUL) - (adjective) extremely beautiful or attractive:
 a stunning dress
 a stunning view over the bay of Saint Tropez
 
-permanently - (adverb) always and for ever
+permanently - (adverb) always and for ever:
 Smoking is likely to damage your health permanently.
 Michael and his family have settled permanently in the States.
 
-leisurely - (adjective) used to describe an action that is done in a relaxed way, without hurrying
+leisurely - (adjective) used to describe an action that is done in a relaxed way, without hurrying:
 We enjoyed a leisurely picnic lunch on the lawn.
 
 lawn - (noun) an area of grass, especially near to a house or in a park, that is cut regularly to keep it short:
@@ -27,7 +27,7 @@ incredible (DIFFICULT TO BELIEVE) - (adjective) impossible, or very difficult, t
 an incredible story
 The latest missiles can be fired with incredible accuracy.
 
-obviously - (adverb) in a way that is easy to understand or see
+obviously - (adverb) in a way that is easy to understand or see:
 He was in tears and obviously very upset.
 Obviously the school cannot function without teachers.
 
@@ -43,19 +43,31 @@ sort (TYPE) - (noun) a group of things that are of the same type or that share s
 We both like the same sort of music.
 I'm going to have a salad of some sort.
 
-spare (EXTRA) - (adjective) If something is spare, it is available to use because it is extra
+spare (EXTRA) - (adjective) If something is spare, it is available to use because it is extra:
 a spare key/tire
 spare sheets and blankets
 
-lively - full of energy and enthusiasm; interesting and exciting 
+lively - (adjective) full of energy and enthusiasm; interesting and exciting:
+It's hard work teaching a class of lively children.
+a lively city
 
-souvenir - something you buy or keep to help you remember a holiday or special event
+souvenir - (noun) something you buy or keep to help you remember a holiday or special event:
+He bought a model of a red London bus as a souvenir of his trip to London.
+We brought back a few souvenirs from our holiday in Mexico.
 
 you can't miss it - means something is easy to notice or find.
 
-gorgeous - very beautiful or pleasant
+gorgeous - (adjective) very beautiful or pleasant:
+What a gorgeous room/dress/colour!
+The bride looked gorgeous.
 
-pleasant - enjoyable, attractive, friendly, or easy to like
+adorable - (adjective) used to describe someone or something that makes you love or like them, usually because they are attractive and often small:
+She has the most adorable two-year-old girl.
+These snowflake-shaped picture frames are just adorable.
+
+pleasant - (adjective) enjoyable, attractive, friendly, or easy to like:
+a pleasant climate/smile/person
+a pleasant day/surprise
 
 attractive - (adjective) very pleasing in appearance or sound:
 a very attractive young woman
@@ -82,7 +94,8 @@ best of both worlds - he best of both words, to show you can benefit from two th
 unfortunately - (adverb) used to say that something is sad, disappointing, or has a bad effect
 Unfortunately, I didn't have my credit card with me, or else I would have bought it.
 
-frustrated - feeling annoyed or less confident because you cannot achieve what you want
+frustrated - (adjective) feeling annoyed or less confident because you cannot achieve what you want:
+Are you feeling frustrated in your present job?
 
 attitude - a feeling or opinion about something or someone, or a way of behaving that is caused by this
 
@@ -99,7 +112,9 @@ in person - If you do something or go somewhere in person, you do it or go there
 
 stay away from - When you stay away from something, you do not get near it
 
-spectacular - very exciting to look at
+spectacular - very exciting to look at:
+a spectacular view
+He scored a spectacular goal in the second half.
 
 horrible - (adjective) very unpleasant or bad
 He's got a horrible cold.
@@ -236,6 +251,8 @@ fasten - to (cause something to) become firmly fixed together, or in position, o
 firmly - in a way that will not become loose:
 
 embarrassed - feeling ashamed or shy:
+embarrassed about She felt embarrassed about undressing in front of the doctor.
+[ + to infinitive ] I was too embarrassed to admit that I was scared.
 
 relative - being judged or measured in comparison with something else:
 
@@ -314,6 +331,8 @@ especially - (adverb) very much; more than usual or more than other people or th
 highway - (noun) a public road, especially an important road that joins cities or towns together:
 
 satisfactory - (adjective) good or good enough for a particular need or purpose:
+The teachers seem to think his work is satisfactory.
+We hope very much to find a satisfactory solution to the problem.
 
 no-no - (noun) something that is thought to be unsuitable or unacceptable:
 
@@ -2404,10 +2423,10 @@ rather - (adverb) used to express an opposite opinion:
 The ending of the war is not a cause for celebration, but rather for regret that it ever happened.
 No, I'm not tired. Rather the opposite in fact.
 
-* rather than - instead of; used especially when you prefer one thing to another:
+rather than - instead of; used especially when you prefer one thing to another:
 I think I'd like to stay at home this evening rather than go out.
 
-* would rather - used to show that you prefer to have or do one thing more than another:
+would rather - used to show that you prefer to have or do one thing more than another:
 I'd rather have a beer.
 
 adapt - (verb) to change, or to change something, to suit different conditions or uses:
@@ -2497,3 +2516,337 @@ Do you think he took offence (= was upset) at what I said about his hair?
 strategy - (noun) a detailed plan for achieving success in situations such as war, politics, business, industry, or sport, or the skill of planning for such situations:
 The president held an emergency meeting to discuss military strategy with the Pentagon yesterday.
 Their marketing strategy for the product involves obtaining as much free publicity as possible.
+
+preference - (noun) the fact that you like something or someone more than another thing or person:
+Her preference is for comfortable rather than stylish clothes.
+I have a preference for sweet food over spicy.
+
+in preference to something - If you choose one thing in preference to another thing, you choose it because you like or want it more than the other thing:
+He studied chemistry in preference to physics at university.
+
+invitation (ASK TO AN EVENT) - (noun) the act of inviting someone to go to an event:
+Thanks for the invitation to your birthday party.
+I'm happy to accept your invitation.
+
+invitation (ENCOURAGEMENT) - (noun) an action that causes or encourages something to happen:
+Leaving your house unlocked is an open (= clear) invitation to burglars.
+
+quantity - (noun) the amount or number of something, especially that can be measured:
+Police found a large/small quantity of drugs in his possession.
+We consumed vast quantities of food and drink that night.
+
+measure (SIZE) - (verb) to discover the exact size or amount of something:
+"Will the table fit in here?" "I don't know - let's measure it."
+This machine measures your heart rate.
+
+measure (JUDGE) - (verb) to judge the quality, effect, importance, or value of something:
+There is no way of measuring the damage done to morale.
+
+measure (METHOD) - (noun) a way of achieving something, or a method for dealing with a situation:
+What further measures can we take to avoid terrorism?
+These measures were designed to improve car safety.
+
+measure - (noun) amount
+There was a large measure of agreement between the candidates.
+His success was in some measure due to his being in the right place at the right time.
+
+measure - (noun) an exact amount, especially of alcohol:
+One unit of alcohol is equal to half a pint of beer or a standard measure of spirits.
+
+measure (WAY OF JUDGING) - (noun) a way of judging something:
+Record sales are not always a measure of a singer's popularity.
+We have no accurate measure of the damage.
+
+judge (PERSON) - (noun) a person who is in charge of a trial in a court and decides how a person who is guilty of a crime should be punished, or who makes decisions on legal matters:
+a British high-court judge
+a US Supreme Court judge
+
+judge (DECIDE) - (noun) the person who officially decides who is the winner of a competition:
+a panel of judges
+
+judge (PERSON) - (noun) a person who has the knowledge to give an opinion about something or is able to decide if someone or something is good or bad:
+She's such a bad judge of character.
+"I really don't think you should have another drink." "I'll be/Let me be the judge of that (= I am able to make my own decision about that)."
+
+judge - (verb) to form, give, or have as an opinion, or to decide about something or someone, especially after thinking carefully:
+So far, he seems to be handling the job well, but it's really too soon to judge.
+[ + question word ] It's difficult to judge whether the new system really is an improvement.
+
+judge - (verb) to express a bad opinion of someone's behaviour, often because you think you are better than them:
+You have no right to judge other people because of what they look like or what they believe.
+
+judge - (verb) to officially decide who will be the winner of a competition:
+I've been asked to judge the children's poetry competition. 
+
+judging by/from (also to judge by/from) - used to express the reasons why you have a particular opinion:
+Judging by what he said, I think it's very unlikely that he'll be able to support your application.
+
+trial (LEGAL PROCESS) - (noun) the hearing of statements and showing of objects, etc. in a law court to judge if a person is guilty of a crime or to decide a case or a legal matter:
+trial proceedings
+Trial by jury is a fundamental right.
+
+trial (TEST) - (noun) a test, usually over a limited period of time, to discover how effective or suitable something or someone is:
+They're doing clinical trials on a new drug.
+They've employed her for a six-month trial (period).
+
+trial (PROBLEM) - (noun) a person or thing that is annoying and causes a lot of problems:
+She was a real trial to her parents when she was younger.
+The book is all about the trials of growing up.
+
+trial (EXAM) - (noun) an exam taken at school for practice before a real exam:
+Trials take place in July.
+
+belonging - (noun) a feeling of being happy or comfortable as part of a particular group and having a good relationship with the other members of the group because they welcome you and accept you:
+A sense of belonging is one of humanity's most basic needs.
+It's a book about humanity, loyalty, and belonging, and about the ties that bind us to places and to each other.
+
+structure (ARRANGEMENT) - (noun) the way in which the parts of a system or object are arranged or organized, or a system arranged in this way:
+the grammatical structure of a sentence
+The structure of this protein is particularly complex.
+
+structure (BUILDING) - (noun) something that has been made or built from parts, especially a large building:
+The proposed new office tower is a steel and glass structure 43 storeys high.
+
+structure - (verb) to plan, organize, or arrange the parts of something:
+We must carefully structure and rehearse each scene.
+a well-structured argument
+
+rehearse - (verb) to practise a play, a piece of music, etc. in order to prepare it for public performance:
+The musicians rehearsed (the symphony) for the concert.
+figurative On her way to her interview she silently rehearsed what she would say.
+
+(a) sort of - (idiom) used to describe something approximately:
+It's a sort of pale orange colour.
+
+explode (BREAK APART) - (verb) to break up into pieces violently, or to cause something to do this:
+A bomb exploded at one of the capital's busiest railway stations this morning.
+He was driving so fast that his car tyre exploded.
+
+approve (HAVE A GOOD OPINION) - (verb) to have a positive opinion of someone or something:
+approve of She doesn't approve of my friends.
+He doesn't approve of smoking.
+
+approve (AGREE) - (verb) to accept, allow, or officially agree to something:
+We had to wait months for the council to approve our plans to extend the house.
+The court approved the sale of the property.
+
+be willing (to do something) - (adjective) to be happy to do something if it is needed:
+If you're willing to fly at night, you can get a much cheaper ticket.
+You said you needed a volunteer - well, I'm willing.
+be willing for someone to do something / Apparently John and Gabriel are willing for us to use their barbecue.
+If you're willing to travel for work, there are so many more opportunities.
+Customers are willing to pay a premium for these items.
+You have to be willing to accept help from others.
+
+wise - (adjective) having or showing the ability to make good judgments, based on a deep understanding and experience of life:
+I think you made a wise choice.
+"I never drink more than three glasses of wine." "How wise."
+
+colour (INTEREST) - (noun) interesting or exciting qualities or details:
+We added your story for a bit of local colour.
+Michael was there so that added a bit of colour to the evening's proceedings.
+
+stay on - (verb) to continue to be in a place, job, or school after the other people who were with you have left: 
+Gill decided to stay on at university to do further research.
+stay on as / We asked him to stay on as youth leader for another year.
+
+get off (something) - (verb) to leave a train, bus, or aircraft:
+Get off at Camden Town.
+I tripped as I got off the bus.
+
+let (ALLOW) - (verb) to allow something to happen or someone to do something by not doing anything to stop an action or by giving your permission:
+She wanted to go but her parents wouldn't let her.
+He decided to let his hair grow long.
+
+allow (GIVE PERMISSION) - (verb) to give permission for someone to do something, or to not prevent something from happening:
+[ + to infinitive ] Do you think Dad will allow you to go to Jamie's party?
+You're not allowed to talk during the exam.
+
+permission - (noun) If someone is given permission to do something, they are allowed to do it:
+[ + to infinitive ] You will need permission from your parents to go on the trip.
+Official permission has been granted for more building near the river.
+
+journey (TRIP) - (noun) the act of travelling from one place to another, especially in a vehicle:
+I love going on long journeys.
+We broke our journey (= stopped for a short time) in Jacksonville before travelling on to Miami the next day.
+
+go crazy - Here the phrase 'go crazy' means to be set free with no controls. This usually leads to wild behavior:
+At the beach I let my dog go crazy and run anywhere.
+After a rainy day, I let the kids outside to go crazy.
+
+lead (CONTROL) - (verb) to control a group of people, a country, or a situation:
+I think we've chosen the right person to lead the expedition.
+I've asked Gemma to lead the discussion.
+
+buck - When a horse bucks, it jumps and kicks it legs backwards:
+The horse bucks and threw the man off the saddle.
+A bucking horse can be dangerous.
+
+knock out - When you are knocked out, you loose consciousness. Notice the following:
+The fighter was knocked out by the punch.
+The ball hit him in the head and knocked him out.
+
+black eye - A black eye is a big black, red or blue bruise from being hit in the face. Notice the following:
+He got in a fight and got a black eye.
+How did he get a black eye?
+
+turn and twist - When you turn and twist you move your body in many opposite directions. Notice the following:
+If you hug a cat it will turn and twist to get away.
+In yoga and break dancing, you must twist and turn.
+
+gear (CLOTHES/EQUIPMENT) - the equipment, clothes, etc. that you use to do a particular activity:
+fishing/camping gear
+riot gear Police in riot gear (= protective clothing) arrived to control the protesters.
+
+unlikely (NOT PROBABLE) - (adjective) not probable or likely to happen:
+[ + (that) ] It's pretty unlikely (that) they'll turn up now - it's nearly ten o'clock.
+
+unlikely (NOT EXPECTED) - (adjective) not the same as you would usually expect:
+He's an unlikely-looking doctor (= he is not what I expect a doctor to look like).
+
+suffer (FEEL PAIN) - (verb) to experience physical or mental pain:
+I think he suffered a lot when his wife left him.
+She suffers in the winter when it's cold and her joints get stiff.
+
+suffer (EXPERIENCE) - (verb) to experience or show the effects of something bad:
+The Democrats suffered a crushing defeat in the last election.
+25 policemen suffered minor injuries during the riots.
+
+bully - (noun) someone who hurts or frightens someone else, often over a period of time, and often forcing them to do something that they do not want to do:
+You're just a big bully!
+Teachers usually know who the bullies are in a class.
+
+bully - (verb) to hurt or frighten someone, often over a period of time, and often forcing that person to do something they do not want to do:
+Our survey indicates that one in four children is bullied at school.
+Don't let anyone bully you into doing something you don't want to do.
+
+frighten - (verb) to make someone feel fear:
+He frightens me when he drives so fast.
+You'll frighten the baby wearing that mask.
+
+frightened - (adjective) 
+She was too frightened to enter the room alone.
+
+fear - (noun) an unpleasant emotion or thought that you have when you are frightened or worried by something dangerous, painful, or bad that is happening or might happen:
+Trembling with fear, she handed over the money to the gunman.
+Even when the waves grew big, the boy showed no (signs of) fear.
+
+be in fear of your life - to be frightened that you might be killed:
+Lakisha sat inside, in fear of her life, until the police came.
+
+for fear that/of something - because you are worried that a particular thing might happen:
+They wouldn't let their cat outside for fear that it would get run over.
+
+fear - (verb) to be frightened of something or someone unpleasant:
+Most older employees fear unemployment.
+What do you fear most?
+
+oblivious - (adjective) not conscious of something, especially what is happening around you:
+Absorbed in her work, she was totally oblivious of her surroundings.
+The mayor seems oblivious to the likely effects of the new legislation.
+
+conscious (NOTICING) - noticing the existence of something:
+People have become much more conscious of the need to exercise regularly.
+
+be conscious of something/someone - to notice that a particular thing or person exists or is present:
+My tooth doesn't exactly hurt, but I'm conscious of it (= I can feel it) all the time.
+
+conscious (AWAKE) - (adjective) awake, thinking, and knowing what is happening around you:
+He's still conscious but he's very badly injured.
+She's out of the operating theatre, but she's not fully conscious yet.
+
+conscious (INTENTIONAL) - (adjective) determined and intentional:
+He's obviously making a conscious effort to be nice to me at the moment.
+It wasn't a conscious decision to lose weight. It just happened.
+
+the present (NOW) - (noun) the period of time that is happening now, not the past or the future:
+That's all for the present.
+in the present The play is set in the present.
+
+at present (NOW) - (noun) now:
+"Are you busy?" "Not at present."
+
+present (NOW) - (adjective) happening or existing now:
+I don't have her present address.
+Please state your present occupation and salary.
+
+existence - (noun) the fact of something or someone existing:
+existence of / Many people question the existence of God.
+come into existence / Modern cosmology believes the universe to have come into
+
+existence - (noun) a particular way of life:
+She has a miserable existence living with him. 
+
+determined - (adjective) wanting to do something very much and not allowing anyone or any difficulties to stop you:
+[ + to infinitive ] I'm determined to get this piece of work done today.
+She will get the job she wants - she's a very determined person.
+
+saddle up - A saddle is a seat people use on a horse. When you saddle up a horse, you put a saddle on it so people can ride the horse:
+Let's saddle up and go!
+I love to saddle up and go trail riding.
+
+cliff - A cliff is a steep rock face. It is hard to climb and can be dangerous:
+Rock climbers love to climb cliffs.
+Be careful not to fall off the cliff.
+
+ignore - When you ignore someone, you do not listen or pay attention to them:
+He is always ignoring his girlfriend.
+Stop ignoring me!
+
+elk - Elk are very large deer with large horns:
+They went hunting for elk.
+Most elk are bigger than horses.
+
+mountain lion - Mountain lions are large cat-like animals in North and South America that are dangerous but rarely seen:
+He saw a mountain lion when he was hiking.
+Mountain lions very rarely attack people.
+
+tracks - Here, tracks are animal footprints of where an animal was walking:
+We saw some bear tracks.
+I got scared when I saw the wolf tracks.
+
+compete - (verb) to try to be more successful than someone or something else:
+It's difficult for a small shop to compete against/with the big supermarkets.
+Both girls compete for their father's attention.
+
+compete - (verb) to take part in a race or competition:
+Are you competing in the 100 metres?
+The two athletes are competing for the gold medal.
+
+along (FROM ONE END TO ANOTHER) - (preposition) from one part of a road, river, etc. to another:
+a romantic walk along the beach/river
+
+along (NEXT TO) - (preposition) in a line next to something long:
+a row of houses along the river
+Cars were parked all along the road.
+
+along (AT A PARTICULAR PLACE) - (preposition) at a particular place on a road, river, etc.:
+Somewhere along this road there's a garage.
+
+path (TRACK) - (noun) a route or track between one place and another, or the direction in which something is moving:
+a garden path
+a concrete path
+
+path (ACTIONS) - (noun) a set of actions, especially ones that lead to a goal or result:
+The path to success is fraught with difficulties.
+This victory isn't conclusive, but it sets us on the right path.
+
+point (something/someone) out - to tell someone about some information, often because you believe they do not know it or have forgotten it:
+[ + that ] He was planning to book a rock-climbing holiday, till I pointed out that Denis is afraid of heights.
+[ + question word ] I feel I should point out how dangerous it is.
+
+forward (DIRECTION) - (adverb) towards the direction that is in front of you:
+She leaned forward to whisper something in my ear.
+
+forward (FUTURE) - (adverb) towards the future:
+I always look forward, not back.
+
+forward (PROGRESS) - (adverb) used in expressions related to progress:
+step forward This is a big step forward for democracy.
+
+refuse - (verb) to say that you will not do or accept something:
+He asked me to give him another loan, but I refused.
+He's in trouble but he's refused all (my offers of) help.
+
+refuse - (noun) unwanted waste material, especially material that is regularly thrown away from a house, factory, etc.:
+garden/kitchen refuse
