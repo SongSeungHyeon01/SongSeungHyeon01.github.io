@@ -2623,12 +2623,14 @@ A bomb exploded at one of the capital's busiest railway stations this morning.
 He was driving so fast that his car tyre exploded.
 
 approve (HAVE A GOOD OPINION) - (verb) to have a positive opinion of someone or something:
-approve of She doesn't approve of my friends.
+approve of / She doesn't approve of my friends.
 He doesn't approve of smoking.
+I thoroughly approve of what the government is doing.
 
 approve (AGREE) - (verb) to accept, allow, or officially agree to something:
 We had to wait months for the council to approve our plans to extend the house.
 The court approved the sale of the property.
+I thoroughly approve of what the government is doing.
 
 be willing (to do something) - (adjective) to be happy to do something if it is needed:
 If you're willing to fly at night, you can get a much cheaper ticket.
@@ -2690,7 +2692,7 @@ black eye - A black eye is a big black, red or blue bruise from being hit in the
 He got in a fight and got a black eye.
 How did he get a black eye?
 
-turn and twist - When you turn and twist you move your body in many opposite directions. Notice the following:
+turn and twist - When you turn and twist you move your body in many opposite directions:
 If you hug a cat it will turn and twist to get away.
 In yoga and break dancing, you must twist and turn.
 
@@ -2850,3 +2852,134 @@ He's in trouble but he's refused all (my offers of) help.
 
 refuse - (noun) unwanted waste material, especially material that is regularly thrown away from a house, factory, etc.:
 garden/kitchen refuse
+
+furious (ANGRY) - (adjective) extremely angry:
+furious with I was late and he was furious with me.
+furious about/at He's furious about/at the way he's been treated.
+
+prove (SHOW) - (verb) to show a particular result after a period of time:
+The operation proved a complete success.
+The dispute over the song rights proved impossible to resolve.
+
+prove yourself - to show that you are good at something:
+I wish he'd stop trying to prove himself all the time.
+
+prove (SHOWING TRUTH) - (verb) to show that something is true:
+[ + that ] They suspected that she'd killed him but they could never actually prove that it was her.
+[ + adj ] They proved him innocent/guilty.
+
+which (QUESTION) - (determiner, pronoun) (used in questions and structures in which there is a fixed or limited set of answers or possibilities) what one or ones:
+Which party would you prefer to go to - Anna's or Dan's ?
+Which doctor did you see - Seward?
+
+which (ADDS INFORMATION) - (determiner, pronoun) used to add extra information to a previous clause, in writing usually after a comma:
+That bar on Milton Street, which by the way is very nice, is owned by Trevor's brother.
+She says it's Charlotte's fault, which is stupid, and that she blames her.
+
+which (USED TO REFER) - (pronoun) used as the subject or object of a verb to show what thing or things you are referring to, or to add information about the thing just mentioned. It is usually used for things, not people:
+These are principles which we all believe in.
+You know that little Italian restaurant - the one which I mentioned in my letter?
+
+blame - (verb) to say or think that someone or something did something wrong or is responsible for something bad happening:
+Don't blame me (= it is not my fault) if you miss the bus!
+Hugh blames his mother for his lack of confidence.
+
+I don't blame someone - said in order to tell someone that you understand why they are doing something and that you agree with the reason for doing it:
+I don't blame him for getting angry - she's being really annoying.
+
+be to blame - to be the reason for something bad that happens:
+The hot weather is partly to blame for the water shortage.
+
+blame - (noun) the situation in which people say or think that someone or something did something wrong or is responsible for something bad happening:
+Health officials put the blame for the disease on (= say that the reason for the disease is) poor housing conditions.
+They tried to pin (= put) the blame for the killing on an innocent army officer.
+
+fault (MISTAKE) - (noun) a mistake, especially something for which you are to blame:
+It's not my fault she didn't come!
+She believes it was the doctor's fault that Peter died.
+
+fault - (noun) a weakness in a person's character:
+He has many faults, but dishonesty isn't one of them.
+
+fault - (noun) a broken part or weakness in a machine or system:
+The car has a serious design fault.
+electrical fault An electrical fault caused the fire.
+
+be at fault - to have done something wrong:
+be at fault for Her doctor was at fault for not sending her straight to a specialist.
+
+find fault with someone/something - to criticize someone or something, especially without good reasons:
+He's always finding fault with my work.
+
+participate - (verb) to take part in or become involved in an activity:
+She never participates in any of our discussions, does she?
+
+anyways - We use the term 'anyways' to show we will do something even though there is a good reason not to:
+It was raining but I went jogging anyways.
+I was afraid to do it, but I did it anyways.
+
+thoroughly (VERY MUCH) - (adverb) completely, very much:
+I thoroughly enjoyed the performance.
+
+thoroughly (CAREFULLY) - (adverb) in a detailed and careful way:
+We went through the report thoroughly but couldn't find the information anywhere.
+
+in confidence - If you tell something to someone in confidence, you do not want them to tell anyone else:
+Any personal data you provide to us will be held in confidence.
+Whatever you tell us will be kept in strict confidence.
+I told you that in confidence!
+
+strict - (adjective) strongly limiting someone's freedom to behave as they wish, or likely to severely punish someone if they do not obey:
+strict with / My parents were very strict with me when I was young.
+strict controls / Stricter controls on air pollution would help to reduce acid rain.
+strict curfew / A strict curfew has been imposed from dusk till dawn.
+strict guidelines / We follow very strict guidelines on the use and storage of personal details on computers.
+strict laws / Do you think stricter gun laws would reduce the murder rate in the United States?
+strict supervision / The drug should only be administered under strict medical supervision.
+strict secrecy / The negotiations took place in strict (= total) secrecy.
+
+strict - (adjective) exactly correct:
+a strict translation of the text
+strict interpretation He would be found guilty under a strict interpretation of the law.
+
+strict - (adjective) used to refer to someone who follows the rules and principles of a belief or way of living very carefully and exactly, or a belief or principle that is followed very carefully and exactly:
+His parents were strict Catholics.
+strict vegetarian She's a strict vegetarian and refuses to eat any poultry or fish.
+
+obey - (verb) to act according to what you have been asked or ordered to do by someone in authority, or to behave according to a rule, law, or instruction:
+The soldiers refused to obey (orders).
+to obey the rules of international law
+
+attitude (OPINION) - (noun) a feeling or opinion about something or someone, or a way of behaving that is caused by this:
+It's often very difficult to change people's attitudes.
+[ + that ] She takes the attitude that children should be allowed to learn at their own pace.
+
+behave - (verb) to act in a particular way:
+She always behaves well/badly when her aunts come to visit.
+Whenever there was a full moon he would start behaving strangely.
+
+behave - (verb) to be good by acting in a way that has society's approval:
+Did the children behave (themselves)?
+
+approval (GOOD OPINION) - (noun) the feeling of having a positive opinion of someone or something:
+He showed his approval by smiling broadly.
+Alan is someone who always needs the approval of other people.
+
+approval (PERMISSION) - (noun) official permission:
+The project has now received approval from the government.
+The teacher gave the student a nod of approval.
+
+on approval - If you buy something on approval, you can return it without payment if it is not satisfactory:
+The new manager introduced the practice of shipping items on approval.
+
+disapproval - (noun) the feeling of having a negative opinion of someone or something:
+Although they said nothing, she could sense their disapproval of her suggestion.
+There was a note of disapproval in the teacher's voice.
+
+conspire - (verb) to plan secretly with other people to do something bad, illegal, or against someone's wishes:
+[ + to infinitive ] He felt that his colleagues were conspiring together to remove him from his job.
+As girls, the sisters used to conspire with each other against their brother.
+
+scandal - (noun) (an action or event that causes) a public feeling of shock and strong moral disapproval:
+a financial/political/sex scandal
+Their affair caused/created a scandal in the office.
