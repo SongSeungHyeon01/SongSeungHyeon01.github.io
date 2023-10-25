@@ -1147,6 +1147,24 @@ reach (LEVEL) - (verb) to get to a particular level, especially a high one:
 The temperature is expected to reach 30°C today.
 He's just reached the grand old age of 95.
 
+reach (STRETCH) - (verb) to stretch out your arm in order to get or touch something:
+She's grown so tall that she can reach the door handle now.
+He reached for the phone and knocked over a glass.
+
+reach (COMMUNICATE) - (verb) to communicate with someone in a different place, especially by phone or email:
+I've been trying to reach you on the phone all day.
+
+reach (DISTANCE) - (noun) Your reach is the distance within which you can stretch out your arm and touch something:
+I like to keep a notebook and pencil within (arm's) reach.
+The top shelf is within/out of (his) reach.
+
+reach - (noun) the distance that can be travelled, especially easily:
+We live within (easy) reach of the station.
+
+reach (LIMIT) - (noun) the limit within which someone can achieve something:
+An expensive trip like that would be completely beyond/out of (my) reach (= I would not have enough money to pay for it).
+After years of saving, the car was at last within (her) reach (= she had enough money to pay for it).
+
 rarely - (adverb) not often:
 We rarely see each other now.
 I rarely have time to read a newspaper.
@@ -2911,13 +2929,6 @@ be at fault for Her doctor was at fault for not sending her straight to a specia
 find fault with someone/something - to criticize someone or something, especially without good reasons:
 He's always finding fault with my work.
 
-participate - (verb) to take part in or become involved in an activity:
-She never participates in any of our discussions, does she?
-
-anyways - We use the term 'anyways' to show we will do something even though there is a good reason not to:
-It was raining but I went jogging anyways.
-I was afraid to do it, but I did it anyways.
-
 thoroughly (VERY MUCH) - (adverb) completely, very much:
 I thoroughly enjoyed the performance.
 
@@ -2983,3 +2994,136 @@ As girls, the sisters used to conspire with each other against their brother.
 scandal - (noun) (an action or event that causes) a public feeling of shock and strong moral disapproval:
 a financial/political/sex scandal
 Their affair caused/created a scandal in the office.
+
+notoriously - (adverb) in a way that is famous for something bad:
+The game is notoriously difficult to play.
+He was involved in crime - most notoriously, a series of armed robberies.
+
+totally - (adverb) completely:
+Her second husband is totally different from Mark.
+I totally agree with you.
+
+brood - (verb) to think for a long time about things that make you sad, worried, or angry:
+I wish she wouldn't sit brooding in her room all day.
+
+establish (START) - (verb) to start a company or organization that will continue for a long time:
+The brewery was established in 1822.
+These methods of working were established in the last century.
+
+establish (START) - (verb) to start having a relationship with, or communicating with another person, company, country, or organization:
+There is a strong need to establish effective communication links between staff, parents, pupils, and external bodies.
+
+establish (ACCEPT) - (verb) to cause something or someone to be accepted in or familiar with a place, position, etc.:
+His reputation for carelessness was established long before the latest problems arose.
+He's established himself as a dependable source of information.
+After three months we were well established in/at our new house/new jobs.
+
+establish yourself - to be in a successful position over a long period of time:
+He has established himself as the leading candidate in the election.
+When you have established yourself and made some money, you will be in a position to marry.
+
+establish (DISCOVER) - (verb) to discover or get proof of something:
+Before we take any action we must establish the facts/truth.
+[ + question word ] Can you establish what time she left home/whether she has left home.
+[ + (that) ] We have established (that) she was born in 1900.
+
+candidate - (noun) a person who is competing to get a job or elected position:
+There are three candidates standing in the election.
+
+elect - (verb) to decide on or choose, especially to choose a person for a particular job, by voting:
+The President is elected for a four-year term of office.
+[ + as + noun ] We elected him as our representative.
+
+elect to do something - (verb) to choose to do a particular thing:
+She elected to take early retirement instead of moving to the new location.
+
+participate - (verb) to take part in or become involved in an activity:
+She never participates in any of our discussions, does she?
+
+anyways - We use the term 'anyways' to show we will do something even though there is a good reason not to:
+It was raining but I went jogging anyways.
+I was afraid to do it, but I did it anyways. 
+
+draw attention - When you draw attention, you get people to notice you:
+His loud voice draws a lot of attention.
+Her clothes draws a lot of attention.
+
+treat - Here, 'treat' means how you act towards a person:
+I was treated badly at the store.
+My boss treats me with respect.
+
+tough - A tough person does not cry or complain very much:
+My mother is really tough.
+In the army you learn how to be tough.
+
+tough - Here, softhearted means very kind and tender:
+My grandma was very tough, but also softhearted.
+A good teacher should be strict but softhearted at times.
+
+tie up - You can tie up a person or thing with a rope, so it cannot move or get away:
+The man was tied up to the chair.
+They tied the dog up to the tree.
+
+chase (FOLLOW) - (verb) to hurry after someone or something in order to catch him, her, or it:
+The police car was going so fast, it must have been chasing someone.
+She was chasing (after) a man who had snatched her bag.
+
+chase (TRY TO GET) - (verb) to try to get something that is difficult to get or achieve:
+It's depressing how many people there are chasing so few jobs.
+After years of chasing her dreams, she finally got a part in a film.
+
+chase (GET RID OF) - (verb) to run after a person or an animal in a threatening way in order to make him, her, or it leave:
+He used to chase the children away from his apple trees.
+She's always chasing cats out of the garden to protect her precious birds.
+
+chase - (noun) the act of going after someone or something very quickly in order to catch him, her, or it:
+a tedious movie with endless car/police chases
+
+negotiate (DISCUSS) - (verb) to have formal discussions with someone in order to reach an agreement with them:
+The government has refused to negotiate with the strikers.
+I'm negotiating for a new contract.
+
+negotiate (MANAGE TO DO) - (verb) to manage to travel along a difficult route:
+The only way to negotiate the muddy hillside is on foot.
+
+discuss - (verb) to talk about a subject with someone and tell each other your ideas or opinions:
+discuss something with someone / The police want to discuss these recent racist attacks with local people.
+
+otherwise - (conjunction) used after an order or suggestion to show what the result will be if you do not follow that order or suggestion:
+I'd better write it down, otherwise I'll forget it.
+Call home, otherwise your parents will start to worry.
+
+otherwise (DIFFERENTLY) - (adverb) differently, or in another way:
+The police believe he is the thief, but all the evidence suggests otherwise (= that he is not).
+Under the Bill of Rights, a person is presumed innocent until proved otherwise (= guilty).
+
+otherwise (NOT INCLUDING) - (adverb) except for what has just been referred to:
+The bike needs a new wheel, but otherwise it's in good condition.
+The poor sound quality ruined an otherwise beautiful film.
+
+otherwise - (adjective) used to show that something is completely different from what you think it is or from what was previously stated:
+He might have told you he was a qualified electrician, but the truth is quite otherwise.
+
+stay-at-home mom - A stay-at-home mom does not have a job. She stays home to take care of her children:
+Many women now want to be stay-at-home moms.
+Being a stay-at-home mom is like a full-time job.
+
+maternity leave - With maternity leave, a worker, usually a woman, can leave work to care for a new baby and then return to work later in the future.
+She'll be gone for three months on maternity leave.
+Most companies now offer maternity leave.
+
+wage - A wage is how much a person is paid for their work:
+Wages for skilled labor are usually very high.
+I earn the minimum wage. Just 10 dollars a hour.
+
+grateful - When you are grateful for something, you are very thankful for it:
+I am grateful for your help.
+She didn't seem grateful for the favor.
+
+daycare - Daycare is a place or service where parents can leave their children while they work:
+She takes her kids to daycare on her way to work.
+Once children start school, they usually do not need daycare.
+
+drop off - When you drop someone off, you take them to their destination and then drive away:
+The taxi dropped me off at the hotel.
+Can you drop me off at school on your way to work?
