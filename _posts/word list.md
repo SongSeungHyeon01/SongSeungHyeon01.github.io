@@ -883,8 +883,9 @@ vow - (verb) to make a determined decision or promise to do something:
 [ + (that) ] The guerrillas vowed (that) they would overthrow the government.
 [ + to infinitive ] After the awful meals we had last Christmas, I vowed to do more of the cooking myself.
 
-available - (adjective) able to be obtained, used, or reached:
-Her new book is available in bookstores all across America.
+available - (adjective) able to be bought or used:
+Is this dress available in a larger size?
+Our autumn catalogue is now available from our usual stockists.
 
 obtain (GET) - (verb) to get something, especially by asking for it, buying it, working for it, or producing it from something else:
 to obtain permission
@@ -3234,3 +3235,76 @@ In many card games, you draw a card from the deck.
 BYOB - BYOB is short for bring Your Own Booze, and this means you bring your own drink to an event. Potluck is when you bring food to share with others:
 Is the party BYOB?
 The party is BYOB but there will be punch.
+
+harm - (noun) physical or other injury or damage:
+Both deny conspiring to cause actual bodily harm.
+do something harm / A mistake like that will do his credibility a lot of harm.
+do someone harm / Missing a meal once in a while never did anyone any harm.
+(there's) no harm in / You could always ask Jim if they need any more staff in his office - (there's) no harm in / asking (= no one will be annoyed and you might benefit).
+mean no harm / She meant no harm (= did not intend to offend) - she was only joking.
+come to harm / She was frightened by the experience but she came to no harm (= was not hurt).
+
+harm - (verb) to hurt someone or damage something:
+Thankfully no one was harmed in the accident.
+The government's reputation has already been harmed by a series of scandals.
+
+conspire - (verb) to plan secretly with other people to do something bad, illegal, or against someone's wishes:
+[ + to infinitive ] He felt that his colleagues were conspiring together to remove him from his job.
+As girls, the sisters used to conspire with each other against their brother. 
+
+credibility - (noun) the fact that someone can be believed or trusted:
+His arrest for lewd behaviour seriously damaged his credibility as a religious leader.
+He complained that we had tried to undermine his credibility within the company.
+
+credibly - (adverb) in a way that can be believed or trusted:
+The family in the television programme could not be credibly compared with a real one.
+It cannot credibly be argued that torture is permissible.
+
+exist (BE) - (verb) to be, or to be real:
+I don't think ghosts exist.
+Poverty still exists in this country.
+
+exist (LIVE) - (verb) to live, or to live in difficult conditions:
+Some species exist in this small area of forest and nowhere else on earth.
+Few people can exist without water for more than a week.
+
+can't live without - When we can't live without something, we like it very much. Not having it would make us sad:
+I can't live without music.
+I could never live without coffee.
+
+mandatory - When something is mandatory, that means you have to do it:
+The test is mandatory.
+It is mandatory that students wear a uniform.
+
+of all time - Of all time means something has always been a favorite. Here, top means favorite:
+Star Wars is my favorite movie of all time.
+He is my top favorite teacher of all time.
+
+comfort food - A comfort food is a food that gives people comfort or happiness when they eat it:
+Pizza is my comfort food.
+My mom's home cooking is comfort food for me.
+
+as much as I'd like - We use the phrase 'not ...as much as I'd like' to show we really like something, or should do something, but cannot do it for various reasons:
+I don't get home as much as I'd like.
+I love golf, but don't play as much as I'd like.
+
+can't stand - When you can't stand something, you dislike it greatly:
+I can't stand cooked carrots. They are gross.
+I can't stand people who smoke near me.
+
+take --- over --- any day - Here, we use this phrase 'take -- over -- any day" to show we greatly like one item more than another item:
+I'll take summer break over winter vacation any day.
+I like grilled meat, but I'll take pizza over BBQ any day.
+
+is the worst - We often say something 'is the worst' and 'is the best' when talking about likes and dislikes:
+I love pizza. It's the best!
+The movie is so boring. It's the worst.
+
+universally - If something is universally hated, then that means most people feel the same way:
+Ice cream is universally liked!
+Vegetables are universally hated by kids.
+
+feel like a cow - In English, we often describe feeling in reference to animals. For example, you can feel like a dog, feel like a cow, feel like a pig, etc:
+I ate so much. I feel like a pig.
+All I eat is salad. I feel like a cow!
+
