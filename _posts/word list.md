@@ -3308,3 +3308,26 @@ feel like a cow - In English, we often describe feeling in reference to animals.
 I ate so much. I feel like a pig.
 All I eat is salad. I feel like a cow!
 
+guilty (FEELING) - (adjective) feeling guilt:
+guilty about / I feel so guilty about forgetting her birthday.
+She must have done something wrong, because she's looking so guilty.
+guilty conscience / You've got a guilty conscience - that's why you can't sleep.
+
+evidence - (noun) one or more reasons for believing that something is or is not true:
+evidence of / The police have found no evidence of a terrorist link with the murder.
+[ + to infinitive ] There is no scientific evidence to suggest that underwater births are dangerous.
+[ + that ] Is there any scientific evidence that a person's character is reflected in their handwriting?
+give evidence / Several experts are to give evidence on the subject.
+circumstantial evidence / There is only circumstantial evidence against her, so she is unlikely to be convicted.
+documentary evidence / Campaigners now have compelling documentary evidence of the human rights abuses that they had been alleging for several years.
+fresh evidence / Fresh evidence suggests that the statement had been fabricated.
+forensic evidence / The traces of petrol found on his clothing provided the forensic evidence proving that he had started the fire deliberately.
+all the evidence / All the evidence points to a substantial rise in traffic over the next few years.
+growing evidence that / There is growing evidence that people whose diets are rich in vitamins are less likely to develop some types of cancer.
+
+intend - (verb) to have as a plan or purpose:
+[ + to infinitive ] We intend to go to Australia next year.
+Somehow I offended him, which wasn't what I'd intended.
+[ + obj + to infinitive ] I don't think she intended me to hear the remark.
+be intended for / The course is intended for intermediate-level students.
+be intended as / It was intended as a compliment, honestly!
