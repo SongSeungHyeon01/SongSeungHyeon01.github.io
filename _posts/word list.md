@@ -83,7 +83,13 @@ The circus is attracting huge crowds/audiences.
 
 pleasing - giving a feeling of satisfaction or enjoyment
 
-recognize - to know someone or something because you have seen or heard him or her or experienced it before
+recognize (KNOW) - (verb) to know someone or something because you have seen or heard him or her or experienced it before:
+I hadn't seen her for 20 years, but I recognized her immediately.
+Do you recognize this song?
+
+recognize (ACCEPT) - (verb) to accept that something is legal, true, or important:
+The international community has refused to recognize (= officially accept the existence of) the newly independent nation state.
+[ + (that) ] He sadly recognized (that) he would die childless.
 
 private - only for one person or group and not for everyone / Private thoughts and opinions are secret and not discussed with other people
 
@@ -247,8 +253,6 @@ attached - feeling close to emotionally, or loving:
 bunch - a number of things of the same type fastened together or in a close group:
 
 fasten - to (cause something to) become firmly fixed together, or in position, or closed: 
-
-firmly - in a way that will not become loose:
 
 embarrassed - feeling ashamed or shy:
 embarrassed about She felt embarrassed about undressing in front of the doctor.
@@ -1067,12 +1071,6 @@ The answer was suddenly screamingly obvious to me.
 scream (MAKE NOISE) - (verb)  to cry or say something loudly and usually on a high note, especially because of strong emotions such as fear, excitement, or anger:
 A spider landed on her pillow and she screamed.
 Through the smoke, the rescuers could hear people screaming for help.
-
-innocent (NOT GUILTY) - (adjective) (of a person) not guilty of a particular crime:
-innocent of / He firmly believes that she is innocent of the crime.
-
-firmly (NOT LOOSELY) - (adverb) in a way that will not become loose:
-Make sure the rope is firmly attached before attempting to climb down.
 
 mischief - (noun) behaviour, especially a child's, that is slightly bad but is not intended to cause serious harm or damage:
 She's a lively little girl, full of mischief.
@@ -2374,11 +2372,11 @@ property (THINGS OWNED) - (noun) a building or area of land, or both together:
 He owns a number of properties on the south coast.
 The notice said "Private property - keep off!"
 
-measure (SIZE) - (verb) to discover the exact size or amount of something:
+measure (SIZE) - (verb) to discover the exact size or amount of something:*
 "Will the table fit in here?" "I don't know - let's measure it."
 This machine measures your heart rate.
 
-measure (JUDGE) - (verb) to judge the quality, effect, importance, or value of something:
+measure (JUDGE) - (verb) to judge the quality, effect, importance, or value of something:*
 There is no way of measuring the damage done to morale.
 
 detector - (noun) a device used to find particular substances or things, or measure their level:
@@ -2507,6 +2505,15 @@ innocent bystander Several innocent bystanders were injured in the explosion.
 
 innocent (NOT INTENDED TO HARM) - (adjective) (of a thing) not intended to harm anyone:
 It was an innocent remark, I didn't mean to hurt his feelings.
+
+firmly (NOT LOOSELY) - (adverb) in a way that will not become loose:
+Make sure the rope is firmly attached before attempting to climb down.
+
+firmly (STRONGLY) - (adverb) strongly and tightly:
+He shook my hand firmly and climbed into the taxi.
+
+firmly (CERTAINLY) - (adverb) in a way that is certain or not likely to change:
+We are firmly committed to reducing unemployment.
 
 guilt (FEELING) - (noun) a feeling of worry or unhappiness that you have because you have done something wrong, such as causing harm to another person:
 He suffered such feelings of guilt over leaving his children.
@@ -3272,7 +3279,7 @@ can't live without - When we can't live without something, we like it very much.
 I can't live without music.
 I could never live without coffee.
 
-mandatory - When something is mandatory, that means you have to do it:
+mandatory - (adjective) When something is mandatory, that means you have to do it:
 The test is mandatory.
 It is mandatory that students wear a uniform.
 
@@ -3325,9 +3332,566 @@ forensic evidence / The traces of petrol found on his clothing provided the fore
 all the evidence / All the evidence points to a substantial rise in traffic over the next few years.
 growing evidence that / There is growing evidence that people whose diets are rich in vitamins are less likely to develop some types of cancer.
 
+liquid (SUBSTANCE) - (noun) a substance, such as water, that is not solid or a gas and that can be poured easily:
+Mercury is a liquid at room temperature.
+
+soil - Soil is the soft material on the ground such as dirt:
+Plants need soil to grow.
+The farmland has rich soil.
+
+satellites - A satellite is a vehicle that usually orbits something like a planet and sends back date:
+Japan launched a new weather satellite.
+We get TV broadcasts from a satellite.
+
+spacecraft - A spacecraft is a space vehicle like a rocket or satellite:
+NASA has lots of spacecraft.
+The spacecraft in Star Wars are cool.
+
+rover - A rover is a small vehicle used to travel over rough terrain:
+We sent a rover to Mars.
+The rover moves slowly due to its large tires.
+
+willing - When you are willing to do something, you are eager to do it. You want to do it on your own:
+I am not willing to agree to that.
+She was always willing to help him.
+
+flow (MOVE) - (verb) (especially of liquids, gases, or electricity) to move in one direction, especially continuously and easily:*
+flow down / Lava from the volcano was flowing down the hillside.
+flow into / Many short rivers flow into the Pacific Ocean.
+flow through / The river flows through three counties before flowing into the sea just south of here.
+traffic flows / With fewer cars on the roads, traffic is flowing (= moving forward) more smoothly than usual.
+
+announcement - (noun) something that someone says officially, giving information about something:
+The president made an unexpected announcement this morning.
+
+reveal - (verb) to make known or show something that is surprising or that was previously secret:
+He was jailed for revealing secrets to the Russians.
+[ + that ] Her biography revealed that she was not as rich as everyone thought.
+
+reveal - (verb) to allow something to be seen that, until then, had been hidden:
+A gap in the clouds revealed the Atlantic far below.
+
+reveal - (noun) an occasion at the end of a television programme, etc. when something that has been hidden or kept secret until then is shown to the audience:
+The final reveal of the new kitchen was a huge success.
+
+previously - (adverb) before the present time or the time referred to, at a previous or earlier time; before:
+She was previously employed as a tour guide.
+I had posted the card two months previously.
+
+solid (HARD) - hard or firm, keeping a clear shape:*
+solid ground
+a solid object
+
+decade - (noun) a period of ten years, especially a period such as 2010 to 2019:
+The economy is growing at its fastest rate this decade.
+
+decade - (noun) Decades means a long time:
+They’re enjoying new popularity after decades of neglect.
+
+encouragement - (noun) words or behaviour that give someone confidence to do something:
+Children need lots of encouragement from their parents.
+encouragement of / I could never have achieved this without the encouragement of my husband and family.
+
+allow (GIVE PERMISSION) - (verb) to give permission for someone to do something, or to not prevent something from happening:
+The loophole has allowed hundreds of drink-drivers to avoid prosecution.
+The government has refused to allow foreign journalists into the area for several weeks.
+
+loophole - (noun) a small mistake in an agreement or law that gives someone the chance to avoid having to do something:
+tax loopholes
+The company employed lawyers to find loopholes in environmental protection laws.
+
+prevent - (verb) to stop something from happening or someone from doing something:
+Label your suitcases to prevent confusion.
+[ + -ing verb ] His disability prevents him (from) driving.
+
+preventable - (adjective) able to be prevented:
+preventable accidents/injuries
+
+prevention - (noun) the act of stopping something from happening or of stopping someone from doing something:
+crime prevention
+The organization is committed to AIDS prevention and education.
+
+instruct (ORDER) - (verb) to order or tell someone to do something, especially in a formal way:
+be instructed to / The police have been instructed to patrol the building and surrounding area.
+
+instruct (TEACH) - (verb) to teach someone how to do something:
+instruct someone in something / He works in a sports centre instructing people in the use of the gym equipment.
+
+patrol - (verb) (especially of soldiers or the police) to go around an area or a building to see if there is any trouble or danger:
+The whole town is patrolled by police because of the possibility of riots.
+A security guard with a dog patrols the building site at night.
+
+patrol (CHECKING) - (noun) the act of checking that there is no trouble or danger in a building or area:
+a highway patrol
+Three reconnaissance aircraft are permanently on patrol.
+
 intend - (verb) to have as a plan or purpose:
 [ + to infinitive ] We intend to go to Australia next year.
 Somehow I offended him, which wasn't what I'd intended.
 [ + obj + to infinitive ] I don't think she intended me to hear the remark.
 be intended for / The course is intended for intermediate-level students.
 be intended as / It was intended as a compliment, honestly!
+
+intentionally - (adverb) in a planned or intended way:
+I didn't ignore her intentionally - I just didn't recognize her.
+She was being intentionally unpleasant.
+
+intentional - (adjective) planned or intended:
+Did you leave his name out by accident or was it intentional?
+
+mandatory - (adjective) Something that is mandatory must be done, or is demanded by law:
+The minister is calling for mandatory prison sentences for people who assault police officers.
+Athletes must undergo a mandatory drugs test before competing in the championship.
+
+mandatorily - (adverb) in a way that must be done, or is demanded by law:
+All countries of the world should have to mandatorily report on the representation of women in parliamentary bodies.
+Planes are mandatorily wide enough to allow the removal of the safety seat.
+
+demand (REQUEST) - (verb) to ask for something forcefully, in a way that shows that you do not expect to be refused:
+I demanded an explanation.
+The union is demanding a seven percent pay rise this year.
+
+demand (NEED) - (verb) to need something such as time, effort, or a particular quality:
+This is a very difficult piece of music to play - it demands a lot of concentration.
+He seems to lack many of the qualities demanded of (= needed by) a successful politician.
+
+demand (REQUEST) - (noun) a strong request:
+You can't give in to children's demands all the time.
+The government is unlikely to agree to the rebels' demands for independence.
+They received a final demand (= a last request) for payment.
+
+demand (NEED) - (noun) a need for something to be sold or supplied:
+There was little demand for tickets.
+Good teachers are always in (great) demand (= are always needed).
+
+attach (CONNECT) - (verb) to fasten, join, or connect something:*
+attach something to something / I attached a photo to my application form.
+Use this cable to attach the printer to the computer.
+
+temporary - (adjective) not lasting or needed for very long:
+The ceasefire will only provide a temporary solution to the crisis.
+temporary staff
+
+temporarily - (adverb) in a way that does not last for long or for ever:
+This office is closed temporarily for redecoration.
+
+realize (BECOME AWARE) - (verb) to understand a situation, sometimes suddenly:
+They didn't realize the danger they were in.
+[ + (that) ] "Do you realize (that) this is the third time you've forgotten?" she said angrily.
+
+realize (ACHIEVE) - (verb) to achieve something you were hoping for:
+Lots of money, a luxury house, a fast car - Danny had realized all his ambitions by the age of 25.
+
+aware - (adjective) knowing that something exists, or having knowledge or experience of a particular thing:
+[ + that ] I wasn't even aware that he was ill.
+Were you aware of the risks at the time?
+She was well (= very) aware that he was married.
+
+suspend (STOP) - (verb) to stop something from being active, either temporarily or permanently:
+The ferry service has been suspended for the day because of bad weather.
+The country's president has suspended the constitution and assumed total power.
+
+last - (verb) to continue to exist:
+The meeting lasted two hours.
+The drought lasted for several months.
+
+(a) sort of - (idiom) used to describe something approximately:
+It's a sort of pale orange colour.
+
+approximately - (adverb) close to a particular number or time although not exactly that number or time:
+The job will take approximately three weeks, and cost approximately £1,000.
+
+refer to someone/something - (verb) to talk or write about someone or something, especially in only a few words:*
+In her autobiography she occasionally refers to her unhappy schooldays.
+He always refers to the house as his "refuge".
+
+prosecution (LEGAL) - (noun) the act of prosecuting someone:
+A number of the cases have resulted in successful prosecution.
+Doctors guilty of neglect are liable to prosecution.
+
+as though - as if:
+You look as though you've been running a marathon!
+
+construct - (verb) to build something or put together different parts to form something whole:
+to construct a new bridge/building
+The walls are constructed of concrete.
+
+be into - be interested in or active in something:
+I'm really into sports.
+What kind of music are you into? - I'm really into pop song.
+they are always together. - they are totally into each other.
+
+get into - become interested in or active in something:
+Sarah got really into yoga during the lockdown.
+
+go through - (verb) If a law, plan, or deal goes through, it is officially accepted or approved:
+A city council member said that the proposals for the new shopping centre were unlikely to go through.
+
+go through something (EXPERIENCE) - (verb) to experience a difficult or unpleasant situation:
+I've been going through a bad patch recently.
+after all someone has gone through - You'd think his children would be more sympathetic towards him after all he's gone through (= the many bad things he has experienced).
+
+go through something (EXAMINE) - to examine something that contains a collection of things carefully in order to organize them or find something:
+I'm going through my wardrobe and throwing out all the clothes I don't wear any more.
+Remember to go through the pockets before you put those trousers in the washing machine.
+
+go through something (PRACTISE) - (verb) to do something in order to practise or as a test:
+Why don't we go through the whole demonstration once more?
+
+go through something (USE) - (verb) to use a lot of something:
+Before I gave up coffee, I was going through five cups a day.
+I went through a hundred quid on my last trip to London.
+
+all along - (idiom) from the very beginning:
+Do you think he's been cheating us all along?
+
+all in the/your mind - If a problem is all in the mind, it does not exist and is only imagined:
+His doctor tried to convince him that he wasn't really ill and that it was all in his mind.
+
+bear/keep something in mind - to remember a piece of information when you are making a decision or thinking about a matter:
+Bearing in mind how young she is, I thought she did really well.
+Of course, repair work is expensive and you have to keep that in mind.
+
+compare (EXAMINE DIFFERENCES) - (verb) to examine or look for the difference between two or more things:
+If you compare house prices in the two areas, it's quite amazing how different they are.
+That seems expensive - have you compared prices in other shops?
+
+compare (CONSIDER SIMILARITIES) - (verb) to judge, suggest, or consider that something is similar or of equal quality to something else:
+The poet compares his lover's tongue to a razor blade.
+Still only 25, she has been compared to the greatest dancer of all time.
+
+examine (LOOK AT CAREFULLY) - (verb) to look at or consider a person or thing carefully and in detail in order to discover something about them:
+examine something for something / Forensic scientists are examining the wreckage for clues about the cause of the explosion.
+The council is to examine ways of reducing traffic in the city centre.
+be examined on / A psychiatrist was examined (= asked questions) on the mental state of the defendant.
+
+examine (TEST) - (verb) to test someone's knowledge or skill in a particular subject:
+be examined on / We were examined on European history.
+be examined in / You'll be examined in three main areas; speaking, listening, and reading comprehension.
+
+laugh - (verb) to smile while making sounds with your voice that show you think something is funny or you are happy:
+laugh at / They laughed at her jokes.
+I couldn't stop laughing.
+
+laugh - (noun) the act or sound of laughing:
+a loud/nervous laugh
+have a good laugh / I was embarrassed at the time, but I had a good laugh about it later.
+
+consider (POSSIBILITY) - (verb) to spend time thinking about a possibility or making a decision:
+Don't make any decisions before you've considered the situation.
+[ + question word ] Have you considered what you'll do if you don't get the job?
+
+consider (CARE ABOUT) - (verb) to care about or respect other people or their feelings and wishes:
+Did you consider your mother and how she's going to feel about you leaving?
+She never considers anyone but herself - she's totally selfish!
+
+consider (OPINION) - (verb) to believe someone or something to be, or think of him, her, or it as something:
+He is currently considered (to be) the best British athlete.
+We don't consider her to be right for the job.
+
+genre - (noun) a style, especially in the arts, that involves a particular set of characteristics:
+What genre does the book fall into - comedy or tragedy?
+a literary/musical/film genre
+
+such as - (phrase) for example: 
+That money is to cover costs such as travel and accommodation.
+The country is divided on issues such as taxation.
+
+majority (NUMBER) - (noun) the larger number or part of something:
+The majority of the employees have university degrees.
+A large majority of people approve of the death sentence.
+
+at your convenience - (phrase) when you want:
+The goods will be delivered at your convenience.
+The machine records your messages and you can answer them at your convenience.
+
+convenience (BEING EASY) - (noun) the state of being convenient:
+I like the convenience of living close to work.
+Just for convenience, I'm going to live at my mother's place until my new apartment is ready.
+
+convenient - (adjective) suitable for your purposes and needs and causing the least difficulty:
+Our local shop has very convenient opening hours.
+A bike's a very convenient way of getting around.
+
+conveniently - (adverb) in a way that is suitable for your purposes and needs and causes the least difficulty:
+They have conveniently provided a return envelope for you to use.
+The box conveniently folds flat when not in use.
+
+least - (adverb, determiner, pronoun) less than anything or anyone else; the smallest amount or number:
+This group is the least likely of the four to win.
+Disaster struck when we least expected it.
+
+cause (REASON) - (noun) the reason why something, especially something bad, happens:
+The police are still trying to establish the cause of the fire.
+She had died of natural causes.
+
+cause - (verb) to make something happen, especially something bad:
+The difficult driving conditions caused several accidents.
+[ + obj + to infinitive ] The bright light caused her to blink.
+
+I/we appreciate... used when you are thanking someone or showing that you are grateful:
+We really appreciate all the help you gave us last weekend.
+[ + -ing verb ] I appreciate your making the effort to come.
+
+keep someone company - (phrase) to stay with someone so that they are not alone:
+I'll keep you company till the train comes.
+I spent the morning cooking, with my daughter Jane keeping me company.
+
+set an example - to behave in a way that other people should copy:
+You should be setting a good example to your younger brother.
+
+have an eye for something - (idiom) to be good at noticing a particular type of thing:
+She has an eye for detail.
+
+in that case - (phrase) because of the mentioned situation:
+There's no coffee left? In that case I'll have tea.
+"There's a fairly generous budget for equipment." "In that case, I'd definitely buy the more expensive model."
+
+at (your) ease - (phrase) relaxed:
+He felt completely at ease.
+put/set someone at (their) ease She soon put/set me at my ease.
+
+in due course - (phrase) at a suitable time in the future:
+You will receive notification of the results in due course.
+The palace has indicated that an official announcement will be made in due course.
+
+fair enough - (phrase) something you say to show that you understand why someone has done or said something:
+"I'm just annoyed with him because he's behaved so badly." "Fair enough."
+They refused to pay because the service was bad? Well. Fair enough.
+
+all over again - (phrase) If you do something all over again, you start again from the beginning:
+It's already taken me two hours - I don't want to have to do it all over again.
+After the accident, she had to learn to walk all over again.
+
+fraud (CRIME) - (noun) the crime of getting money by deceiving people:
+credit card fraud
+fraud charge He is fighting extradition to Hong Kong to face trial on fraud charges.
+
+deceive - (verb) to persuade someone that something false is the truth, or to keep the truth hidden from someone for your own advantage:
+The company deceived customers by selling old computers as new ones.
+The sound of the door closing deceived me into thinking they had gone out.
+
+violence - (noun) actions or words that are intended to hurt people:
+It seems that the attack was a gratuitous/random/mindless act of violence.
+The recent outbreak/eruption of racial violence in the area is very troubling.
+
+violence - (noun) extreme force:
+We were all surprised at the violence of his anger/rage.
+The storm turned out to be one of unexpected violence.
+
+auxiliary - (auxiliary) giving help or support, especially to a more important person or thing: *
+auxiliary staff/nurses
+
+consequence - (noun) a result of a particular action or situation, often one that is bad or not convenient: *
+serious consequences / Not making a will can have serious consequences for your children and other family members.
+dire consequences / Eating too much processed food can have dire health consequences.
+
+of little/no consequence - not important:
+The money was of little consequence to Tony.
+
+gab - (verb) to talk continuously and eagerly, especially about things that are not important:
+gab on / I got so bored listening to him gabbing on about nothing.
+
+continuously - (adverb) without a pause or interruption:
+You can't work continuously for six hours without a break!
+He played continuously for minutes on end without appearing to take a breath.
+
+convenient - (adjective) suitable for your purposes and needs and causing the least difficulty:
+Our local shop has very convenient opening hours.
+A bike's a very convenient way of getting around.
+
+convenient - (adjective) near or easy to get to or use:
+a very convenient bus service
+Our new house is very convenient for (= near to) the kids' school.
+
+disable (PERSON) - (verb) to cause someone to have an illness, injury, or condition that makes it difficult for them to do the things that other people do:
+She was disabled in the accident.
+
+disabled - (adjective) relating to or intended for disabled people:
+The library does not have disabled access.
+
+disabled - (noun) disabled people as a group. This term is now considered offensive, and people usually prefer to say people with disabilities or disabled people.
+
+harass - (verb) to continue to annoy or upset someone over a period of time:
+Stop harassing me!
+
+harassment - (noun) behaviour that annoys or upsets someone:
+sexual harassment
+
+eagerly - (adverb) in a way that shows that you want to do or have something very much, especially something interesting or enjoyable:
+When the opportunity to form a new theatre with those artists presented itself, I accepted it eagerly.
+eagerly awaited / His autobiography will be one of the most eagerly awaited books of the season.
+
+indeed - (adverb) really or certainly, often used to emphasize something:
+Indeed, it could be the worst environmental disaster in Europe this century.
+Evidence suggests that errors may indeed be occurring.
+
+indeed - (adverb) used to add some extra information that develops or supports something you have just said:
+For such creatures, speed is not important - indeed it is counterproductive.
+I am happy, indeed proud, to be associated with this project.
+
+indeed - (exclamation) used to express surprise, anger, or lack of belief or interest:
+"She said she won't come back until Monday." "Won't she, indeed?"
+"When will we get a pay rise?" "When indeed?"
+
+prosecute (LEGAL) - (verb) to officially accuse someone of committing a crime in a law court, or (of a lawyer) to try to prove that a person accused of committing a crime is guilty of that crime:
+Shoplifters will be prosecuted.
+He was prosecuted for fraud.
+
+prosecute (CONTINUE) - (verb) to continue to take part in a planned group of activities, especially a war:
+He seemed convinced that the US would prosecute the war to its end.
+
+accuse - (verb) to say that someone has done something morally wrong, illegal, or unkind:
+"It wasn't my fault." "Don't worry, I'm not accusing you."
+accuse someone of something / He's been accused of robbery/murder.
+
+morally - (adverb) based on principles that you or people in general consider to be right, honest, or acceptable:
+Morally, you're right, but in practice I don't think it would work.
+For a teacher to hit a child is not just morally wrong but also illegal.
+
+commit (CRIME) - (verb) to do something illegal or something that is considered wrong:*
+He was sent to prison for a crime that he didn't commit.
+to commit adultery/murder
+
+commit (PROMISE) - (verb) to promise or give your loyalty, time, or money to a particular principle, person, or plan of action:
+commit yourself to something / Like so many men, he has problems committing himself to a relationship.
+The government must commit itself to improving healthcare.
+
+commit yourself - to express an opinion or to make a decision that you tell people about:
+I think I can come but I won't commit myself till I know for sure.
+It's fine to discuss some ideas, but don't commit yourself at this stage.
+
+commit something to memory - to make certain that you remember something:
+She listened carefully to the music, as if she were committing it to memory.
+
+happiness - (noun) the feeling of being happy:
+It was only later in life that she found happiness and peace of mind.
+every happiness / formal Will you join me in wishing the bride and groom every happiness?
+
+etiquette - (noun) the set of rules or customs that control accepted behaviour in particular social groups or social situations:
+Social etiquette dictates that men cannot sit while women are standing.
+Diplomatic etiquette forbids calling for the death of a national leader.
+
+freeze (COLD) - (verb) If you freeze something, you lower its temperature below 0°C, causing it to become cold and often hard, and if something freezes, its temperature goes below 0°C:
+Water freezes to ice at a temperature of 0°C.
+freeze hard The ground had frozen hard.
+
+remote (DISTANT) - (adjective) far away in distance:
+Australia is large, and remote from the great centres of population of the world.
+remote galaxies
+
+remote - (adjective) A remote area, house, or village is a long way from any towns or cities:
+They live in a remote corner of Scotland, miles from the nearest shop.
+a remote mountain village
+
+interrupt (STOP SPEAKING) - (verb) to stop a person from speaking for a short period by something you say or do:*
+She tried to explain what had happened but he kept interrupting her.
+I wish you'd stop interrupting.
+
+sensitive (UPSET) - (adjective) easily upset by the things people say or do, or causing people to be upset, embarrassed, or angry:*
+Her reply showed that she was very sensitive to criticism.
+He was very sensitive about his scar and thought everyone was staring at him.
+
+criticism - (noun) the act of saying that something or someone is bad:
+The designs for the new mosque have attracted widespread criticism.
+
+victim - (noun) someone or something that has been hurt, damaged, or killed or has suffered, either because of the actions of someone or something else, or because of illness or chance:
+to provide financial aid to hurricane/flood, etc. victims
+victims of crime
+
+deserve - (verb) to have earned or to be given something because of the way you have behaved or the qualities you have:
+After all that hard work, you deserve a holiday.
+Chris deserves our special thanks for all his efforts.
+
+earn - (verb) to receive money as payment for work that you do:
+I earn $80,000 a year.
+How much do you earn, if you don't mind me asking?
+
+earn - (verb) to get something that you deserve:
+It's been a tough six months and I feel I've earned a few weeks off.
+
+at least - (idiom) - as much as, or more than, a number or amount:
+It will cost at least $100.
+It will be £200 at the very least.
+
+drought - (noun) a long period when there is little or no rain:
+This year (a) severe drought has ruined the crops.
+
+severe (VERY SERIOUS) - (adjective) causing very great pain, difficulty, worry, damage, etc.; very serious:
+a severe chest infection/leg injury/toothache
+This is a school for children with severe learning difficulties.
+
+mind (BE ANNOYED) - (verb) (used in questions and negatives) to be annoyed or worried by something:
+Do you think he'd mind if I borrowed his book?
+[ + -ing verb ] I don't mind having a dog in the house so long as it's clean.
+
+certificate - (verb) to provide an official document as proof that something has happened or been done:
+She has proposed a series of reforms to the system of reporting and certificating deaths.
+A welder who has been certificated to work at a certain level must be brought in to do the repairs.
+
+certification - (noun) the process of earning an official document, or the act of providing an official document, as proof that something has happened or been done:
+He earned certification to fly single-engine aircraft.
+Fairtrade is a certification that guarantees producers in the developing world are paid a fair price for their crops.
+
+provide (SUPPLY) - (verb) to give someone something that they need:
+This booklet provides useful information about local services.
+All meals are provided at no additional cost.
+
+proof (SHOWING TRUTH) - (noun) a fact or piece of information that shows that something exists or is true:*
+[ + that ] Do they have any proof that it was Hampson who stole the goods?
+I have a suspicion that he's having an affair, though I don't have any concrete (= definite) proof.
+
+postpone - (verb) to delay an event and plan or decide that it should happen at a later date or time:
+They decided to postpone their holiday until next year.
+[ + -ing verb ] We've had to postpone going to France because the children are ill.
+
+defer - (verb) to delay something until a later time:
+My bank has agreed to defer the repayments on my loan.
+[ + -ing verb ] Can we defer making a decision until next week?
+
+responsibility (DUTY) - (noun) something that it is your job or duty to deal with:*
+[ + to infinitive ] It's her responsibility to ensure the project finishes on time.
+She takes her responsibilities as a nurse very seriously.
+
+duty (RESPONSIBILITY) - (noun) something that you have to do because it is part of your job, or something that you feel is the right thing to do:
+The duty of the agency is to act in the best interests of the child.
+[ + to infinitive ] I felt it was my duty to tell them the truth.
+
+distinguish - (verb) to notice or understand the difference between two things, or to make one person or thing seem different from another:
+He's colour-blind and can't distinguish (the difference) between red and green easily.
+I sometimes have difficulty distinguishing Spanish from Portuguese.
+
+disability - (noun) an illness, injury, or condition that makes it difficult for someone to do some things that other people do, and that is usually permanent or lasts for a long time:
+a physical/learning disability
+She is deaf, but refuses to let her disability prevent her from doing what she wants to do.
+
+privacy - (noun) someone's right to keep their personal matters and relationships secret:
+The new law is designed to protect people's privacy.
+
+confusion - (noun) a situation in which people do not understand what is happening, what they should do or who someone or something is:
+There seems to be some confusion over who is actually giving the talk.
+To avoid confusion, the twins never wore the same clothes.
+
+neglect - (verb) to not give enough care or attention to people or things that are your responsibility:
+to neglect your appearance/the house
+He neglects that poor dog - he never takes him for walks or gives him any attention.
+
+neglect - (noun) a situation in which you do not give enough care or attention to someone or something, or the state of not receiving enough care or attention:
+Both parents were found guilty of neglect and their child was taken away from them.
+Over the years the church has fallen into a state of neglect.
+
+liable (RESPONSIBLE) - (adjective) [after verb] having (legal) responsibility for something or someone:*
+The law holds parents liable if a child does not attend school.
+If we lose the case we may be liable for (= have to pay) the costs of the whole trial.
+
+release (MAKE FREE) - (verb) to give freedom or free movement to someone or something:
+He was released from prison after serving two years of a five-year sentence.
+She was arrested for shoplifting but was released on bail (= after paying a sum of money to the court).
+
+arrangement(PLAN) - (noun) a plan for how something will happen:
+make arrangements They'd made all the arrangements for the party.
+[ + to infinitive ] Arrangements were made to move the prisoners to another jail.
+
+arrange (PLAN) - (verb) to plan, prepare for, or organize something:
+I'm trying to arrange my work so that I can have a couple of days off next week.
+arrange something for something / The meeting has been arranged for Wednesday.
