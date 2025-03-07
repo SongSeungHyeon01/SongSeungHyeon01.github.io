@@ -1,2 +1,19 @@
-layout: 정수형 리터럴(Integer Literal)
--
+---
+layout: 2장 자바 기초
+title:  "2023-02-04 "
+---
+
+# "Hello World!"
+public class Hello { //이 문장은 클래스 Hello가 시작되는 문장이다. 클래스(class)는 { 에서 시작하여 } 에서 종료된다.
+<br>
+public static void main(String[] args) { //이 문장은 메소드 main() 이 시작되는 문장이다.
+<br>
+메소드(method)는 특정한 기능을 수행하는 메소드이며 { 에서 시작하여 } 로 끝난다.
+<br>
+System.out.println("Hello World!"); //이 문장은 "Hello World!" 라는 텍스트를 콘솔 창에 출력하는 문장이다.
+<br>
+System.out 은 객체(object)이며 println() 메소드를 호출한다.
+<br>
+} //이 기호에 의하여 메소드가 종료된다.
+<br>
+} //이 기호에 의하여 클래스가 종료된다. 
