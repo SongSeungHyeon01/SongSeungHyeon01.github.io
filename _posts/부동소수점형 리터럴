@@ -1,2 +1,132 @@
-부동소수점형 리터럴이란
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="학점계산기"
+        android:textSize="30sp"
+        android:background="#ff0000"
+        android:textColor="#FFFFFF"/>
+
+    <Switch
+        android:id="@+id/swAgree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="시작하기"
+        android:orientation="vertical"
+        android:visibility="visible"/>
+
+    <LinearLayout
+        android:id="@+id/layoutScore"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="invisible">
+
+        <EditText
+            android:id="@+id/edtName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="이름을 입력하세요"
+            android:textColor="#808080"/>
+
+        <RadioGroup
+            android:id="@+id/rgGrade"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <RadioButton
+                android:id="@+id/rdoFirst"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1학년"/>
+            <RadioButton
+                android:id="@+id/rdoSecond"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2학년"/>
+            <RadioButton
+                android:id="@+id/rdoThird"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3학년"/>
+            <RadioButton
+                android:id="@+id/rdoForth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4학년"/>
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="모든 항목을 100점 만점으로 입력할 것"
+            android:textSize="20sp"
+            android:textColor="#ff0000"/>
+
+        <EditText
+            android:id="@+id/edtMidterm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="중간고사점수입력"
+            android:textColor="#808080"/>
+
+        <EditText
+            android:id="@+id/edtFinal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="기말고사점수입력"
+            android:textColor="#808080"/>
+
+        <EditText
+            android:id="@+id/edtAssignment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="과제점수입력"
+            android:textColor="#808080"/>
+
+
+
+        <EditText
+            android:id="@+id/edtAttendance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="출석점수입력"
+            android:textColor="#808080"/>
+
+        <Button
+            android:id="@+id/btnCal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="학점계산"/>
+
+        <Button
+            android:id="@+id/btnReset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="초기화"/>
+
+        <TextView
+            android:id="@+id/txtResult"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"/>
+        <ImageView
+            android:id="@+id/imgScore"
+            android:layout_width="200dp"
+            android:layout_height="200dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
 
