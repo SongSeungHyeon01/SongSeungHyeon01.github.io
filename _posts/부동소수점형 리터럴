@@ -1,132 +1,137 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/main"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context=".MainActivity">
+package com.example.assignment01;
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="학점계산기"
-        android:textSize="30sp"
-        android:background="#ff0000"
-        android:textColor="#FFFFFF"/>
+import android.location.GnssAntennaInfo;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.CompoundButton;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
+import android.widget.Switch;
+import android.widget.TextView;
+import android.widget.Toast;
 
-    <Switch
-        android:id="@+id/swAgree"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="시작하기"
-        android:orientation="vertical"
-        android:visibility="visible"/>
+import androidx.activity.EdgeToEdge;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.graphics.Insets;
+import androidx.core.view.ViewCompat;
+import androidx.core.view.WindowInsetsCompat;
 
-    <LinearLayout
-        android:id="@+id/layoutScore"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:visibility="invisible">
+public class MainActivity extends AppCompatActivity {
+    Switch swAgree;
+    LinearLayout layoutScore;
+    EditText edtName, edtMidterm, edtFinal, edtAssignment, edtAttendance;
+    RadioGroup rgGrade;
+    RadioButton rdoFirst, rdoSecond, rdoThird, rdoForth;
+    Button btnCal, btnReset;
+    TextView txtResult;
+    ImageView imgScore;
 
-        <EditText
-            android:id="@+id/edtName"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="이름을 입력하세요"
-            android:textColor="#808080"/>
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        EdgeToEdge.enable(this);
+        setContentView(R.layout.activity_main);
+        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
+            Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
+            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
+            return insets;
+        });
 
-        <RadioGroup
-            android:id="@+id/rgGrade"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
-            <RadioButton
-                android:id="@+id/rdoFirst"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="1학년"/>
-            <RadioButton
-                android:id="@+id/rdoSecond"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="2학년"/>
-            <RadioButton
-                android:id="@+id/rdoThird"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="3학년"/>
-            <RadioButton
-                android:id="@+id/rdoForth"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="4학년"/>
-        </RadioGroup>
+        swAgree=findViewById(R.id.swAgree);
+        layoutScore=findViewById(R.id.layoutScore);
+        edtName=findViewById(R.id.edtName);
+        edtMidterm=findViewById(R.id.edtMidterm);
+        edtFinal=findViewById(R.id.edtFinal);
+        edtAssignment=findViewById(R.id.edtAssignment);
+        edtAttendance=findViewById(R.id.edtAttendance);
+        rgGrade=findViewById(R.id.rgGrade);
+        rdoFirst=findViewById(R.id.rdoFirst);
+        rdoSecond=findViewById(R.id.rdoSecond);
+        rdoThird=findViewById(R.id.rdoThird);
+        rdoForth=findViewById(R.id.rdoForth);
+        btnCal=findViewById(R.id.btnCal);
+        btnReset=findViewById(R.id.btnReset);
+        txtResult=findViewById(R.id.txtResult);
+        imgScore=findViewById(R.id.imgScore);
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="모든 항목을 100점 만점으로 입력할 것"
-            android:textSize="20sp"
-            android:textColor="#ff0000"/>
+        swAgree.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                if(isChecked) {
+                    layoutScore.setVisibility(View.VISIBLE);
+                }else{
+                    layoutScore.setVisibility(View.INVISIBLE);
+                    edtName.setText("");
+                    rgGrade.clearCheck();
+                    edtMidterm.setText("");
+                    edtFinal.setText("");
+                    edtAssignment.setText("");
+                    edtAttendance.setText("");
+                    imgScore.setImageResource(0);
 
-        <EditText
-            android:id="@+id/edtMidterm"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="중간고사점수입력"
-            android:textColor="#808080"/>
+                }
+            }
+        });
 
-        <EditText
-            android:id="@+id/edtFinal"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="기말고사점수입력"
-            android:textColor="#808080"/>
+        btnCal.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String name=edtName.getText().toString();
+                int checkedId = rgGrade.getCheckedRadioButtonId();
+                String grade = "";
 
-        <EditText
-            android:id="@+id/edtAssignment"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="과제점수입력"
-            android:textColor="#808080"/>
+                    if (checkedId == R.id.rdoFirst) {
+                        grade = "1학년";
+                    } else if (checkedId == R.id.rdoSecond) {
+                        grade = "2학년";
+                    } else if (checkedId == R.id.rdoThird) {
+                        grade = "3학년";
+                    } else if (checkedId == R.id.rdoForth) {
+                        grade = "4학년";
+                    }
+
+                    int mid = Integer.parseInt(edtMidterm.getText().toString());
+                    int fin = Integer.parseInt(edtFinal.getText().toString());
+                    int ass = Integer.parseInt(edtAssignment.getText().toString());
+                    int att = Integer.parseInt(edtAttendance.getText().toString());
+
+                    double total = mid * 0.3 + fin * 0.3 + ass * 0.2 + att * 0.2;
+
+                    if (total >= 90) {
+                        imgScore.setImageResource(R.drawable.alphabet_a);
+                    } else if (total >= 80) {
+                        imgScore.setImageResource(R.drawable.alphabet_b);
+                    } else if (total >= 70) {
+                        imgScore.setImageResource(R.drawable.alphabet_c);
+                    } else {
+                        imgScore.setImageResource(R.drawable.alphabet_f);
+                    }
 
 
+                    txtResult.setText(grade + name + " 학생의 총점: " + total);
 
-        <EditText
-            android:id="@+id/edtAttendance"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="출석점수입력"
-            android:textColor="#808080"/>
 
-        <Button
-            android:id="@+id/btnCal"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:text="학점계산"/>
+            }
+        });
 
-        <Button
-            android:id="@+id/btnReset"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:text="초기화"/>
+        btnReset.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                edtName.setText("");
+                rgGrade.clearCheck();
+                edtMidterm.setText("");
+                edtFinal.setText("");
+                edtAssignment.setText("");
+                edtAttendance.setText("");
+                imgScore.setImageResource(0);
+            }
+        });
 
-        <TextView
-            android:id="@+id/txtResult"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="20sp"/>
-        <ImageView
-            android:id="@+id/imgScore"
-            android:layout_width="200dp"
-            android:layout_height="200dp"/>
 
-    </LinearLayout>
-
-</LinearLayout>
+    }
+}
 
